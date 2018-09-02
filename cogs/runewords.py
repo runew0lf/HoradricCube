@@ -88,7 +88,7 @@ class Diablo:
                 embed = discord.Embed(title=item['name'],
                                       description=self.lookup_emoji(f"28px{item['name']}_Rune"),
                                       color=ctx.me.color)
-                embed.add_field(name="Ilvl/Clvl", value = item['lvl'])
+                embed.add_field(name="Clvl", value = item['lvl'])
                 embed.add_field(name="Weapon", value = item['weapon'])
                 embed.add_field(name="Armor", value= item['etc'])
                 await ctx.send(embed=embed)

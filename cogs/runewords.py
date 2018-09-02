@@ -9,6 +9,7 @@ import re
 log = logging.getLogger(__name__)
 
 EMPTY = u'\u200b'
+BLANK = u'\u202F'
 
 with open("runeword-data.json", "r") as read_file:
     data = json.load(read_file)
@@ -41,11 +42,13 @@ class Diablo:
             if item['runeword-name']['text'] == matches:
                 embed = discord.Embed(title=f"__{matches}__", description="", color=ctx.me.color)
                 versionlist = [item['runeword-1.11'], item['runeword-1.10'], item['runeword-1.09']]
+                versionnumber= ""
+                versionnumbers = ["1.11", "1.10", "1.09"]
                 for i in range(0, len(versionlist)):
                     if versionlist[i] == "Yes":
-                        versionlist[i] = "✅"
+                        versionnumber = f"✅ {versionnumbers[i]}+"
                     else:
-                        versionlist[i] = "❌"
+                        break
 
                 sockets = []
                 split_runes = re.findall('[A-Z][^A-Z]*', item['runeword-runes'])
@@ -63,9 +66,7 @@ class Diablo:
                 embed.add_field(name="Runes", value="  ".join(split_runes))
                 embed.add_field(name="Sockets", value="  ".join(sockets))
                 embed.add_field(name=EMPTY, value=EMPTY)
-                embed.add_field(name="1.11", value=versionlist[0])
-                embed.add_field(name="1.10", value=versionlist[1])
-                embed.add_field(name="1.09", value=versionlist[2])
+                embed.add_field(name="Versions", value=versionnumber, inline=False)
                 embed.add_field(name="Info", value=info)
                 embed.add_field(name="Properties", value=item['runeword-properties'])
                 await ctx.send(embed=embed)

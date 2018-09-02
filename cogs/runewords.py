@@ -69,13 +69,23 @@ class Diablo:
                 else:
                     ladderonly = "❌"
 
+                properties = item['runeword-properties']
+                if "Both" in properties:
+                    properties = properties.replace("Both\n", "**Both**\n")
+                    properties = properties.replace("Weapons\n", "**Weapons**\n")
+                    properties = properties.replace("Armor\n", "**Armor**\n")
+                    properties = properties.replace("Shields\n", "**Shields**\n")
+                    properties = properties.replace("Swords\n", "**Swords**\n")
+                    properties = properties.replace("Headgear\n", "**Headgear**\n")
+
+
                 embed.add_field(name="Runes", value="  ".join(split_runes))
                 embed.add_field(name="Sockets", value="  ".join(sockets))
                 embed.add_field(name=EMPTY, value=EMPTY)
                 embed.add_field(name="Versions", value=versionnumber)
                 embed.add_field(name="Ladder Only", value=ladderonly)
                 embed.add_field(name="Info", value=info, inline=False)
-                embed.add_field(name="Properties", value=item['runeword-properties'], inline=False)
+                embed.add_field(name="Properties", value=properties, inline=False)
                 await ctx.send(embed=embed)
 
     @commands.command(name='rune')

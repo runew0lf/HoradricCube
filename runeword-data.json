@@ -10,7 +10,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "RalOrtTal\nRal (8) + Ort (9) + Tal (7)\nShields {3}\nClvl Required: 21"
+      "runeword-info": "RalOrtTal\nRal (8) + Ort (9) + Tal (7)\nShields {3}\nClvl Required: 21",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -22,7 +23,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "BerTirUmMalLum\nBer (30) + Tir (3) + Um (22) + Mal (23) + Lum (17)\nAxes, Hammers & Scepters {5}\nClvl Required: 63"
+      "runeword-info": "BerTirUmMalLum\nBer (30) + Tir (3) + Um (22) + Mal (23) + Lum (17)\nAxes, Hammers & Scepters {5}\nClvl Required: 63",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -34,7 +36,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "ThulIoNef\nThul (10) + Io (16) + Nef (4)\nClubs, Hammers, Maces {3}\nClvl Required: 35"
+      "runeword-info": "ThulIoNef\nThul (10) + Io (16) + Nef (4)\nClubs, Hammers, Maces {3}\nClvl Required: 35",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -46,7 +49,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "No",
       "runeword-1.09": "No",
-      "runeword-info": "SolUmUm\nSol (12) + Um (22) + Um (22)\nArmor {3}\nClvl Required: 47"
+      "runeword-info": "SolUmUm\nSol (12) + Um (22) + Um (22)\nArmor {3}\nClvl Required: 47",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -58,7 +62,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "RalOhmSurEth\nRal (8) + Ohm (27) + Sur (29) + Eth (5)\nArmor {4}\nClvl Required: 61"
+      "runeword-info": "RalOhmSurEth\nRal (8) + Ohm (27) + Sur (29) + Eth (5)\nArmor {4}\nClvl Required: 61",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -70,7 +75,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "JahLoMalGul\nJah (31) + Lo (28) + Mal (23) + Gul (25)\nMissile Weapons {4}\nClvl Required: 65"
+      "runeword-info": "JahLoMalGul\nJah (31) + Lo (28) + Mal (23) + Gul (25)\nMissile Weapons {4}\nClvl Required: 65",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -82,7 +88,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "VexHelElEldZodEth\nVex (26) + Hel (15) + El (1) + Eld (2) + Zod (33) + Eth (5)\nAll Weapons {6}\nClvl Required: 69"
+      "runeword-info": "VexHelElEldZodEth\nVex (26) + Hel (15) + El (1) + Eld (2) + Zod (33) + Eth (5)\nAll Weapons {6}\nClvl Required: 69",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -94,7 +101,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "AmnRalMalIstOhm\nAmn (11) + Ral (8) + Mal (23) + Ist (24) + Ohm (27)\nWeapons {5}\nClvl Required: 57"
+      "runeword-info": "AmnRalMalIstOhm\nAmn (11) + Ral (8) + Mal (23) + Ist (24) + Ohm (27)\nWeapons {5}\nClvl Required: 57",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -106,7 +114,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "DolUmBerIst\nDol (14) + Um (22) + Ber (30) + Ist (24)\nArmor {4}\nClvl Required: 63"
+      "runeword-info": "DolUmBerIst\nDol (14) + Um (22) + Ber (30) + Ist (24)\nArmor {4}\nClvl Required: 63",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -118,7 +127,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "FalOhmUm\nFal (19) + Ohm (27) + Um (22)\nClaws {3}\nClvl Required: 57"
+      "runeword-info": "FalOhmUm\nFal (19) + Ohm (27) + Um (22)\nClaws {3}\nClvl Required: 57",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -130,7 +140,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "ShaelUmTir\nShael (13) + Um (22) + Tir (3)\nAxes, Polearms & Swords {3}\nClvl Required: 47"
+      "runeword-info": "ShaelUmTir\nShael (13) + Um (22) + Tir (3)\nAxes, Polearms & Swords {3}\nClvl Required: 47",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -142,7 +153,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "HelElVexOrtGul\nHel (15) + El (1) + Vex (26) + Ort (9) + Gul (25)\nSwords & Axes {5}\nClvl Required: 55"
+      "runeword-info": "HelElVexOrtGul\nHel (15) + El (1) + Vex (26) + Ort (9) + Gul (25)\nSwords & Axes {5}\nClvl Required: 55",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -154,7 +166,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "LemIstIo\nLem (20) + Ist (24) + Io (16)\nHeadgear (all types) {3}\nClvl Required: 51"
+      "runeword-info": "LemIstIo\nLem (20) + Ist (24) + Io (16)\nHeadgear (all types) {3}\nClvl Required: 51",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -166,7 +179,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "VexLoBerJahKo\nVex (26) + Lo (28) + Ber (30) + Jah (31) + Ko (18)\nPolearms & Swords {5}\nClvl Required: 65"
+      "runeword-info": "VexLoBerJahKo\nVex (26) + Lo (28) + Ber (30) + Jah (31) + Ko (18)\nPolearms & Swords {5}\nClvl Required: 65",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -178,7 +192,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "JahIthBer\nJah (31) + Ith (6) + Ber (30)\nArmor {4}\nClvl Required: 65"
+      "runeword-info": "JahIthBer\nJah (31) + Ith (6) + Ber (30)\nArmor {4}\nClvl Required: 65",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -190,7 +205,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "HelOhmUmLoCham\nHel (15) + Ohm (27) + Um (22) + Lo (28) + Cham (32)\nAxes, Hammers & Polearms {5}\nClvl Required: 67"
+      "runeword-info": "HelOhmUmLoCham\nHel (15) + Ohm (27) + Um (22) + Lo (28) + Cham (32)\nAxes, Hammers & Polearms {5}\nClvl Required: 67",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -202,7 +218,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "SurLoSol\nSur (29) + Lo (28) + Sol (12)\nArmor, Shields {3}\nClvl Required: 61"
+      "runeword-info": "SurLoSol\nSur (29) + Lo (28) + Sol (12)\nArmor, Shields {3}\nClvl Required: 61",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -214,7 +231,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "IoJahPul\nIo (16) + Jah (31) + Pul (21)\nHeadgear, Shields {3}\nClvl Required: 65"
+      "runeword-info": "IoJahPul\nIo (16) + Jah (31) + Pul (21)\nHeadgear, Shields {3}\nClvl Required: 65",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -226,7 +244,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "ShaelUmThul\nShael (13) + Um (22) + Thul (10)\nArmor {3}\nClvl Required: 47"
+      "runeword-info": "ShaelUmThul\nShael (13) + Um (22) + Thul (10)\nArmor {3}\nClvl Required: 47",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -238,7 +257,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "TirTalAmn\nTir (3) + Tal (7) + Amn (11)\nMissile Weapons {3}\nClvl Required: 25"
+      "runeword-info": "TirTalAmn\nTir (3) + Tal (7) + Amn (11)\nMissile Weapons {3}\nClvl Required: 25",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -250,7 +270,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "No",
       "runeword-1.09": "No",
-      "runeword-info": "PulRalSol\nPul (21) + Ral (8) + Sol (12)\nArmor {3}\nClvl Required: 45"
+      "runeword-info": "PulRalSol\nPul (21) + Ral (8) + Sol (12)\nArmor {3}\nClvl Required: 45",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -262,7 +283,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "AmnBerIstSolSur\nAmn (11) + Ber (30) + Ist (24) + Sol (12) + Sur (29)\nAll Melee Weapons {5}\nClvl Required: 63"
+      "runeword-info": "AmnBerIstSolSur\nAmn (11) + Ber (30) + Ist (24) + Sol (12) + Sur (29)\nAll Melee Weapons {5}\nClvl Required: 63",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -274,7 +296,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "VexOhmIstDol\nVex (26) + Ohm (27) + Ist (24) + Dol (14)\nShields {4}\nClvl Required: 57"
+      "runeword-info": "VexOhmIstDol\nVex (26) + Ohm (27) + Ist (24) + Dol (14)\nShields {4}\nClvl Required: 57",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -286,7 +309,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "OhmJahLemEld\nOhm (27) + Jah (31) + Lem (20) + Eld (2)\nMissile Weapons {4}\nClvl Required: 65"
+      "runeword-info": "OhmJahLemEld\nOhm (27) + Jah (31) + Lem (20) + Eld (2)\nMissile Weapons {4}\nClvl Required: 65",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -298,7 +322,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "FalOhmOrtJah\nFal (19) + Ohm (27) + Ort (9) + Jah (31)\nAxes & Hammers {4}\nClvl Required: 65"
+      "runeword-info": "FalOhmOrtJah\nFal (19) + Ohm (27) + Ort (9) + Jah (31)\nAxes & Hammers {4}\nClvl Required: 65",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -310,7 +335,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "ElSolDolLo\nEl (1) + Sol (12) + Dol (14) + Lo (28)\nWeapons & Armor {4}\nClvl Required: 59"
+      "runeword-info": "ElSolDolLo\nEl (1) + Sol (12) + Dol (14) + Lo (28)\nWeapons & Armor {4}\nClvl Required: 59",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -322,7 +348,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "JahGulEth\nJah (31) + Gul (25) + Eth (5)\nAll Melee Weapons {3}\nClvl Required: 65"
+      "runeword-info": "JahGulEth\nJah (31) + Gul (25) + Eth (5)\nAll Melee Weapons {3}\nClvl Required: 65",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -334,7 +361,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "FalUmPul\nFal (19)+ Um (22) + Pul (21)\nArmor {3}\nClvl Required: 47"
+      "runeword-info": "FalUmPul\nFal (19)+ Um (22) + Pul (21)\nArmor {3}\nClvl Required: 47",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -346,7 +374,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "EthTirLoMalRal\nEth (5) + Tir (3) + Lo (28) + Mal (23) + Ral (8)\nSwords & Axes {5}\nClvl Required: 59"
+      "runeword-info": "EthTirLoMalRal\nEth (5) + Tir (3) + Lo (28) + Mal (23) + Ral (8)\nSwords & Axes {5}\nClvl Required: 59",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -358,7 +387,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "SurChamAmnLo\nSur (29) + Cham (32) + Amn (11) + Lo (28)\nAll Weapons {4}\nClvl Required: 67"
+      "runeword-info": "SurChamAmnLo\nSur (29) + Cham (32) + Amn (11) + Lo (28)\nAll Weapons {4}\nClvl Required: 67",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -370,7 +400,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "TirIthSolKo\nTir (3) + Ith (6) + Sol (12) + Ko (18)\nMissile Weapons {4}\nClvl Required: 39"
+      "runeword-info": "TirIthSolKo\nTir (3) + Ith (6) + Sol (12) + Ko (18)\nMissile Weapons {4}\nClvl Required: 39",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -382,7 +413,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "KoVexPulThul\nKo (18) + Vex (26) + Pul (21) + Thul (10)\nStaves & Maces {4}\nClvl Required:55"
+      "runeword-info": "KoVexPulThul\nKo (18) + Vex (26) + Pul (21) + Thul (10)\nStaves & Maces {4}\nClvl Required:55",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -394,7 +426,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "EthRalOrtTal\nEth (5) + Ral (8) + Ort (9) + Tal (7)\nScepters {4}\nClvl Required: 23"
+      "runeword-info": "EthRalOrtTal\nEth (5) + Ral (8) + Ort (9) + Tal (7)\nScepters {4}\nClvl Required: 23",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -406,7 +439,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "AmnElIthTirSol\nAmn (11) + El (1) + Ith (6) + Tir (3) + Sol (12)\nAll Melee Weapons {5}\nClvl Required: 27"
+      "runeword-info": "AmnElIthTirSol\nAmn (11) + El (1) + Ith (6) + Tir (3) + Sol (12)\nAll Melee Weapons {5}\nClvl Required: 27",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -418,7 +452,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "AmnShaelJahLo\nAmn (11) + Shael (13) + Jah (31) + Lo (28)\nMissile Weapons {4}\nClvl Required: 65"
+      "runeword-info": "AmnShaelJahLo\nAmn (11) + Shael (13) + Jah (31) + Lo (28)\nMissile Weapons {4}\nClvl Required: 65",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -430,7 +465,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "BerMalBerIst\nBer (30) + Mal (23) + Ber (30) + Ist (24)\nPolearms {4}\nClvl Required: 63"
+      "runeword-info": "BerMalBerIst\nBer (30) + Mal (23) + Ber (30) + Ist (24)\nPolearms {4}\nClvl Required: 63",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -442,7 +478,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "RalTirTalSol\nRal (8) + Tir (3) + Tal (7) + Sol (12)\nPolearms & Staves {4}\nClvl Required: 27"
+      "runeword-info": "RalTirTalSol\nRal (8) + Tir (3) + Tal (7) + Sol (12)\nPolearms & Staves {4}\nClvl Required: 27",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -454,7 +491,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "AmnRalThul\nAmn (11) + Ral (8) + Thul (10) \nSwords & Scepters {3}\nClvl Required: 25"
+      "runeword-info": "AmnRalThul\nAmn (11) + Ral (8) + Thul (10) \nSwords & Scepters {3}\nClvl Required: 25",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -466,7 +504,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "MalUmGulFal\nMal (23) + Um (22) + Gul (25) + Fal (19)\nSwords & Axes {4}\nClvl Required: 53"
+      "runeword-info": "MalUmGulFal\nMal (23) + Um (22) + Gul (25) + Fal (19)\nSwords & Axes {4}\nClvl Required: 53",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -478,7 +517,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "JahMalJahSurJahBer\nJah (31) + Mal (23) + Jah (31) + Sur (29) + Jah (31) + Ber (30)\nAxes, Hammers & Swords {6}\nClvl Required: 65"
+      "runeword-info": "JahMalJahSurJahBer\nJah (31) + Mal (23) + Jah (31) + Sur (29) + Jah (31) + Ber (30)\nAxes, Hammers & Swords {6}\nClvl Required: 65",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -490,7 +530,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "AmnLemKo\nAmn (11) + Lem (20) + Ko (18)\nHammers, Scepters & Swords {3}\nClvl Required: 43"
+      "runeword-info": "AmnLemKo\nAmn (11) + Lem (20) + Ko (18)\nHammers, Scepters & Swords {3}\nClvl Required: 43",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -502,7 +543,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "TirRal\nTir (3) + Ral (8)\nStaves {2}\nClvl Required: 19"
+      "runeword-info": "TirRal\nTir (3) + Ral (8)\nStaves {2}\nClvl Required: 19",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -514,7 +556,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "HelLumFal\nHel (15) + Lum (17) + Fal (19)\nArmor {3}\nClvl Required: 41"
+      "runeword-info": "HelLumFal\nHel (15) + Lum (17) + Fal (19)\nArmor {3}\nClvl Required: 41",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -526,7 +569,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "OrtSol\nOrt (9) + Sol (12)\nHeadgear {2}\nClvl Required: 27"
+      "runeword-info": "OrtSol\nOrt (9) + Sol (12)\nHeadgear {2}\nClvl Required: 27",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -538,7 +582,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "IthElEth\nIth (6) + El (1) + Eth (5)\nAll Melee Weapons {3}\nClvl Required: 15"
+      "runeword-info": "IthElEth\nIth (6) + El (1) + Eth (5)\nAll Melee Weapons {3}\nClvl Required: 15",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -550,7 +595,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "ShaelKoNef\nShael (13) + Ko (18) + Nef (4)\nMissile Weapons {3}\nClvl Required: 39"
+      "runeword-info": "ShaelKoNef\nShael (13) + Ko (18) + Nef (4)\nMissile Weapons {3}\nClvl Required: 39",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -562,7 +608,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "LumIoSolEth\nLum (17) + Io (16) + Sol (12) + Eth (5)\nStaves {4}\nClvl Required: 37"
+      "runeword-info": "LumIoSolEth\nLum (17) + Io (16) + Sol (12) + Eth (5)\nStaves {4}\nClvl Required: 37",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -574,7 +621,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "No",
       "runeword-1.09": "No",
-      "runeword-info": "HelAmnNef\nHel (15) + Amn (11) + Nef (4)\nArmor {3}\nClvl Required: 25"
+      "runeword-info": "HelAmnNef\nHel (15) + Amn (11) + Nef (4)\nArmor {3}\nClvl Required: 25",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -586,7 +634,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "TalEth\nTal (7) + Eth (5)\nArmor {2}\nClvl Required: 17"
+      "runeword-info": "TalEth\nTal (7) + Eth (5)\nArmor {2}\nClvl Required: 17",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -598,7 +647,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "NefTir\nNef (4) + Tir (3)\nHeadgear (all types) {2}\nClvl Required: 13"
+      "runeword-info": "NefTir\nNef (4) + Tir (3)\nHeadgear (all types) {2}\nClvl Required: 13",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -610,7 +660,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "ShaelPulMalLum\nShael (13) + Pul (21) + Mal (23) + Lum (17)\nAxes, Maces & Swords {4}\nClvl Required: 59"
+      "runeword-info": "ShaelPulMalLum\nShael (13) + Pul (21) + Mal (23) + Lum (17)\nAxes, Maces & Swords {4}\nClvl Required: 59",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -622,7 +673,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "HelKoThulEthFal\nHel (15) + Ko (18) + Thul (10) + Eth (5) + Fal (19)\nPolearms {5}\nClvl Required: 41"
+      "runeword-info": "HelKoThulEthFal\nHel (15) + Ko (18) + Thul (10) + Eth (5) + Fal (19)\nPolearms {5}\nClvl Required: 41",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -634,7 +686,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "DolOrtEldLem\nDol (14) + Ort (9) + Eld (2) + Lem (20)\nAll Weapons {4}\nClvl Required: 43"
+      "runeword-info": "DolOrtEldLem\nDol (14) + Ort (9) + Eld (2) + Lem (20)\nAll Weapons {4}\nClvl Required: 43",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -646,7 +699,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "No",
       "runeword-1.09": "No",
-      "runeword-info": "ShaelThulAmn\nShael (13) + Thul (10) + Amn (11)\nArmor {3}\nClvl Required: 29"
+      "runeword-info": "ShaelThulAmn\nShael (13) + Thul (10) + Amn (11)\nArmor {3}\nClvl Required: 29",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -658,7 +712,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "VexVexLoJah\nVex (26) + Vex (26) + Lo (28) + Jah (31)\nWeapons & Shields {4}\nClvl Required: 65"
+      "runeword-info": "VexVexLoJah\nVex (26) + Vex (26) + Lo (28) + Jah (31)\nWeapons & Shields {4}\nClvl Required: 65",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -670,7 +725,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "ChamSurIoLo\nCham (32) + Sur (29) + Io (16) + Lo (28)\nPolearms {4}\nClvl Required: 67"
+      "runeword-info": "ChamSurIoLo\nCham (32) + Sur (29) + Io (16) + Lo (28)\nPolearms {4}\nClvl Required: 67",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -682,7 +738,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "No",
       "runeword-1.09": "No",
-      "runeword-info": "RalGulEld\nRal (8) + Gul (25) + Eld (2)\nArmor {3}\nClvl Required: 55"
+      "runeword-info": "RalGulEld\nRal (8) + Gul (25) + Eld (2)\nArmor {3}\nClvl Required: 55",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -694,7 +751,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "MalTir\nMal (23) + Tir (3)\nArmor {2}\nClvl Required: 49"
+      "runeword-info": "MalTir\nMal (23) + Tir (3)\nArmor {2}\nClvl Required: 49",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -706,7 +764,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "NefSolIth\nNef (4) + Sol (12) + Ith (6)\nHeadgear {3}\nClvl Required: 27"
+      "runeword-info": "NefSolIth\nNef (4) + Sol (12) + Ith (6)\nHeadgear {3}\nClvl Required: 27",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -718,7 +777,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "No",
       "runeword-1.09": "No",
-      "runeword-info": "OrtMalIth\nOrt (9) + Mal (23) + Ith (6)\nArmor {3}\nClvl Required: 49"
+      "runeword-info": "OrtMalIth\nOrt (9) + Mal (23) + Ith (6)\nArmor {3}\nClvl Required: 49",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -730,7 +790,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "ShaelEth\nShael (13) + Eth (5)\nShields {2}\nClvl Required: 29"
+      "runeword-info": "ShaelEth\nShael (13) + Eth (5)\nShields {2}\nClvl Required: 29",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -742,7 +803,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "HelKoLemGul\nHel (15) + Ko (18) + Lem (20) + Gul (25)\nPolearms & Scepters {4}\nClvl Required: 53"
+      "runeword-info": "HelKoLemGul\nHel (15) + Ko (18) + Lem (20) + Gul (25)\nPolearms & Scepters {4}\nClvl Required: 53",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -754,7 +816,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "KoKoMal\nKo (18) + Ko (18) + Mal (23)\nShields {3}\nClvl Required: 49"
+      "runeword-info": "KoKoMal\nKo (18) + Ko (18) + Mal (23)\nShields {3}\nClvl Required: 49",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -766,7 +829,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "DolEldHelIstTirVex\nDol (14) + Eld (2) + Hel (15) + Ist (24) + Tir (3) + Vex (26) \nWeapons {6}\nClvl Required: 55"
+      "runeword-info": "DolEldHelIstTirVex\nDol (14) + Eld (2) + Hel (15) + Ist (24) + Tir (3) + Vex (26) \nWeapons {6}\nClvl Required: 55",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -778,7 +842,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "NefLum\nNef (4) + Lum (17)\nArmor {2}\nClvl Required: 37"
+      "runeword-info": "NefLum\nNef (4) + Lum (17)\nArmor {2}\nClvl Required: 37",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -790,7 +855,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "TalThulOrtAmn\nTal (7) + Thul (10) + Ort (9) + Amn (11)\nShields & Swords {4}\nClvl Required: 25"
+      "runeword-info": "TalThulOrtAmn\nTal (7) + Thul (10) + Ort (9) + Amn (11)\nShields & Swords {4}\nClvl Required: 25",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -802,7 +868,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "EthLum\nEth (5) + Lum (17)\nShields {2}\nClvl Required: 37"
+      "runeword-info": "EthLum\nEth (5) + Lum (17)\nShields {2}\nClvl Required: 37",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -814,7 +881,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "TirEl\nTir (3) + El (1)\nSwords, Axes, Maces {2}\nClvl Required: 13"
+      "runeword-info": "TirEl\nTir (3) + El (1)\nSwords, Axes, Maces {2}\nClvl Required: 13",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -826,7 +894,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "ShaelUmPulLum\nShael (13) + Um (22) + Pul (21) + Lum (17)\nArmor {4}\nClvl Required: 47"
+      "runeword-info": "ShaelUmPulLum\nShael (13) + Um (22) + Pul (21) + Lum (17)\nArmor {4}\nClvl Required: 47",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -838,7 +907,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "AmnTir\nAmn (11) + Tir (3)\nMelee Weapons {2}\nClvl Required: 25"
+      "runeword-info": "AmnTir\nAmn (11) + Tir (3)\nMelee Weapons {2}\nClvl Required: 25",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -850,7 +920,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "No",
       "runeword-1.09": "No",
-      "runeword-info": "ShaelThulLem\nShael (13) + Thul (10) + Lem (20)\nArmor {3}\nClvl Required: 43"
+      "runeword-info": "ShaelThulLem\nShael (13) + Thul (10) + Lem (20)\nArmor {3}\nClvl Required: 43",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -862,7 +933,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "TalDolMal\nTal (7) + Dol (14) + Mal (23)\nAll Weapons {3}\nClvl Required: 49"
+      "runeword-info": "TalDolMal\nTal (7) + Dol (14) + Mal (23)\nAll Weapons {3}\nClvl Required: 49",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -874,7 +946,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "LemKoElEld\nLem (20) + Ko (18) + El (1) + Eld (2)\nMaces & Swords {4}\nClvl Required: 43"
+      "runeword-info": "LemKoElEld\nLem (20) + Ko (18) + El (1) + Eld (2)\nMaces & Swords {4}\nClvl Required: 43",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -886,7 +959,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "LemKoTir\nLem (20) + Ko (18) + Tir (3)\nArmor {3}\nClvl Required: 43"
+      "runeword-info": "LemKoTir\nLem (20) + Ko (18) + Tir (3)\nArmor {3}\nClvl Required: 43",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -898,7 +972,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "DolIo\nDol (14) + Io (16)\nWands {2}\nClvl Required: 35"
+      "runeword-info": "DolIo\nDol (14) + Io (16)\nWands {2}\nClvl Required: 35",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -910,7 +985,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "SurEl\nSur (29) + El (1)\nMelee Weapons {2}\nClvl Required: 61"
+      "runeword-info": "SurEl\nSur (29) + El (1)\nMelee Weapons {2}\nClvl Required: 61",
+      "ladder-only": "No"
     },
     {
       "runeword-name": {
@@ -922,7 +998,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "No",
-      "runeword-info": "PulLumBerMal\nPul (21) + Lum (17) + Ber (30) + Mal (23)\nMissile Weapons {4}\nClvl Required: 63"
+      "runeword-info": "PulLumBerMal\nPul (21) + Lum (17) + Ber (30) + Mal (23)\nMissile Weapons {4}\nClvl Required: 63",
+      "ladder-only": "Yes"
     },
     {
       "runeword-name": {
@@ -934,7 +1011,8 @@
       "runeword-1.11": "Yes",
       "runeword-1.10": "Yes",
       "runeword-1.09": "Yes",
-      "runeword-info": "OrtEth\nOrt (9) + Eth (5)\nMissile Weapons {2}\nClvl Required: 21"
+      "runeword-info": "OrtEth\nOrt (9) + Eth (5)\nMissile Weapons {2}\nClvl Required: 21",
+      "ladder-only": "No"
     }
   ]
 }

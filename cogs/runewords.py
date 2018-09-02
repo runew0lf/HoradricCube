@@ -63,12 +63,19 @@ class Diablo:
                 info = re.sub("([{]).*?([}])", "", info)
                 info = re.sub("([/(]).*?([/)])", "", info)
 
+                ladderonly = ""
+                if item['ladder-only'] == "Yes":
+                    ladderonly = "✅"
+                else:
+                    ladderonly = "❌"
+
                 embed.add_field(name="Runes", value="  ".join(split_runes))
                 embed.add_field(name="Sockets", value="  ".join(sockets))
                 embed.add_field(name=EMPTY, value=EMPTY)
-                embed.add_field(name="Versions", value=versionnumber, inline=False)
-                embed.add_field(name="Info", value=info)
-                embed.add_field(name="Properties", value=item['runeword-properties'])
+                embed.add_field(name="Versions", value=versionnumber)
+                embed.add_field(name="Ladder Only", value=ladderonly)
+                embed.add_field(name="Info", value=info, inline=False)
+                embed.add_field(name="Properties", value=item['runeword-properties'], inline=False)
                 await ctx.send(embed=embed)
 
     @commands.command(name='rune')

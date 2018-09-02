@@ -39,7 +39,7 @@ class Diablo:
         matches = difflib.get_close_matches(rune, runeword_array, 1, cutoff=0.4)[0]
         for item in data['collection1']:
             if item['runeword-name']['text'] == matches:
-                embed = discord.Embed(title=matches, description="", color=ctx.me.color)
+                embed = discord.Embed(title=f"__{matches}__", description="", color=ctx.me.color)
                 versionlist = [item['runeword-1.11'], item['runeword-1.10'], item['runeword-1.09']]
                 for i in range(0, len(versionlist)):
                     if versionlist[i] == "Yes":
@@ -58,6 +58,7 @@ class Diablo:
 
                 info = "\n".join(info)
                 info = re.sub("([{]).*?([}])", "", info)
+                info = re.sub("([/(]).*?([/)])", "", info)
 
                 embed.add_field(name="Runes", value="  ".join(split_runes))
                 embed.add_field(name="Sockets", value="  ".join(sockets))

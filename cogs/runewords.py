@@ -47,6 +47,8 @@ class Diablo:
                 for i in range(0, len(versionlist)):
                     if versionlist[i] == "Yes":
                         versionnumber = f"✅ {versionnumbers[i]}+"
+                        if item['ladder-only'] == "Yes":
+                            versionnumber = versionnumber + " (Ladder Only)"
                     else:
                         break
 
@@ -63,12 +65,6 @@ class Diablo:
                 info = re.sub("([{]).*?([}])", "", info)
                 info = re.sub("([/(]).*?([/)])", "", info)
 
-                ladderonly = ""
-                if item['ladder-only'] == "Yes":
-                    ladderonly = "✅"
-                else:
-                    ladderonly = "❌"
-
                 properties = item['runeword-properties']
                 if "Both" in properties:
                     properties = properties.replace("Both\n", "**Both**\n")
@@ -81,9 +77,7 @@ class Diablo:
 
                 embed.add_field(name="Runes", value="  ".join(split_runes))
                 embed.add_field(name="Sockets", value="  ".join(sockets))
-                embed.add_field(name=EMPTY, value=EMPTY)
-                embed.add_field(name="Versions", value=versionnumber)
-                embed.add_field(name="Ladder Only", value=ladderonly)
+                embed.add_field(name="Versions", value=versionnumber, inline=True)
                 embed.add_field(name="Info", value=info, inline=False)
                 embed.add_field(name="Properties", value=properties, inline=False)
                 await ctx.send(embed=embed)

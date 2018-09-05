@@ -4,6 +4,7 @@ import logging
 import json
 import difflib
 import re
+import config
 #https://discordapp.com/oauth2/authorize?&client_id=485773594543128597&scope=bot&permissions=8
 
 log = logging.getLogger(__name__)
@@ -21,15 +22,23 @@ for word in data['collection1']:
 with open("runes.json", "r") as read_file:
     runes_data = json.load(read_file)
 
+with open("gems.json", "r") as read_file:
+    gems_data = json.load(read_file)
+
+gems_array = []
+for word in gems_data:
+    gems_array.append(word['name'])
+
 class Diablo:
     def __init__(self, bot):
         self.bot = bot
 
     def lookup_emoji(self, name):
-        emojiguild = self.bot.get_guild(469882233751076874)
-        emoji1 = discord.utils.get(emojiguild.emojis, name=str(name))
-        if emoji1 is not None:
-            return f"<:{emoji1.name}:{emoji1.id}>"
+        for guild in config.EMOTESERVERID:
+            emojiguild = self.bot.get_guild(guild)
+            emoji1 = discord.utils.get(emojiguild.emojis, name=str(name))
+            if emoji1 is not None:
+                return f"<:{emoji1.name}:{emoji1.id}>"
         return f"**{name}**"
 
     @commands.command(name='runeword')
@@ -97,7 +106,23 @@ class Diablo:
                 embed.add_field(name="Armor", value= item['etc'])
                 await ctx.send(embed=embed)
 
-
+    @commands.command(name='gem')
+    async def gem(self, ctx, *, gem):
+        """
+        Displays rune information
+        """
+        matches = difflib.get_close_matches(gem, gems_array, 1, cutoff=0.4)[0]
+        for item in gems_data:
+            if item['name'] == matches:
+                emote = item['name'].lower().replace(" ", "")
+                embed = discord.Embed(title=matches,
+                                      description=self.lookup_emoji(f"{emote}"),
+                                      color=ctx.me.color)
+                embed.add_field(name="Clvl", value = item['lvl'])
+                embed.add_field(name="Weapon", value = item['weapon'])
+                embed.add_field(name="Armor & Helms", value= item['armour'])
+                embed.add_field(name="Shield", value= item['shields'])
+                await ctx.send(embed=embed)
 
 
 def setup(bot):

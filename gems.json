@@ -1,0 +1,247 @@
+[
+    {
+        "weapon": "Steals 2% life, 1% Mana",
+        "lvl": "1",
+        "name": "Chipped Skull",
+        "shields": "Attacker Takes Damage of 4",
+        "armour": "Replenish Life +2, Regenerate Mana 8%"
+    },
+    {
+        "weapon": "Steals 2% life, 2% Mana",
+        "lvl": "5",
+        "name": "Flawed Skull",
+        "shields": "Attacker Takes Damage of 8",
+        "armour": "Replenish Life +3, Regenerate Mana 8%"
+    },
+    {
+        "weapon": "Steals 3% life, 2% Mana",
+        "lvl": "12",
+        "name": "Skull",
+        "shields": "Attacker Takes Damage of 12",
+        "armour": "Replenish Life +3, Regenerate Mana 12%"
+    },
+    {
+        "weapon": "Steals 3% life, 3% Mana",
+        "lvl": "15",
+        "name": "Flawless Skull",
+        "shields": "Attacker Takes Damage of 16",
+        "armour": "Replenish Life +4, Regenerate Mana 12%"
+    },
+    {
+        "weapon": "Steals 4% life, 3% Mana",
+        "lvl": "18",
+        "name": "Perfect Skull",
+        "shields": "Attacker Takes Damage of 20",
+        "armour": "Replenish Life +5, Regenerate Mana 19%"
+    },
+    {
+        "weapon": "+40 to Attack Rating",
+        "lvl": "1",
+        "name": "Chipped Amethyst",
+        "shields": "+8 Defense",
+        "armour": "+3 to Strength"
+    },
+    {
+        "weapon": "+60 to Attack Rating",
+        "lvl": "5",
+        "name": "Flawed Amethyst",
+        "shields": "+12 Defense",
+        "armour": "+4 to Strength"
+    },
+    {
+        "weapon": "+80 to Attack Rating",
+        "lvl": "12",
+        "name": "Amethyst",
+        "shields": "+18 Defense",
+        "armour": "+6 to Strength"
+    },
+    {
+        "weapon": "+100 to Attack Rating",
+        "lvl": "15",
+        "name": "Flawless Amethyst",
+        "shields": "+24 Defense",
+        "armour": "+8 to Strength"
+    },
+    {
+        "weapon": "+150 to Attack Rating",
+        "lvl": "18",
+        "name": "Perfect Amethyst",
+        "shields": "+30 Defense",
+        "armour": "+10 to Strength"
+    },
+    {
+        "weapon": "1-3 Cold Damage - 1.0 sec Duration",
+        "lvl": "1",
+        "name": "Chipped Sapphire",
+        "shields": "12% Resist Cold",
+        "armour": "+10 Max Mana"
+    },
+    {
+        "weapon": "3-5 Cold Damage - 1.4 sec Duration",
+        "lvl": "5",
+        "name": "Flawed Sapphire",
+        "shields": "16% Resist Cold",
+        "armour": "+17 Max Mana"
+    },
+    {
+        "weapon": "4-7 Cold Damage - 2.0 sec Duration",
+        "lvl": "12",
+        "name": "Sapphire",
+        "shields": "22% Resist Cold",
+        "armour": "+24 Max Mana"
+    },
+    {
+        "weapon": "6-10 Cold Damage - 2.4 sec Duration",
+        "lvl": "15",
+        "name": "Flawless Sapphire",
+        "shields": "28% Resist Cold",
+        "armour": "+31 Max Mana"
+    },
+    {
+        "weapon": "10-14 Cold Damage - 3.0 sec Duration",
+        "lvl": "18",
+        "name": "Perfect Sapphire",
+        "shields": "40% Resist Cold",
+        "armour": "+38 Max Mana"
+    },
+    {
+        "weapon": "+10 Poison Damage over 3 Seconds",
+        "lvl": "1",
+        "name": "Chipped Emerald",
+        "shields": "12% Resist Poison",
+        "armour": "+3 to Dexterity"
+    },
+    {
+        "weapon": "+20 Poison Damage over 4 Seconds",
+        "lvl": "5",
+        "name": "Flawed Emerald",
+        "shields": "16% Resist Poison",
+        "armour": "+4 to Dexterity"
+    },
+    {
+        "weapon": "+40 Poison Damage over 5 Seconds",
+        "lvl": "12",
+        "name": "Emerald",
+        "shields": "22% Resist Poison",
+        "armour": "+6 to Dexterity"
+    },
+    {
+        "weapon": "+60 Poison Damage over 6 Seconds",
+        "lvl": "15",
+        "name": "Flawless Emerald",
+        "shields": "28% Resist Poison",
+        "armour": "+8 to Dexterity"
+    },
+    {
+        "weapon": "+100 Poison Damage over 7 Seconds",
+        "lvl": "18",
+        "name": "Perfect Emerald",
+        "shields": "40% Resist Poison",
+        "armour": "+10 to Dexterity"
+    },
+    {
+        "weapon": "3-4 Fire Damage",
+        "lvl": "1",
+        "name": "Chipped Ruby",
+        "shields": "12% Resist Fire",
+        "armour": "+10 to Life"
+    },
+    {
+        "weapon": "5-8 Fire Damage",
+        "lvl": "5",
+        "name": "Flawed Ruby",
+        "shields": "16% Resist Fire",
+        "armour": "+17 to Life"
+    },
+    {
+        "weapon": "8-12 Fire Damage",
+        "lvl": "12",
+        "name": "Ruby",
+        "shields": "22% Resist Fire",
+        "armour": "+24 to Life"
+    },
+    {
+        "weapon": "10-16 Fire Damage",
+        "lvl": "15",
+        "name": "Flawless Ruby",
+        "shields": "28% Resist Fire",
+        "armour": "+31 to Life"
+    },
+    {
+        "weapon": "15-20 Fire Damage",
+        "lvl": "18",
+        "name": "Perfect Ruby",
+        "shields": "40% Resist Fire",
+        "armour": "+38 to Life"
+    },
+    {
+        "weapon": "+28% Damage vs. Undead",
+        "lvl": "1",
+        "name": "Chipped Diamond",
+        "shields": "All Resistances +6%",
+        "armour": "+20 to attack Rating"
+    },
+    {
+        "weapon": "+34% Damage vs. Undead",
+        "lvl": "5",
+        "name": "Flawed Diamond",
+        "shields": "All Resistances +8%",
+        "armour": "+40 to attack Rating"
+    },
+    {
+        "weapon": "+44% Damage vs. Undead",
+        "lvl": "12",
+        "name": "Diamond",
+        "shields": "All Resistances +11%",
+        "armour": "+60 to attack Rating"
+    },
+    {
+        "weapon": "+54% Damage vs. Undead",
+        "lvl": "15",
+        "name": "Flawless Diamond",
+        "shields": "All Resistances +14%",
+        "armour": "+80 to attack Rating"
+    },
+    {
+        "weapon": "+68% Damage vs. Undead",
+        "lvl": "18",
+        "name": "Perfect Diamond",
+        "shields": "All Resistances +19%",
+        "armour": "+100 to attack Rating"
+    },
+    {
+        "weapon": "1-8 Lightning Damage",
+        "lvl": "1",
+        "name": "Chipped Topaz",
+        "shields": "12% Resist Lightning",
+		"armour": "+9% Chance to Find Magic Items"
+    },
+    {
+        "weapon": "1-14 Lightning Damage",
+        "lvl": "5",
+        "name": "Flawed Topaz",
+        "shields": "16% Resist Lightning",
+		"armour": "+13% Chance to Find Magic Items"
+    },
+    {
+        "weapon": "1-22 Lightning Damage",
+        "lvl": "12",
+        "name": "Topaz",
+        "shields": "22% Resist Lightning",
+		"armour": "+16% Chance to Find Magic Items"
+    },
+    {
+        "weapon": "1-30 Lightning Damage",
+        "lvl": "15",
+        "name": "Flawless Topaz",
+        "shields": "28% Resist Lightning",
+		"armour": "+20% Chance to Find Magic Items"
+    },
+    {
+        "weapon": "1-40 Lightning Damage",
+        "lvl": "18",
+        "name": "Perfect Topaz",
+        "shields": "40% Resist Lightning",
+		"armour": "+24% Chance to Find Magic Items"
+    }
+]

@@ -29,6 +29,14 @@ gems_array = []
 for word in gems_data:
     gems_array.append(word['name'])
 
+with open("sets.json", "r") as read_file:
+    sets_data = json.load(read_file)
+
+sets_array = []
+for word in sets_data:
+    sets_array.append(word['name'])
+
+
 class Diablo:
     def __init__(self, bot):
         self.bot = bot
@@ -124,6 +132,21 @@ class Diablo:
                 embed.add_field(name="Shield", value= item['shields'])
                 await ctx.send(embed=embed)
 
+    @commands.command(name='set')
+    async def item_set(self, ctx, *, item_set):
+        """
+        Displays set information
+        """
+        matches = difflib.get_close_matches(item_set, sets_array, 1, cutoff=0.4)[0]
+        for item in sets_data:
+            if item['name'] == matches:
+                emote = item['name'].lower().replace(" ", "")
+                embed = discord.Embed(title=matches,
+                                      description=BLANK,
+                                      color=ctx.me.color)
+                embed.add_field(name="Properties", value=item['properties'])
+                embed.set_thumbnail(url=item["url"])
+                await ctx.send(embed=embed)
 
 def setup(bot):
     bot.add_cog(Diablo(bot))

@@ -1,0 +1,1862 @@
+[
+	{
+		"name": "Bul-Kathos Wedding Band",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6a/Ring_2_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 58\n\n+1 to All Skills\n+0-49 to Life (+0.5 per Character Level)\n3-5% Life Stolen per Hit (varies)\n+50 to Maximum Stamina\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Carrion Wind",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/22/Ring_1_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 60\n\n10% Chance to Cast Level 10 Poison Nova When Struck\n8% Chance to Cast Level 13 Twister on Striking\n6-9% Life Stolen per Hit (varies)\n+100-160 Defense vs. Missile (varies)\nPoison Resist +55%\n10% Damage Taken Goes to Mana\nLevel 21 Poison Creeper (15 Charges)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Dwarf Star",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/91/Ring_4_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 45\n\nFire Absorb 15%\nHeal Stamina +15%\n+40 to Maximum Stamina\n+40 to Life\n100% Extra Gold From Monsters\nMagic Damage Reduced by 12-15 (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Manald Heal",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6a/Ring_2_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 15\n\n4-7% Mana Stolen per Hit (varies)\nReplenish Life +5-8 (varies)\nRegenerate Mana 20%\n+20 to Life\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Nagelring",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/22/Ring_1_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 7\n\nMagic Damage Reduced by 3\n+50-75 to Attack Rating (varies)\nAttacker Takes Damage of 3\n15-30% Better Chance of Getting Magic Items (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Nature's Peace",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/91/Ring_4_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 69\n\nSlain Monsters Rest in Peace\nPrevent Monster Heal\nPoison Resist +20-30% (varies)\nDamage Reduced by 7-11 (varies)\nLevel 5 Oak Sage (27 Charges)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Raven Frost",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/3e/Ring_5_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 45\n\n+150-250 to Attack Rating (varies)\nAdds 15-45 Cold Damage - 4 Second Duration\nCannot be Frozen\n+15-20 to Dexterity (varies)\n+40 to Mana\nCold Absorb 20%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Stone of Jordan",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/23/Ring_3_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 29\n\n+1 to All Skills\nIncrease Maximum Mana 25%\nAdds 1-12 Lightning Damage\n+20 to Mana"
+	},
+	{
+		"name": "Wisp Projector",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/23/Ring_3_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 76\n\n10% Chance to Cast Level 16 Lightning on Striking\nLightning Absorb 10-20% (varies)\n10-20% Better Chance of Getting Magic Items (varies)\nLevel 7 Spirit of Barbs (11 Charges)\nLevel 5 Heart of Wolverine (13 Charges)\nLevel 2 Oak Sage (15 Charges)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Atmas Scarab",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/88/Amulet_1_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 60\n\n5% Chance to Cast Level 2 Amplify Damage on Striking\n20% Bonus to Attack Rating\n+40 Poison Damage Over 4 Seconds\nPoison Resist +75%\nAttacker Takes Damage of 5\n+3 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Crescent Moon",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2d/Amulet_3_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 50\n\n10% Damage Taken Goes to Mana\n+45 to Mana\n3-6% Life Stolen per Hit (varies)\n11-15% Mana Stolen per Hit (varies)\nMagic Damage Reduced by 10\n-2 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Highlords Wrath",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a3/Amulet_2_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 65\n\n+1 to All Skills\n20% Increased Attack Speed\n+0-37% Deadly Strike (+0.375 per Character Level)\nLightning Resist +35%\nAdds 1-30 Lightning Damage\nAttacker Takes Lightning Damage of 15\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Maras Kaleidoscope",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/88/Amulet_1_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 67\n\n+2 to All Skills\nAll Resistances +20-30 (varies)\n+5 to All Attributes\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Metalgrid",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2d/Amulet_3_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 81\n\n+400-450 to Attack Rating (varies)\nLevel 22 Iron Golem (11 Charges)\nLevel 12 Iron Maiden (20 Charges)\nAll Resistances +25-35 (varies)\n+300-350 Defense (varies)<p>\n(Ladder On\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Nokozan Relic",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/88/Amulet_1_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 10\n\n20% Faster Hit Recovery\nFire Resist +50%\n+10% to Maximum Fire Resistance\nAdds 3-6 Fire Damage\n+3 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Saracens Chance",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/88/Amulet_1_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 47\n\n10% Chance to Cast Level 2 Iron Maiden When Struck\nAll Resistances +15-25 (varies)\n+12 to All Attributes\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Seraphs Hymn",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a3/Amulet_2_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 65\n\n+2 to All Skills\n+1-2 to Defensive Auras (varies) (Paladin Only)\n+20-50% Damage vs. Demons (varies)\n+150-250 to Attack Rating Against Demons (varies)\n+20-50% Damage vs. Undead (varies)\n+150-250 to Attack Rating Against Undead (varies)\n+2 to Light Radius<p>\n(Ladder On\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "The Cats Eye",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a3/Amulet_2_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 50\n\n30% Faster Run/Walk\n20% Increased Attack Speed\n+100 Defense vs. Missile\n+100 Defense\n+25 to Dexterity\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Eye of Etlich",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a3/Amulet_2_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 15\n\n+1 to All Skills\n3-7% Life Stolen per Hit (varies)\nAdds (1-2) to (3-5) Cold Damage (varies)\nCold Duration: 2-10 Seconds (varies)\n+10-40 Defense vs. Missile (varies)\n+1-5 to Light Radius (varies)"
+	},
+	{
+		"name": "The Rising Sun",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2d/Amulet_3_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 65\n\n+2 to Fire Skills\n2% Chance to Cast Level 13-19 Meteor When Struck (varies)\n+0-74 Fire Absorb (+0.75 per Character Level)\nAdds 24-48 Fire Damage\nReplenish Life +10\n+4 to Light Radius\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "The Mahim-Oak Curio",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a3/Amulet_2_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 25\n\n+10 Defense\n10% Enhanced Defense\n10% Bonus to Attack Rating\nAll Resistances +10\n+10 to All Attributes\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Annihilus",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/7f/Annihilus_%28Diablo_II%29.png",
+		"properties": "Level Requirement: 70\n\n+1 to All Skills\n+10-20 to All Attributes (varies)\nAll Resistances +10-20 (varies)\n+5-10% to Experience Gained\n\n(Only Spawns on Battle.net Servers)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Hellfire Torch",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f8/Hellfiretorch.png",
+		"properties": "Level Requirement: 75\n\n5% Chance to Cast Level 10 Firestorm on Striking\n+3 to (Random Character Class) Skills\n+10-20 to All Attributes (varies)\nAll Resistances +10-20 (varies)\n+8 to Light Radius\nLevel 30 Hydra (10 Charges)\n\n(Only Spawns on Battle.net Servers)\n(Only Spawns In Patch 1.11 or later)"
+	},
+	{
+		"name": "Gheed's Fortune",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/03/Large_Charm_3_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 62\n\n80-160% Extra Gold From Monsters (varies)\nReduces All Vendor Prices 10-15% (varies)\n20-40% Better Chance of Getting Magic Items (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Rainbow Facet",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f3/Jewel_2_%28Diablo_II%29.gif",
+		"properties": "Level Requirement: 49\n\n100% Chance to Cast Level (Varying) (Varying Skill) When You Level Up or Die (varies)\nAdds (Varying) Elemental Damage\n+3-5% to (Varying Elemental) Skill Damage (varies)\n-3-5% to Enemy (Varying Elemental) Resistance (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Herald of Zakarum",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/0c/Aerin_Shield_%28Diablo_II%29.gif",
+		"properties": "Defense: 422 - 507\nBlock: P: 82% Am/As/B: 82% D/N/S: 82%\nSmite Damage: 20 - 28\nMinimum Strength: 89\nLevel Requirement: 42\n\n+150-200% Enhanced Defense (varies)\n30% Increased Chance Of Blocking\n30% Faster Block Rate\n20% Bonus To Attack Rating\n+20 To Strength\n+20 To Vitality\nAll Resistances +50\n+2 To Paladin Skill Levels\n+2 To Combat Skills (Paladin Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Alma Negra",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/73/Targe_%28Diablo_II%29.gif",
+		"properties": "Defense: 461 - 511\nBlock: P: 78% Am/As/B: 78% D/N/S: 78%\nSmite Damage: 35 - 58\nMinimum Strength: 109\nLevel Requirement: 77\n\n+180-210% Enhanced Defense (varies)\n+1-2 To Paladin Skill Levels (varies)\n20% Increased Chance of Blocking\n30% Faster Block Rate\n+40-75% Enhanced Damage (varies)\n40-75% Bonus to Attack Rating (varies)\nMagic Damage Reduced By 5-9 (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Dragonscale",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/0c/Aerin_Shield_%28Diablo_II%29.gif",
+		"properties": "Defense: 523 - 582\nBlock: P: 52% Am/As/B: 52% D/N/S: 52%\nSmite Damage: 46 - 46\nMinimum Strength: 80\nLevel Requirement: 80\n\n+170-200% Enhanced Defense (varies)\nAdds 211-371 Fire Damage\n+15% To Fire Skill Damage\n+10 To Hydra\n+5% To Maximum Fire Resist\n+15-25 To Strength (varies)\nFire Absorb 10-20% (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Homunculus",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/86/Demon_Head_%28Diablo_II%29.gif",
+		"properties": "Defense: 177 - 213\nBlock: P: 72% Am/As/B: 72% D/N/S: 72%\nMinimum Strength: 58\nDurability: 20\nLevel Requirement: 42\n\n+150-200% Enhanced Defense (varies)\n+5 To Mana After Each Kill\n40% Increased Chance of Blocking\n30% Faster Block Rate\n+2 To Necromancer Skill Levels\n+20 To Energy\nRegenerate Mana 33%\nAll Resistances +40\n+2 To Curses (Necromancer Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Boneflame",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/c6/Gargoyle_Head_%28Diablo_II%29.gif",
+		"properties": "Defense: 323 - 367\nBlock: P: 30% Am/As/B: 30% D/N/S: 30%\nMinimum Strength: 95\nDurability: 20\nLevel Requirement: 72\n\n+120-150% Enhanced Defense (varies)\n+20% Faster Run/Walk\n+2-3 To Necromancer Skill Levels (varies)\nAll Resistances +20-30 (varies)\n15% Chance To Cast Level 3 Terror When Struck\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Darkforce Spawn",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/86/Demon_Head_%28Diablo_II%29.gif",
+		"properties": "Defense: 357 - 417\nBlock: P: 32% Am/As/B: 32% D/N/S: 32%\nMinimum Strength: 106\nDurability: 20\nLevel Requirement: 65\n\n+140-180% Enhanced Defense (varies)\n+1-3 To Summoning Skills (varies) (Necromancer Only)\n+1-3 To Poison And Bone Skills (varies) (Necromancer Only)\n+1-3 To Curses (varies) (Necromancer Only)\n+30% Faster Cast Rate\nIncrease Maximum Mana 10%\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Jalal's Mane",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/31/Spirit_Mask_%28Diablo_II%29.gif",
+		"properties": "Defense: 247 - 297\nMinimum Strength: 65\nDurability: 20\nLevel Requirement: 42\n\n+150-200% Enhanced Defense (varies)\n30% Faster Hit Recovery\n20% Bonus To Attack Rating\n+2 To Druid Skill Levels\nAll Resistances +30\n+5 To Mana After Each Kill\n+20 To Strength\n+20 To Energy\n+2 To Shape Shifting Skills (Druid Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Cerebus' Bite",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/60/Cerebus%27_Bite_%28Diablo_II%29.gif",
+		"properties": "Minimum Strength: 86\nDurability: 20\nLevel Requirement: 63\n\n+130-140% Enhanced Defense (varies)\n60-120% Bonus to Attack Rating (varies)\n7-10% Life Stolen Per Hit (varies)\n33% Chance of Open Wounds\n+2-4 To Shape Shifting Skills (varies) (Druid Only)\n+1-2 To Feral Rage (varies) (Druid Only)\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Spirit Keeper",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/93/Antlers_%28Diablo_II%29.gif",
+		"properties": "Defense: 413 - 443\nMinimum Strength: 104\nDurability: 20\nLevel Requirement: 67\n\n+170-190% Enhanced Defense (varies)\n+1-2 To Druid Skill Levels (varies)\n+20% Faster Hit Recovery\n+10% To Maximum Poison Resist\nFire Resist +30-40% (varies)\n+9-14 Lightning Absorb (varies)\nCold Absorb 15-25% (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Ravenlore",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/9a/Ravenlore_%28Diablo_II%29.gif",
+		"properties": "Defense: 343 - 390\nMinimum Strength: 74\nDurability: 20\nLevel Requirement: 74\n\n+120-150% Enhanced Defense (varies)\n+7 To Raven (Druid Only)\n+3 To Elemental Skills (Druid Only)\n+20-30 To Energy (varies)\n-10-20% To Enemy Fire Resistance (varies)\nAll Resistances +15-25 (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Arreat's Face",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/18/Avenger_Guard_%28Diablo_II%29.gif",
+		"properties": "Defense: 302 - 363\nMinimum Strength: 118\nDurability: 55\nLevel Requirement: 42\n\n+150-200% Enhanced Defense\n30% Faster Hit Recovery\n20% Bonus to Attack Rating\n+2 to Barbarian Skill Levels\n3-6% Life Stolen per Hit (varies)\nAll Resistances +30\n+20 to Strength\n+20 to Dexterity\n+2 to Combat Skills (Barbarian Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Wolfhowl",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f3/Fanged_Helm_%28Diablo_II%29.gif",
+		"properties": "Defense: 332 - 377\nMinimum Strength: 129\nDurability: 35\nLevel Requirement: 79\n\n+120-150% Enhanced Defense (varies)\n+2-3 To Warcries (varies) (Barbarian Only)\n+3-6 To Feral Rage (varies)\n+3-6 To Lycanthropy (varies)\n+3-6 To Werewolf (varies)\n+8-15 To Strength (varies)\n+8-15 To Dexterity (varies)\n+8-15 To Vitality (varies)\nLevel 15 Summon Dire Wolf (18 Charges)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Demonhorn's Edge",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/fd/Horned_Helm_%28Diablo_II%29.gif",
+		"properties": "Defense: 345 - 408\nMinimum Strength: 151\nDurability: 45\nLevel Requirement: 61\n\n+120-160% Enhanced Defense (varies)\n10% Increased Attack Speed\n3-6% Life Stolen Per Hit (varies)\nAttacker Takes Damage of 55-77 (varies)\n+1-3 To Warcries (varies) (Barbarian Only)\n+1-3 To Masteries (varies) (Barbarian Only)\n+1-3 To Combat Skills (varies) (Barbarian Only)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Halaberd's Reign",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/35/Assault_Helmet_%28Diablo_II%29.gif",
+		"properties": "Defense: 384 - 432\nMinimum Strength: 174\nDurability: 50\nLevel Requirement: 77\n\n+140-170% Enhanced Defense (varies)\nReplenish Life +15-23 (varies)\n+20% Faster Hit Recovery\n+2 To Barbarian Skill Levels\n+1 To Masteries (Barbarian Only)\n+1-2 To Battle Command (varies) (Barbarian Only)\n+1-2 To Battle Orders (varies) (Barbarian Only)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Pelta Lunata",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/36/Pelta_Lunata_%28Diablo_II%29.gif",
+		"properties": "Defense: 39\nArmor Type: Light\nBlock: P: 50% Am/As/B: 45% D/N/S: 40%\nSmite Damage: 1 - 3\nMinimum Strength: 12\nDurability: 20\nLevel Requirement: 2\n\n+30-40% Enhanced Defense (varies)\n+30 Defense\n20% Increased Chance Of Blocking\n40% Faster Block Rate\n+10 to Energy\n+10 to Vitality\n+2 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Umbral Disk",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1c/Umbral_Disk_%28Diablo_II%29.gif",
+		"properties": "Defense: 45 - 46\nArmor Type: Light\nBlock: P: 65% Am/As/B: 60% D/N/S: 55%\nSmite Damage: 2 - 3\nMinimum Strength: 22\nDurability: 26\nLevel Requirement: 9\n\n+40-50% Enhanced Defense (varies)\n+30 Defense\n30% Increased Chance of Blocking\nHit Blinds Target\n+20 to Life\n+10 to Dexterity\n-2 to Light Radius\n+10-15 Durability (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Stormguild",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e3/Stormguild_%28Diablo_II%29.gif",
+		"properties": "Defense: 52 - 54\nArmor Type: Medium\nBlock: P: 72% Am/As/B: 67% D/N/S: 62%\nSmite Damage: 2 - 4\nMinimum Strength: 34\nDurability: 34\nLevel Requirement: 13\n\n+50-60% Enhanced Defense (varies)\n+30 Defense\n30% Increased Chance of Blocking\nLightning Resist +25%\nAdds 1-6 Lightning Damage\nAttacker Takes Lightning Damage of 3\nMagic Damage Reduced by 1\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Steelclash",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/10/Steelclash_%28Diablo_II%29.gif",
+		"properties": "Defense: 50 - 58\nArmor Type: Light\nBlock: P: 63% Am/As/B: 58% D/N/S: 53%\nSmite Damage: 2 - 5\nMinimum Strength: 47\nDurability: 45\nLevel Requirement: 17\n\n+60-100% Enhanced Defense (varies)\n+20 Defense\n25% Increased Chance of Blocking\n20% Faster Block Rate\nAll Resistances +15\n+1 To Paladin Skill Levels\n+3 To Light Radius\nDamage Reduced By 3\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Swordback Hold",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1c/Swordback_Hold_%28Diablo_II%29.gif",
+		"properties": "Defense: 43 - 51\nArmor Type: Light\nBlock: P: 60% Am/As/B: 55% D/N/S: 50%\nSmite Damage: 5 - 9\nMinimum Strength: 30\nDurability: 40\nLevel Requirement: 15\n\n+30-60% Enhanced Defense (varies)\n+10 Defense\n20% Increased Chance of Blocking\n50% Chance of Open Wounds\nAttacker Takes Damage of 10\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Bverrit Keep",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f9/Bverrit_Keep_%28Diablo_II%29.gif",
+		"properties": "Defense: 76 - 87\nArmor Type: Heavy\nBlock: P: 64% Am/As/B: 59% D/N/S: 54%\nSmite Damage: 1 - 5\nMinimum Strength: 75\nDurability: 60\nLevel Requirement: 19\n\n+80-120% Enhanced Defense (varies)\n+30 Defense\n10% Increased Chance of Blocking\nFire Resist +75%\n+5 To Strength\nMagic Damage Reduced By 5\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Wall of the Eyeless",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a9/Wall_of_the_Eyeless_%28Diablo_II%29.gif",
+		"properties": "Defense: 50 - 53\nArmor Type: Light\nBlock: P: 50% Am/As/B: 45% D/N/S: 40%\nSmite Damage: 3 - 6\nMinimum Strength: 25\nDurability: 40\nLevel Requirement: 20\n\n+30-40% Enhanced Defense (varies)\n+10 Defense\n+5 Mana After Each Kill\n20% Faster Cast Rate\n3% Mana Stolen per Hit\nPoison Resist +20%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Ward",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2f/The_Ward_%28Diablo_II%29.gif",
+		"properties": "Defense: 112\nArmor Type: Medium\nBlock: P: 56% Am/As/B: 51% D/N/S: 46%\nSmite Damage: 2 - 6\nMinimum Strength: 60\nDurability: 40\nLevel Requirement: 26\n\n+100% Enhanced Defense\n+40 Defense\n10% Increased Chance of Blocking\nAll Resistances +30-50 (varies)\nMagic Damage Reduced by 2\n+10 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Visceratuant",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/36/Pelta_Lunata_%28Diablo_II%29.gif",
+		"properties": "Defense: 100 - 125\nArmor Type: Light\nBlock: P: 70% Am/As/B: 65% D/N/S: 60%\nSmite Damage: 8 - 12\nMinimum Strength: 38\nDurability: 68\nLevel Requirement: 28\n\n+100-150% Enhanced Defense (varies)\n30% Increased Chance of Blocking\n30% Faster Block Rate\n+1 To Sorceress Skill Levels\nAttacker Takes Lightning Damage of 10\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Moser's Blessed Circle",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/46/Moser%27s_Blessed_Circle_%28Diablo_II%29.gif",
+		"properties": "Defense: 156 - 179\nArmor Type: Light\nBlock: P: 67% Am/As/B: 62% D/N/S: 57%\nSmite Damage: 7 - 14\nMinimum Strength: 53\nDurability: 64\nLevel Requirement: 31\n\n+180-220% Enhanced Defense (varies)\n25% Increased Chance of Blocking\n30% Faster Block Rate\nAll Resistances +25\nSocketed (2)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Stormchaser",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1b/Stormchaser_%28Diablo_II%29.gif",
+		"properties": "Defense: 161 - 198\nArmor Type: Medium\nBlock: P: 64% Am/As/B: 59% D/N/S: 54%\nSmite Damage: 11 - 15\nMinimum Strength: 71\nDurability: 62\nLevel Requirement: 35\n\n+160-220% Enhanced Defense (varies)\n20% Increased Chance of Blocking\n4% Chance to Cast Level 5 Tornado When Struck\n4% Chance to Cast Level 6 Blizzard When Struck\n10% Faster Block Rate\n+150 To Attack Rating\nLightning Resist +50%\nHalf Freeze Duration\nAdds 1-60 Lightning Damage\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Tiamat's Rebuke",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/10/Steelclash_%28Diablo_II%29.gif",
+		"properties": "Defense: 163 - 204\nArmor Type: Light\nBlock: P: 48% Am/As/B: 43% D/N/S: 38%\nSmite Damage: 15 - 24\nMinimum Strength: 91\nDurability: 116\nLevel Requirement: 38\n\n+140-200% Enhanced Defense (varies)\nAdds 27-53 Cold Damage - 6 Second Duration\nAdds 35-95 Fire Damage\nAdds 1-120 Lightning Damage\n3% Chance to Cast Level 6 Hydra When Struck\n5% Chance to Cast Level 7 Nova When Struck\n5% Chance to Cast Level 9 Frost Nova When Struck\nAll Resistances +25-35 (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Lance Guard",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/86/Lance_Guard_%28Diablo_II%29.gif",
+		"properties": "Defense: 134 - 173\nArmor Type: Light\nBlock: P: 47% Am/As/B: 42% D/N/S: 37%\nSmite Damage: 18 - 35\nMinimum Strength: 65\nDurability: 55\nLevel Requirement: 35\n\n+70-120% Enhanced Defense (varies)\n15% Damage Taken Goes To Mana\n30% Faster Hit Recovery\n20% Deadly Strike\n+50 To Life\nAttacker Takes Damage of 47\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Gerke's Sanctuary",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f9/Bverrit_Keep_%28Diablo_II%29.gif",
+		"properties": "Defense: 221 - 268\nArmor Type: Heavy\nBlock: P: 84% Am/As/B: 79% D/N/S: 74%\nSmite Damage: 10 - 17\nMinimum Strength: 133\nDurability: 172\nLevel Requirement: 44\n\n+180-240% Enhanced Defense (varies)\n+30% Increased Chance of Blocking\nAll Resistances +20-30 (varies)\nReplenish Life +15\nDamage Reduced By 11-16 (varies)\nMagic Damage Reduced By 14-18 (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Lidless Wall",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/06/Lidless_Wall_%28Diablo_II%29.gif",
+		"properties": "Defense: 271 - 347\nArmor Type: Light\nBlock: P: 50% Am/As/B: 45% D/N/S: 40%\nSmite Damage: 14 - 20\nMinimum Strength: 58\nDurability: 70\nLevel Requirement: 41\n\n+80-130% Enhanced Defense (varies)\n+1 To All Skills\nIncrease Maximum Mana 10%\n20% Faster Cast Rate\n+3-5 To Mana After Each Kill (varies)\n+10 To Energy\n+1 To Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Radament's Sphere",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2f/The_Ward_%28Diablo_II%29.gif",
+		"properties": "Defense: 244 - 282\nArmor Type: Medium\nBlock: P: 66% Am/As/B: 56% D/N/S: \nSmite Damage: 12 - 16\nMinimum Strength: 110\nDurability: 100\nLevel Requirement: 50\n\n+160-200% Enhanced Defense (varies)\n20% Increased Chance Of Blocking\n20% Faster Block Rate\n5% Chance to Cast Level 5 Poison Nova When Struck\nLevel 6 Poison Explosion (40 Charges)\nPoison Resist +75%\n+80 Poison Damage Over 4 Seconds\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Blackoak Shield",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1c/Umbral_Disk_%28Diablo_II%29.gif",
+		"properties": "Defense: 322 - 372\nArmor Type: Light\nBlock: P: 50% Am/As/B: 45% D/N/S: 40%\nSmite Damage: 17 - 29\nMinimum Strength: 100\nDurability: 129\nLevel Requirement: 61\n\n+160-200% Enhanced Defense (varies)\n+0-61 Absorb Cold Damage (+0.625 per Character Level)\n+1-123 To Life (+1.25 per Character Level)\n+0-49 To Dexterity (+0.5 per Character Level)\n+50% Faster Block Rate\n4% Chance To Cast Level 5 Weaken When Struck\nHalf Freeze Duration\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Stormshield",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/10/Steelclash_%28Diablo_II%29.gif",
+		"properties": "Defense: 136 - 519\nArmor Type: Light\nBlock: P: 77% Am/As/B: 72% D/N/S: 67%\nSmite Damage: 12 - 34\nMinimum Strength: 156\nDurability: Indestructible\nLevel Requirement: 73\n\n+3-371 Defense (+3.75 per Character Level)\n25% Increased Chance of Blocking\n35% Faster Block Rate\nDamage Reduced by 35%\nCold Resist +60%\nLightning Resist +25%\n+30 to Strength\nAttacker Takes Lightning Damage of 10\nIndestructible\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Spike Thorn",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1c/Swordback_Hold_%28Diablo_II%29.gif",
+		"properties": "Defense: 325 - 410\nArmor Type: Light\nBlock: P: 50% Am/As/B: 45% D/N/S: 40%\nSmite Damage: 26 - 40\nMinimum Strength: 118\nDurability: 333\nLevel Requirement: 70\n\n+120-150% Enhanced Defense (varies)\n30% Faster Hit Recovery\nDamage Reduced By 15-20% (varies)\nAttacker Takes Damage of 1-136 (+1.375 per Character Level)\nSocketed (1)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Medusa's Gaze",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f9/Bverrit_Keep_%28Diablo_II%29.gif",
+		"properties": "Defense: 405 - 453\nArmor Type: Heavy\nBlock: P: 54% Am/As/B: 49% D/N/S: 44%\nSmite Damage: 18 - 28\nMinimum Strength: 219\nDurability: 92\nLevel Requirement: 76\n\n+150-180% Enhanced Defense (varies)\n5-9% Life Stolen Per Hit (varies)\nSlows Target By 20%\nCold Resist +40-80% (varies)\n10% Chance to Cast Level 7 Lower Resist When Struck\n100% Chance to Cast Level 44 Nova When You Die\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Head Hunter's Glory",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a9/Wall_of_the_Eyeless_%28Diablo_II%29.gif",
+		"properties": "Defense: 478 - 593\nArmor Type: Light\nBlock: P: 50% Am/As/B: 45% D/N/S: 40%\nSmite Damage: 24 - 38\nMinimum Strength: 106\nDurability: 74\nLevel Requirement: 75\n\n+320-420 Defense (varies)\n+300-350 Defense vs. Missile (varies)\nFire Resist +20-30% (varies)\nPoison Resist +30-40% (varies)\n+5-7 Life After Each Kill (varies)\nSocketed (1-3) (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Spirit Ward",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2f/The_Ward_%28Diablo_II%29.gif",
+		"properties": "Defense: 393 - 478\nArmor Type: Medium\nBlock: P: 84% Am/As/B: 79% D/N/S: 74%\nSmite Damage: 11 - 35\nMinimum Strength: 185\nDurability: 100\nLevel Requirement: 68\n\n+130-180% Enhanced Defense (varies)\n25% Faster Block Rate\n20-30% Increased Chance of Blocking (varies)\nAll Resistances +30-40 (varies)\n+6-11 Cold Absorb (varies)\n5% Chance to Cast Level 8 Fade When Struck\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Biggin's Bonnet",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d4/Biggin%27s_Bonnet_%28Diablo_II%29.gif",
+		"properties": "Defense: 17 - 19\nMinimum Strength: -\nDurability: 12\nLevel Requirement: 3\n\n+30% Enhanced Damage\n+14 Defense\n+30 To Attack Rating\n+15 To Mana\n+15 To Life"
+	},
+	{
+		"name": "Duskdeep",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/27/Duskdeep_%28Diablo_II%29.gif",
+		"properties": "Defense: 45 - 60\nMinimum Strength: 41\nDurability: 30\nLevel Requirement: 17\n\n+30-50% Enhanced Defense (varies)\n+10-20 Defense (varies)\nDamage Reduced By 7\nAll Resistances +15\n+8 To Maximum Damage\n-2 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Howltusk",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/0b/Howltusk_%28Diablo_II%29.gif",
+		"properties": "Defense: 64\nMinimum Strength: 63\nDurability: 40\nLevel Requirement: 25\n\n+80% Enhanced Defense\n35% Damage Taken Goes to Mana\nMagic Damage Reduced By 2\nAttacker Takes Damage of 3\nKnockback\nHit Causes Monster to Flee 25%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Face of Horror",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a8/Mask_%28Diablo_II%29.gif",
+		"properties": "Defense: 34 - 52\nMinimum Strength: 23\nDurability: 20\nLevel Requirement: 20\n\n+25 Defense\n+50% Damage to Undead\nHit Causes Monster to Flee 50%\nAll Resistances +10\n+20 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Undead Crown",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/b/b2/Undead_Crown_%28Diablo_II%29.gif",
+		"properties": "Defense: 99 - 113\nMinimum Strength: 55\nDurability: 50\nLevel Requirement: 29\n\n+30-60% Enhanced Defense (varies)\n+40 Defense\n+50% Damage to Undead\n+50-100 Attack Rating Against Undead (varies)\nHalf Freeze Duration\n5% Life Stolen per Hit\nPoison Resist +50%\n+3 to Skeleton Mastery (Necromancer Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Wormskull",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/79/Wormskull_%28Diablo_II%29.gif",
+		"properties": "Defense: 33 - 36\nMinimum Strength: 25\nDurability: 40\nLevel Requirement: 21\n\n+1 to Necromancer Skill Levels\n+80 Poison Damage Over 8 Seconds\n5% Life Stolen per Hit\nPoison Resist +25%\n+10 to Mana\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Peasant Crown",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/69/Cap_%28Diablo_II%29.gif",
+		"properties": "Defense: 108\nMinimum Strength: 20\nDurability: 12\nLevel Requirement: 28\n\n+100% Enhanced Defense\n+1 To All Skills\n15% Faster Run/Walk\nReplenish Life +6-12 (varies)\n+20 to Energy\n+20 to Vitality\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Rockstopper",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/4d/Rockstopper_%28Diablo_II%29.gif",
+		"properties": "Defense: 163 - 201\nMinimum Strength: 43\nDurability: 18\nLevel Requirement: 31\n\n+160-220% Enhanced Defense (varies)\nDamage Reduced by 10%\n30% Faster Hit Recovery\nCold Resist +20-40% (varies)\nFire Resist +20-50% (varies)\nLightning Resist +20-40% (varies)\n+15 Vitality\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Stealskull",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/70/Coif_of_Glory_%28Diablo_II%29.gif",
+		"properties": "Defense: 219 - 248\nMinimum Strength: 59\nDurability: 24\nLevel Requirement: 35\n\n+200-400% Enhanced Defense (varies)\n10% Increased Attack Speed\n10% Faster Hit Recovery\n5% Life Stolen per Hit\n5% Mana Stolen per Hit\n30-50% Better Chance of Getting Magic Items (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Darksight Helm",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/98/Darksight_Helm_%28Diablo_II%29.gif",
+		"properties": "Defense: 77 - 282\nMinimum Strength: 82\nDurability: 30\nLevel Requirement: 38\n\n+2-198 Defense (+2 Per Character Level)\n6% Chance to Cast Level 3 Dim Vision When Struck\nLevel 5 Cloak of Shadows (30 Charges)\nCannot Be Frozen\nFire Resist +20-40% (varies)\n5% Mana Stolen per Hit\n-4 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Valkyrie Wing",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/c8/Great_Helm_%28Diablo_II%29.gif",
+		"properties": "Defense: 247 - 297\nMinimum Strength: 115\nDurability: 40\nLevel Requirement: 44\n\n+150-200% Enhanced Defense (varies)\n+1-2 to Amazon Skill Levels (varies)\n20% Faster Run/Walk\n20% Faster Hit Recovery\n+2-4 Mana After Each Kill (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Blackthorn's Face",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a8/Mask_%28Diablo_II%29.gif",
+		"properties": "Defense: 243 - 278\nMinimum Strength: 55\nDurability: 20\nLevel Requirement: 41\n\n+180-220% Enhanced Defense (varies)\nSlows Target By 20%\nAttacker Takes Lightning Damage of 25\nPrevent Monster Heal\n+20 Lightning Absorb\nLightning Resist +15%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Crown of Thieves",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/fa/Crown_of_Thieves_%28Diablo_II%29.gif",
+		"properties": "Defense: 296 - 342\nMinimum Strength: 103\nDurability: 50\nLevel Requirement: 49\n\n+160-200% Enhanced Defense (varies)\n9-12% Life Stolen Per Hit (varies)\nFire Resist +33%\n+35 To Mana\n+50 To Life\n+25 To Dexterity\n80-100% Extra Gold From Monsters (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Vampire Gaze",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/98/Vampire_Gaze_%28Diablo_II%29.gif",
+		"properties": "Defense: 252\nMinimum Strength: 58\nDurability: 40\nLevel Requirement: 41\n\n+100% Enhanced Defense\nAdds 6-22 Cold Damage - 4 Second Duration\n15% Slower Stamina Drain\n6-8% Life Stolen per Hit (varies)\n6-8% Mana Stolen per Hit (varies)\nDamage Reduced by 15-20% (varies)\nMagic Damage Reduced by 10-15 (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Harlequin Crest",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/47/Harlequin_Crest_%28Diablo_II%29.gif",
+		"properties": "Defense: 98 - 141\nMinimum Strength: 50\nDurability: 12\nLevel Requirement: 62\n\n+2 To All Skills\n+1-148 To Life (+1.5 per Character Level)\n+1-148 to Mana (+1.5 per Character Level)\nDamage Reduced By 10%\n50% Better Chance of Getting Magic Items\n+2 To All Attributes\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Steel Shade",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1e/Steel_Shade_%28Diablo_II%29.gif",
+		"properties": "Defense: 300 - 345\nMinimum Strength: 109\nDurability: 24\nLevel Requirement: 62\n\n+100-130% Enhanced Defense (varies)\nReplenish Life +10-18 (varies)\n+4-8% Mana Stolen per Hit (varies)\n+5-11 Fire Absorb (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Veil of Steel",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e4/Veil_of_Steel_%28Diablo_II%29.gif",
+		"properties": "Defense: 396\nMinimum Strength: 192\nDurability: 60\nLevel Requirement: 73\n\n+60% Enhanced Defense\n+140 Defense\nAll Resistances +50\n+15 to Strength\n+15 to Vitality\n-4 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Nightwing's Veil",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e5/Nightwing%27s_Veil_%28Diablo_II%29.gif",
+		"properties": "Defense: 304 - 352\nMinimum Strength: 96\nDurability: 40\nLevel Requirement: 67\n\n+90-120% Enhanced Defense (varies)\n+2 To All Skills\n+8-15% To Cold Skill Damage (varies)\n+10-20 To Dexterity (varies)\n+5-9 Cold Absorb (varies)\nHalf Freeze Duration\nRequirements -50%\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Andariel's Visage",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a8/Mask_%28Diablo_II%29.gif",
+		"properties": "Defense: 310 - 387\nMinimum Strength: 102\nDurability: 20\nLevel Requirement: 83\n\n+100-150% Enhanced Defense (varies)\n+2 To All Skills\n20% Increased Attack Speed\n8-10% Life Stolen Per Hit (varies)\n+25-30 To Strength (varies)\n+10% To Maximum Poison Resist\nFire Resist -30%\nPoison Resist +70%\n15% Chance To Cast Level 15 Poison Nova When Struck\nLevel 3 Venom (20 charges)\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Crown of Ages",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/ad/Crown_of_Ages_%28Diablo_II%29.gif",
+		"properties": "Defense: 349 - 399\nMinimum Strength: 174\nDurability: Indestructible\nLevel Requirement: 82\n\n+50% Enhanced Defense\n+100-150 Defense (varies)\n+1 To All Skills\nDamage Reduced By 10-15% (varies)\nAll Resistances +20-30 (varies)\n+30% Faster Hit Recovery\nSocketed (1-2) (varies)\nIndestructible\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Giant Skull",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/25/Giant_Skull_%28Diablo_II%29.gif",
+		"properties": "Defense: 350 - 477\nMinimum Strength: 106\nDurability: 40\nLevel Requirement: 65\n\n+250-320 Defense (varies)\n10% Chance Of Crushing Blow\nKnockback\n+25-35 to Strength (varies)\nSocketed (1-2) (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Tarnhelm",
+		"url": "https://i.imgur.com/KZPh5FL.gif",
+		"properties": "Defense: 8 - 11\nMinimum Strength: 15\nDurability: 18\nLevel Requirement: 15\n\n+1 To All Skills\n25-50% Better Chance of Getting Magic Items (varies)\n75% Extra Gold From Monsters"
+	},
+	{
+		"name": "Coif of Glory",
+		"url": "https://i.imgur.com/w2aXh9D.gif",
+		"properties": "Defense: 25 - 28\nMinimum Strength: 26\nDurability: 24\nLevel Requirement: 14\n\n+10 Defense\nAttacker Takes Lightning Damage of 7\nHit Blinds Target\nLightning Resist +15%\n+100 Defense vs. Missile\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Kira's Guardian",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d2/Kiras_Guardian.gif",
+		"properties": "Defense: 90 - 170\nMinimum Strength: -\nDurability: 25\nLevel Requirement: 77\n\n+50-120 Defense (varies)\n20% Faster Hit Recovery\nCannot be Frozen\nAll Resistances +50-70 (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Griffon's Eye",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d1/Griffons_Eye.gif",
+		"properties": "Defense: 150 - 260\nMinimum Strength: -\nDurability: 20\nLevel Requirement: 76\n\n+100-200 Defense (varies)\n+1 to All Skills\n25% Faster Cast Rate\n-(15-20)% to Enemy Lightning Resistance (varies)\n+(10-15)% to Lightning Skill Damage (varies)\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "The Hand of Broc",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/5e/The_Hand_of_Broc_%28Diablo_II%29.gif",
+		"properties": "Defense: 14\nMinimum Strength: -\nDurability: 12\nLevel Requirement: 5\n\n+10-20% Enhanced Defense (varies)\n+10 Defense\n3% Life Stolen per Hit\n3% Mana Stolen per Hit\nPoison Resist +10%\n+20 to Mana\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Bloodfist",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d7/Bloodfist_%28Diablo_II%29.gif",
+		"properties": "Defense: 17 - 18\nMinimum Strength: -\nDurability: 14\nLevel Requirement: 9\n\n+10-20% Enhanced Defense (varies)\n+10 Defense\n+10% Increased Attack Speed\n+30% Faster Hit Recovery\n+40 To Life\n+5 To Minimum Damage\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Chance Guards",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/75/Chance_Guards_%28Diablo_II%29.gif",
+		"properties": "Defense: 27 - 28\nMinimum Strength: 25\nDurability: 16\nLevel Requirement: 15\n\n+20-30% Enhanced Defense (varies)\n+15 Defense\n+25 To Attack Rating\n25-40% Better Chance of Getting Magic Items (varies)\n200% Extra Gold From Monsters\n+2 To Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Magefist",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/59/Magefist_%28Diablo_II%29.gif",
+		"properties": "Defense: 24 - 25\nMinimum Strength: 45\nDurability: 18\nLevel Requirement: 23\n\n+20-30% Enhanced Defense (varies)\n+10 Defense\n+1 To Fire Skills\n20% Faster Cast Rate\nRegenerate Mana 25%\nAdds 1-6 Fire Damage\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Frostburn",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a9/Frostburn_%28Diablo_II%29.gif",
+		"properties": "Defense: 47 - 49\nMinimum Strength: 60\nDurability: 24\nLevel Requirement: 29\n\n+10-20% Enhanced Defense (varies)\n+30 Defense\n+5% Enhanced Damage\nIncrease Maximum Mana 40%\nAdds 1-6 Cold Damage - 2 Second Duration\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Venom Grip",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/dd/Leather_Gloves_%28Diablo_II%29.gif",
+		"properties": "Defense: 97 - 118\nMinimum Strength: 20\nDurability: 12\nLevel Requirement: 29\n\n+130-160% Enhanced Defense (varies)\n+15-25 Defense (varies)\n5% Chance of Crushing Blow\n+60 Poison Damage Over 4 Seconds\n5% Life Stolen per Hit\n+5% to Maximum Poison Resist\nPoison Resist +30%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Gravepalm",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a8/Heavy_Gloves_%28Diablo_II%29.gif",
+		"properties": "Defense: 96 - 112\nMinimum Strength: 20\nDurability: 14\nLevel Requirement: 32\n\n+140-180% Enhanced Defense (varies)\n+100-200% Damage To Undead (varies)\n+100-200 To Attack Rating Against Undead (varies)\n+10 To Energy\n+10 To Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Ghoulhide",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/df/Chain_Gloves_%28Diablo_II%29.gif",
+		"properties": "Defense: 112 - 130\nMinimum Strength: 58\nDurability: 16\nLevel Requirement: 36\n\n+150-190% Enhanced Defense (varies)\n+8-792 To Attack Rating Against Undead (+8 per Character Level)\n+2-198% Damage To Undead (+2% per Character Level)\n4-5% Mana Stolen per Hit (varies)\n+20 To Life\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Lava Gout",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/cd/Light_Gauntlets_%28Diablo_II%29.gif",
+		"properties": "Defense: 120 - 144\nMinimum Strength: 88\nDurability: 38\nLevel Requirement: 42\n\n+150-200% Enhanced Defense (varies)\n2% Chance to Cast Level 10 Enchant on Striking\nHalf Freeze Duration\nAdds 13-46 Fire Damage\n20% Increased Attack Speed\nFire Resist +24%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Hellmouth",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/c7/Gauntlets_%28Diablo_II%29.gif",
+		"properties": "Defense: 135 - 162\nMinimum Strength: 110\nDurability: 39\nLevel Requirement: 47\n\n+150-200% Enhanced Defense (varies)\n4% Chance To Cast Level 12 Firestorm on Striking\n2% Chance To Cast Level 4 Meteor on Striking\n+15 Fire Absorb\nAdds 15-72 Fire Damage\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Dracul's Grasp",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1a/Dracul%27s_Grasp_%28Diablo_II%29.gif",
+		"properties": "Defense: 125 - 145\nMinimum Strength: 50\nDurability: 14\nLevel Requirement: 76\n\n+90-120% Enhanced Defense (varies)\n+10-15 To Strength (varies)\n+5-10 Life After Each Kill (varies)\n25% Chance of Open Wounds\n7-10% Life Stolen Per Hit (varies)\n5% Chance to Cast Level 10 Life Tap on Striking\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Soul Drainer",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/12/Soul_Drainer_%28Diablo_II%29.gif",
+		"properties": "Defense: 129 - 149\nMinimum Strength: 50\nDurability: 16\nLevel Requirement: 74\n\n+90-120% Enhanced Defense (varies)\n4-7% Mana Stolen Per Hit (varies)\n4-7% Life Stolen Per Hit (varies)\n-50 to Monster Defense per Hit\n8% Chance to Cast Level 3 Weaken on Striking\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Steelrend",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/c7/Gauntlets_%28Diablo_II%29.gif",
+		"properties": "Defense: 232 - 281\nMinimum Strength: 185\nDurability: 24\nLevel Requirement: 70\n\n+170-210 Defense (varies)\n+30-60% Enhanced Damage (varies)\n10% Chance of Crushing Blow\n+15-20 To Strength (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Hotspur",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e0/Hotspur_%28Diablo_II%29.gif",
+		"properties": "Defense: 10\nKick Damage: 3 - 8\nMinimum Strength: -\nDurability: 12\nLevel Requirement: 5\n\n+10-20% Enhanced Defense (varies)\n+6 Defense\nFire Resist +45%\n+15% to Maximum Fire Resist\nAdds 3-6 Fire Damage\n+15 To Life\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Gorefoot",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/32/Gorefoot_%28Diablo_II%29.gif",
+		"properties": "Defense: 20 - 21\nKick Damage: 4 - 10\nMinimum Strength: 18\nDurability: 14\nLevel Requirement: 9\n\n+20-30% Enhanced Defense (varies)\n20% Faster Run/Walk\n2% Mana Stolen per Hit\nAttacker Takes Damage of 2\n+12 Defense\n+2 to Leap (Barbarian Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Treads of Cthon",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e0/Treads_of_Cthon_%28Diablo_II%29.gif",
+		"properties": "Defense: 25 - 26\nKick Damage: 6 - 12\nMinimum Strength: 30\nDurability: 16\nLevel Requirement: 15\n\n+30-40% Enhanced Defense (varies)\n+12 Defense\n50% Slower Stamina Drain\n30% Faster Run/Walk\n+50 Defense vs. Missile\n+10 to Life\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Goblin Toe",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/b/b9/Goblin_Toe_%28Diablo_II%29.gif",
+		"properties": "Defense: 33 - 34\nKick Damage: 8 - 16\nMinimum Strength: 50\nDurability: 18\nLevel Requirement: 22\n\n+50-60% Enhanced Defense (varies)\n25% Chance of Crushing Blow\n-1 to Light Radius\nDamage Reduced by 1\nMagic Damage Reduced by 1\n+15 Defense\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Tearhaunch",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/af/Tearhaunch_%28Diablo_II%29.gif",
+		"properties": "Defense: 60 - 63\nKick Damage: 10 - 20\nMinimum Strength: 70\nDurability: 24\nLevel Requirement: 29\n\n+60-80% Enhanced Defense (varies)\n20% Faster Run/Walk\nAll Resistances +10\n+35 Defense\n+5 to Dexterity\n+5 to Strength\n+2 to Vigor (Paladin Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Infernostride",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/76/Boots_%28Diablo_II%29.gif",
+		"properties": "Defense: 94 - 105\nKick Damage: 26 - 46\nMinimum Strength: 20\nDurability: 12\nLevel Requirement: 29\n\n+120-150% Enhanced Defense (varies)\n+15 Defense\n20% Faster Run/Walk\n5% Chance to Cast Level 8 Blaze When Struck\nFire Resist +30%\n+10% to Maximum Fire Resist\nAdds 12-33 Fire Damage\n40-70% Extra Gold From Monsters (varies)\n+2 To Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Waterwalk",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/60/Heavy_Boots_%28Diablo_II%29.gif",
+		"properties": "Defense: 112 - 124\nKick Damage: 28 - 50\nMinimum Strength: 47\nDurability: 14\nLevel Requirement: 32\n\n+180-210% Enhanced Defense (varies)\n20% Faster Run/Walk\n+100 Defense vs. Missile\n+15 to Dexterity\n+5% to Maximum Fire Resist\nHeal Stamina Plus 50%\n+40 to Maximum Stamina\n+45-65 to Life (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Silkweave",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/b/b8/Chain_Boots_%28Diablo_II%29.gif",
+		"properties": "Defense: 112 - 130\nKick Damage: 32 - 52\nMinimum Strength: 65\nDurability: 16\nLevel Requirement: 36\n\n+150-190% Enhanced Defense (varies)\n30% Faster Run/Walk\n+5 Mana After Each Kill\nIncrease Maximum Mana 10%\n+200 Defense vs. Missile\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "War Traveler",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/3f/Light_Plated_Boots_%28Diablo_II%29.gif",
+		"properties": "Defense: 120 - 139\nKick Damage: 37 - 64\nMinimum Strength: 95\nDurability: 48\nLevel Requirement: 42\n\n+150-190% Enhanced Defense (varies)\n25% Faster Run/Walk\n+10 to Vitality\n+10 to Strength\nAdds 15-25 Damage\n40% Slower Stamina Drain\nAttacker Takes Damage of 5-10 (varies)\n30-50% Better Chance of Getting Magic Items (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Gore Rider",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/63/Greaves_%28Diablo_II%29.gif",
+		"properties": "Defense: 140 - 162\nKick Damage: 39 - 80\nMinimum Strength: 94\nDurability: 34\nLevel Requirement: 47\n\n+160-200% Enhanced Defense (varies)\n30% Faster Run/Walk\n10% Chance of Open Wounds\n15% Chance of Crushing Blow\n15% Deadly Strike\nRequirements -25%\n+20 to Maximum Stamina\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Sandstorm Trek",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/60/Heavy_Boots_%28Diablo_II%29.gif",
+		"properties": "Defense: 158 - 178\nKick Damage: 60 - 110\nMinimum Strength: 91\nDurability: 14\nLevel Requirement: 64\n\n+140-170% Enhanced Defense (varies)\n20% Faster Hit Recovery\n20% Faster Run/Walk\n+1-99 to Maximum Stamina (+1 per Character Level)\n+10-15 To Strength (varies)\n+10-15 To Vitality (varies)\n50% Slower Stamina Drain\nPoison Resist +40-70% (varies)\nRepairs 1 Durability Every 20 Seconds\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Marrowwalk",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/b/b8/Chain_Boots_%28Diablo_II%29.gif",
+		"properties": "Defense: 183 - 204\nKick Damage: 69 - 118\nMinimum Strength: 118\nDurability: 16\nLevel Requirement: 66\n\n+170-200% Enhanced Defense (varies)\n20% Faster Run/Walk\n+1-2 To Skeleton Mastery (varies) (Necromancer Only)\n+10-20 To Strength (varies)\n+17 To Dexterity\nRegenerate Mana 10%\nHeal Stamina Plus 10%\nHalf Freeze Duration\nLevel 33 Bone Prison (13 Charges)\nLevel 12 Life Tap (10 Charges)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Shadow Dancer",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f3/Shadow_Dancer_%28Diablo_II%29.gif",
+		"properties": "Defense: 122 - 144\nKick Damage: 83 - 149\nMinimum Strength: 167\nDurability: 24\nLevel Requirement: 71\n\n+70-100% Enhanced Defense (varies)\n+1-2 To Shadow Disciplines (varies) (Assassin Only)\n30% Faster Run/Walk\n30% Faster Hit Recovery\n+15-25 to Dexterity (varies)\nRequirements -20%\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Lenymo",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/61/Lenymo_%28Diablo_II%29.gif",
+		"properties": "Defense: 2\nPotion Slots: 8\nMinimum Strength: -\nDurability: 12\nLevel Requirement: 7\n\nRegenerate Mana 30%\nAll Resistances +5\n+15 To Mana\n+1 To Light Radius"
+	},
+	{
+		"name": "Nightsmoke",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/13/Nightsmoke_%28Diablo_II%29.gif",
+		"properties": "Defense: 22 - 24\nPotion Slots: 12\nMinimum Strength: 25\nDurability: 16\nLevel Requirement: 20\n\n+30-50% Enhanced Defense (varies)\n+15 Defense\n50% Damage Taken Goes to Mana\nDamage Reduced By 2\nAll Resistances +10\n+20 To Mana\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Goldwrap",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/62/Goldwrap_%28Diablo_II%29.gif",
+		"properties": "Defense: 34 - 36\nPotion Slots: 12\nMinimum Strength: 45\nDurability: 18\nLevel Requirement: 27\n\n+40-60% Enhanced Defense (varies)\n+25 Defense\n10% Increased Attack Speed\n30% Better Chance Of Getting Magic Items\n50-80% Extra Gold From Monsters (varies)\n+2 To Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Bladebuckle",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e2/Bladebuckle_%28Diablo_II%29.gif",
+		"properties": "Defense: 51 - 54\nPotion Slots: 16\nMinimum Strength: 60\nDurability: 24\nLevel Requirement: 29\n\n+80-100% Enhanced Defense (varies)\n+30 Defense\n+30% Faster Hit Recovery\n+10 To Dexterity\n+5 To Strength\nDamage Reduced By 3\nAttacker Takes Damage of 8\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "String of Ears",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a6/Sash_%28Diablo_II%29.gif",
+		"properties": "Defense: 102 - 113\nPotion Slots: 16\nMinimum Strength: 20\nDurability: 22\nLevel Requirement: 29\n\n+150-180% Enhanced Defense (varies)\n+15 Defense\n6-8% Life Stolen per Hit (varies)\nDamage Reduced by 10-15% (varies)\nMagic Damage Reduced by 10-15 (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Razortail",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/4a/Light_Belt_%28Diablo_II%29.gif",
+		"properties": "Defense: 96 - 107\nPotion Slots: 16\nMinimum Strength: 20\nDurability: 14\nLevel Requirement: 32\n\n+120-150% Enhanced Defense (varies)\n+15 Defense\n+10 to Maximum Damage\nPiercing Attack (33%)\n+15 to Dexterity\nAttacker Takes Damage of 1-99 (+1 Per Character Level)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Gloom's Trap",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/cb/Belt_%28Diablo_II%29.gif",
+		"properties": "Defense: 90 - 102\nPotion Slots: 16\nMinimum Strength: 58\nDurability: 16\nLevel Requirement: 36\n\n+120-150% Enhanced Defense (varies)\n5% Mana Stolen Per Hit\nIncrease Maximum Mana 15%\nRegenerate Mana 15%\n+15 To Vitality\n-3 To Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Snowclash",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/41/Heavy_Belt_%28Diablo_II%29.gif",
+		"properties": "Defense: 98 - 116\nPotion Slots: 16\nMinimum Strength: 88\nDurability: 18\nLevel Requirement: 42\n\n+130-170% Enhanced Defense (varies)\n5% Chance to Cast Level 7-20 Blizzard When Struck (varies)\n+15 Cold Absorb\n+15% to Maximum Cold Resist\nAdds 13-21 Cold Damage - 3 Second Duration\n+2 To Chilling Armor (Sorceress Only)\n+2 To Blizzard (Sorceress Only)\n+3 To Glacial Spike (Sorceress Only)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Thundergod's Vigor",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a1/Plated_Belt_%28Diablo_II%29.gif",
+		"properties": "Defense: 137 - 159\nPotion Slots: 16\nMinimum Strength: 110\nDurability: 24\nLevel Requirement: 47\n\n+160-200% Enhanced Defense (varies)\nAdds 1-50 Lightning Damage\n5% Chance to Cast Level 7 Fist of the Heavens When Struck\n+20 Lightning Absorb\n+10% to Maximum Lightning Resist\n+20 to Strength\n+20 to Vitality\n+3 to Lightning Fury (Amazon Only)\n+3 to Lightning Strike (Amazon Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Arachnid Mesh",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/98/Arachnid_Mesh_%28Diablo_II%29.gif",
+		"properties": "Defense: 119 - 138\nPotion Slots: 16\nMinimum Strength: 50\nDurability: 12\nLevel Requirement: 80\n\n+90-120% Enhanced Defense (varies)\nSlows Target By 10%\n+1 To All Skills\n+20% Faster Cast Rate\nIncreases Maximum Mana 5%\nLevel 3 Venom (11 Charges)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Nosferatu's Coil",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/4a/Light_Belt_%28Diablo_II%29.gif",
+		"properties": "Defense: 56 - 63\nPotion Slots: 16\nMinimum Strength: 50\nDurability: 14\nLevel Requirement: 51\n\nSlows Target By 10%\n+2 To Mana After Each Kill\n5-7% Life Stolen Per Hit (varies)\n+15 To Strength\n10% Increased Attack Speed\n-3 To Light Radius\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Verdungo's Hearty Cord",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/5a/Verdungo%27s_Hearty_Cord_%28Diablo_II%29.gif",
+		"properties": "Defense: 125 - 158\nPotion Slots: 16\nMinimum Strength: 106\nDurability: 16\nLevel Requirement: 63\n\n+90-140% Enhanced Defense (varies)\n10% Faster Hit Recovery\n+30-40 to Vitality (varies)\nReplenish Life +10-13 (varies)\n+100-120 to Maximum Stamina (varies)\nDamage Reduced by 10-15% (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Snakecord",
+		"url": "https://i.imgur.com/9cNQhxA.gif",
+		"properties": "Defense: 14 - 15\nPotion Slots: 8\nMinimum Strength: -\nDurability: 14\nLevel Requirement: 12\n\n+20-30% Enhanced Defense (varies)\n+10 Defense\nReplenish Life +5\nPoison Resist +25%\nPoison Length Reduced by 50%\n+12 Poison Damage Over 3 Seconds\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Greyform",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/89/Greyform_%28Diablo_II%29.gif",
+		"properties": "Defense: 28 - 31\nArmor Type: Light\nMinimum Strength: 12\nDurability: 20\n+20 Defense\n5% Life Stolen Per Hit\nMagic Damage Reduced By 3\nCold Resist +20%\nFire Resist +20%\n+10 To Dexterity"
+	},
+	{
+		"name": "The Centurion",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f9/The_Centurion_%28Diablo_II%29.gif",
+		"properties": "Defense: 51 - 54\nArmor Type: Light\nMinimum Strength: 20\nDurability: 28\nLevel Requirement: 14\n\n+30 Defense\nReplenish Life +5\n+50 to Attack Rating\n+15 to Mana\n+15 to Maximum Stamina\n+15 to Life\n25% Slower Stamina Drain\nDamage Reduced by 2\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Twitchthroe",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6c/Twitchthroe_%28Diablo_II%29.gif",
+		"properties": "Defense: 57 - 60\nArmor Type: Light\nMinimum Strength: 27\nDurability: 32\nLevel Requirement: 16\n\n+25 Defense\n25% Increased Chance of Blocking\n20% Faster Hit Recovery\n20% Increased Attack Speed\n+10 to Dexterity\n+10 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Darkglow",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/56/Darkglow_%28Diablo_II%29.gif",
+		"properties": "Defense: 83 - 98\nArmor Type: Medium\nMinimum Strength: 36\nDurability: 36\nLevel Requirement: 14\n\n+70-100% Enhanced Defense (varies)\n5% to Maximum Poison Resist\n5% to Maximum Cold Resist\n5% to Maximum Lightning Resist\n5% to Maximum Fire Resist\n+50 Defense vs. Melee\n+20 To Attack Rating\nAll Resistances +10\n+3 To Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Hawkmail",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e3/Hawkmail_%28Diablo_II%29.gif",
+		"properties": "Defense: 109 - 122\nArmor Type: Heavy\nMinimum Strength: 44\nDurability: 36\nLevel Requirement: 15\n\n+80-100% Enhanced Defense (varies)\n10% Faster Run/Walk\n+15% to Maximum Cold Resist\nCold Resist +15%\nCannot Be Frozen\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Venom Ward",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/75/Venom_Ward_%28Diablo_II%29.gif",
+		"properties": "Defense: 110 - 138\nArmor Type: Light\nMinimum Strength: 30\nDurability: 50\nLevel Requirement: 20\n\n+60-100% Enhanced Defense (varies)\n+2 to Light Radius\n+15% to Maximum Poison Resist\nPoison Resist +90%\nPoison Length Reduced by 50%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Sparking Mail",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/b/b2/Sparking_Mail_%28Diablo_II%29.gif",
+		"properties": "Defense: 133 - 140\nArmor Type: Medium\nMinimum Strength: 48\nDurability: 45\nLevel Requirement: 17\n\n+75-85% Enhanced Defense (varies)\nLightning Resist +30%\nAttacker Takes Lightning Damage of 10-14 (varies)\nAdds 1-20 Lightning Damage\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Iceblink",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f2/Iceblink_%28Diablo_II%29.gif",
+		"properties": "Defense: 163 - 172\nArmor Type: Medium\nMinimum Strength: 51\nDurability: 30\nLevel Requirement: 22\n\n+70-80% Enhanced Defense (varies)\nFreezes Target\nCold Resist +30%\nMagic Damage Reduced By 1\n+4 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Heavenly Garb",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/79/Heavenly_Garb_%28Diablo_II%29.gif",
+		"properties": "Defense: 216\nArmor Type: Light\nMinimum Strength: 41\nDurability: 60\nLevel Requirement: 29\n\n+100% Enhanced Defense\nRegenerate Mana 25%\nAll Resistances +10\n+15 To Energy\n+50% Damage To Undead\n+100 To Attack Rating Against Undead\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Boneflesh",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/06/Boneflesh_%28Diablo_II%29.gif",
+		"properties": "Defense: 234 - 257\nArmor Type: Medium\nMinimum Strength: 65\nDurability: 60\nLevel Requirement: 26\n\n+100-120% Enhanced Defense (varies)\n5% Life Stolen Per Hit\n25% Chance Of Open Wounds\n+35 To Attack Rating\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Rockfleece",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/68/Rockfleece_%28Diablo_II%29.gif",
+		"properties": "Defense: 212 - 243\nArmor Type: Heavy\nMinimum Strength: 50\nDurability: 48\nLevel Requirement: 28\n\n+100-130% Enhanced Defense (varies)\nRequirements -10%\nDamage Reduced by 10%\n+5 to Strength\nDamage Reduced by 5\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Rattlecage",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/ed/Rattlecage_%28Diablo_II%29.gif",
+		"properties": "Defense: 328 - 335\nArmor Type: Medium\nMinimum Strength: 70\nDurability: 55\nLevel Requirement: 29\n\n+200 Defense\n25% Chance of Crushing Blow\nHit Causes Monster to Flee 40%\n+45 To Attack Rating"
+	},
+	{
+		"name": "Silks of the Victor",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/70/Silks_of_the_Victor_%28Diablo_II%29.gif",
+		"properties": "Defense: 468 - 514\nArmor Type: Medium\nMinimum Strength: 100\nDurability: 60\nLevel Requirement: 28\n\n+100-120% Enhanced Defense (varies)\n+1 To All Skills\n5% Mana Stolen Per Hit\n+2 To Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Spirit Shroud",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/ea/Quilted_Armor_%28Diablo_II%29.gif",
+		"properties": "Defense: 295\nArmor Type: Light\nMinimum Strength: 38\nDurability: 20\nLevel Requirement: 28\n\n+150% Enhanced Defense\nCannot Be Frozen\n+1 to All Skills\nReplenish Life +10\nMagic Damage Reduced by 7-11 (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Skin of the Vipermagi",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/90/Skin_of_the_Vipermagi_%28Diablo_II%29.gif",
+		"properties": "Defense: 279\nArmor Type: Light\nMinimum Strength: 43\nDurability: 24\nLevel Requirement: 29\n\n+120% Enhanced Defense\n+1 To All Skills\n30% Faster Cast Rate\nMagic Damage Reduced By 9-13 (varies)\nAll Resistances +20-35 (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Skin of the Flayed One",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f5/Skin_of_the_Flayed_One_%28Diablo_II%29.gif",
+		"properties": "Defense: 342 - 397\nArmor Type: Light\nMinimum Strength: 50\nDurability: 58\nLevel Requirement: 31\n\n+150-190% Enhanced Defense (varies)\nRepairs 1 Durability Every 10 Seconds\n5-7% Life Stolen Per Hit (varies)\nReplenish Life +15-25 (varies)\nAttacker Takes Damage of 15\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Iron Pelt",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/17/Iron_Pelt_%28Diablo_II%29.gif",
+		"properties": "Defense: 234 - 605\nArmor Type: Light\nMinimum Strength: 61\nDurability: 157\nLevel Requirement: 33\n\n+50-100% Enhanced Defense (varies)\n+3-297 Defense (+3 per Character Level)\nDamage Reduced by 15-20 (varies)\nMagic Damage Reduced by 10-16 (varies)\n+25 To Life\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Spirit Forge",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6a/Ring_Mail_%28Diablo_II%29.gif",
+		"properties": "Defense: 380 - 449\nArmor Type: Heavy\nMinimum Strength: 74\nDurability: 26\nLevel Requirement: 35\n\n+120-160% Enhanced Defense (varies)\n+1-123 Life (+1.25 per Character Level)\nFire Resist +5%\nAdds 20-65 Fire Damage\n+15 To Strength\nSocketed (2)\n+4 To Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Crow Caw",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/81/Scale_Mail_%28Diablo_II%29.gif",
+		"properties": "Defense: 477 - 534\nArmor Type: Medium\nMinimum Strength: 86\nDurability: 36\nLevel Requirement: 37\n\n+150-180% Enhanced Defense (varies)\n15% Increased Attack Speed\n15% Faster Hit Recovery\n35% Chance of Open Wounds\n+15 Dexterity\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Duriel's Shell",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/5d/Duriel%27s_Shell_%28Diablo_II%29.gif",
+		"properties": "Defense: 528 - 732\nArmor Type: Light\nMinimum Strength: 65\nDurability: 150\nLevel Requirement: 41\n\n+160-200% Enhanced Defense (varies)\n+1-123 Defense (+1.25 per Character Level)\n+1-99 To Life (+1 per Character Level)\nFire Resist +20%\nLightning Resist +20%\nPoison Resist +20%\nCold Resist +50%\nCannot Be Frozen\n+15 To Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Shaftstop",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/7e/Chain_Mail_%28Diablo_II%29.gif",
+		"properties": "Defense: 599 - 684\nArmor Type: Medium\nMinimum Strength: 92\nDurability: 45\nLevel Requirement: 38\n\n+180-220% Enhanced Defense (varies)\nDamage Reduced by 30%\n+250 Defense vs. Missile\n+60 to Life\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Skullder's Ire",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/9a/Splint_Mail_%28Diablo_II%29.gif",
+		"properties": "Defense: 634 - 732\nArmor Type: Medium\nMinimum Strength: 97\nDurability: 90\nLevel Requirement: 42\n\n+160-200% Enhanced Defense (varies)\nRepairs 1 Durability Every 5 Seconds\n+1-123% Better Chance of Getting Magic Items (+1.25% per Character Level)\n+1 To All Skills\nMagic Damage Reduced By 10\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Que-Hegan's Wisdom",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a7/Light_Plate_%28Diablo_II%29.gif",
+		"properties": "Defense: 628 - 681\nArmor Type: Light\nMinimum Strength: 55\nDurability: 60\nLevel Requirement: 51\n\n+140-160% Enhanced Defense (varies)\n+1 To All Skill Levels\n+3 Mana After Each Kill\n20% Faster Cast Rate\n20% Faster Hit Recovery\nMagic Damage Reduced By 6-10 (varies)\n+15 to Energy\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Guardian Angel",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/8b/Guardian_Angel_%28Diablo_II%29.gif",
+		"properties": "Defense: 770 - 825\nArmor Type: Medium\nMinimum Strength: 118\nDurability: 60\nLevel Requirement: 45\n\n+180-200% Enhanced Defense (varies)\n20% Increased Chance Of Blocking\n30% Faster Block Rate\n+2-247 To Attack Rating Against Demons (+2.5 per Character Level)\n+1 to Paladin Skill Levels\n+4 to Light Radius\n+15% to Maximum Poison Resist\n+15% to Maximum Cold Resist\n+15% to Maximum Lightning Resist\n+15% to Maximum Fire Resist\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Toothrow",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/56/Toothrow_%28Diablo_II%29.gif",
+		"properties": "Defense: 713 - 888\nArmor Type: Heavy\nMinimum Strength: 103\nDurability: 63\nLevel Requirement: 48\n\n+160-220% Enhanced Defense (varies)\n+40-60 Defense (varies)\n40% Chance of Open Wounds\nFire Resist +15%\n+10 to Strength\nAttacker Takes Damage of 20-40 (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Atma's Wail",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/46/Gothic_Plate_%28Diablo_II%29.gif",
+		"properties": "Defense: 670 - 988\nArmor Type: Medium\nMinimum Strength: 125\nDurability: 105\nLevel Requirement: 51\n\n+120-160% Enhanced Defense (varies)\n+2-198 Defense (+2 per Character Level)\n30% Faster Hit Recovery\nReplenish Life +10\nIncrease Maximum Mana 15%\n+15 To Dexterity\n+20% Better Chance Of Getting Magic Items\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Black Hades",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/04/Full_Plate_Mail_%28Diablo_II%29.gif",
+		"properties": "Defense: 823 - 1029\nArmor Type: Heavy\nMinimum Strength: 140\nDurability: 70\nLevel Requirement: 53\n\n+140-200% Enhanced Defense (varies)\n+30-60% Damage To Demons (varies)\n+200-250 To Attack Rating Against Demons (varies)\nHalf Freeze Duration\nSocketed (3)\n-2 To Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Corpsemourn",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f0/Corpsemourn_%28Diablo_II%29.gif",
+		"properties": "Defense: 1127 - 1262\nArmor Type: Medium\nMinimum Strength: 170\nDurability: 60\nLevel Requirement: 55\n\n+150-180% Enhanced Defense (varies)\nLevel 5 Corpse Explosion (40 Charges)\nAdds 12-36 Fire Damage\n6% Chance To Cast Level 2 Iron Maiden When Struck\nCold Resist +35%\n+10 To Vitality\n+8 To Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Ormus' Robes",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/0c/Ormus%27_Robes_%28Diablo_II%29.gif",
+		"properties": "Defense: 371 - 487\nArmor Type: Light\nMinimum Strength: 77\nDurability: 20\nLevel Requirement: 75\n\n+10-20 Defense (varies)\n20% Faster Cast Rate\n+10-15% To Cold Skill Damage (varies)\n+10-15% To Fire Skill Damage (varies)\n+10-15% To Lightning Skill Damage (varies)\n+3 to (Random Sorceress Skill) (Sorceress Only)\nRegenerate Mana 10-15% (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "The Gladiator's Bane",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f5/The_Gladiator%27s_Bane_%28Diablo_II%29.gif",
+		"properties": "Defense: 1255 - 1496\nArmor Type: Light\nMinimum Strength: 111\nDurability: 135\nLevel Requirement: 85\n\n+150-200% Enhanced Defense (varies)\n+50 Defense\nCannot Be Frozen\n30% Faster Hit Recovery\nPoison Length Reduced by 50%\nAttacker Takes Damage of 20\nDamage Reduced by 15-20 (varies)\nMagic Damage Reduced by 15-20 (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Arkaine's Valor",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/aa/Arkaine%27s_Valor_%28Diablo_II%29.gif",
+		"properties": "Defense: 1295 - 1450\nArmor Type: Medium\nMinimum Strength: 165\nDurability: 30\nLevel Requirement: 85\n\n+150-180% Enhanced Defense (varies)\n+1-2 To All Skills (varies)\n+0-49 To Vitality (+0.5 per Character Level)\n30% Faster Hit Recovery\nDamage Reduced By 10-15 (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Leviathan",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/84/Leviathan_%28Diablo_II%29.gif",
+		"properties": "Defense: 1514 - 1722\nArmor Type: Medium\nMinimum Strength: 174\nDurability: Indestructible\nLevel Requirement: 65\n\n+170-200% Enhanced Defense (varies)\n+100-150 Defense (varies)\n+40-50 To Strength (varies)\nDamage Reduced By 15-25% (varies)\nIndestructible<p>\n(Ladder On\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Steel Carapace",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/8f/Steel_Carapace_%28Diablo_II%29.gif",
+		"properties": "Defense: 1618 - 1785\nArmor Type: Heavy\nMinimum Strength: 230\nDurability: 70\nLevel Requirement: 66\n\n+190-220% Enhanced Defense (varies)\nRegenerate Mana 10-15% (varies)\n20% Faster Hit Recovery\nCold Resist +40-60% (varies)\nDamage Reduced by 9-14 (varies)\nRepairs 1 Durability Every 20 Seconds\n8% Chance to Cast Level 6 Iron Maiden When Struck\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Templar's Might",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/57/Templar%27s_Might_%28Diablo_II%29.gif",
+		"properties": "Defense: 1622 - 1923\nArmor Type: Medium\nMinimum Strength: 232\nDurability: 60\nLevel Requirement: 74\n\n+170-220% Enhanced Defense (varies)\n+250-300 Defense vs. Missile (varies)\n+10-15 to Strength (varies)\n+10-15 to Vitality (varies)\n20% Faster Hit Recovery\n+40-50 to Maximum Stamina (varies)\n+1-2 to Offensive Auras (varies) (Paladin Only)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Tyrael's Might",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/8f/Tyrael%27s_Might_%28Diablo_II%29.gif",
+		"properties": "Defense: 1322 - 1502\nArmor Type: Medium\nMinimum Strength: -\nDurability: Indestructible\nLevel Requirement: 84\n\n+120-150% Enhanced Defense (varies)\n+50-100% Damage to Demons (varies)\n20% Faster Run/Walk\n+20-30 to Strength (varies)\nAll Resistances +20-30 (varies)\nCannot Be Frozen\nRequirements -100%\nSlain Monsters Rest in Peace\nIndestructible\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Blinkbat's Form",
+		"url": "https://i.imgur.com/tXbSknl.gif",
+		"properties": "Defense: 39 - 42\nArmor Type: Light\nMinimum Strength: 12\nDurability: 24\nLevel Requirement: 12\n\n+25 Defense\n+50 Defense VS. Missile\n10% Faster Run/Walk\n40% Faster Hit Recovery\nAdds 3-6 Fire Damage\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Goldskin",
+		"url": "https://i.imgur.com/uiW3oFr.gif",
+		"properties": "Defense: 356 - 405\nArmor Type: Heavy\nMinimum Strength: 80\nDurability: 70\nLevel Requirement: 28\n\n+120-150% Enhanced Defense (varies)\n+2 To Light Radius\nAll Resistances +35\nAttacker Takes Damage of 10\n100% Extra Gold From Monsters\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Oculus",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e6/Jered%27s_Stone_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 18 to 42\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 50\nLevel Requirement: 42\n\n+3 to Sorceress Skill Levels\n+5 Mana After Each Kill\nAll Resistances +20\n25% Chance to Cast Level 1 Teleport When Struck\n30% Faster Cast Rate\n+20 to Vitality\n+20 to Energy\n+20% Enhanced Defense\n50% Better Chance of Getting Magic Items\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Eschuta's Temper",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/0d/Sacred_Globe_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 18 to 50\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 30\nLevel Requirement: 72\n\n+1-3 to Sorceress Skill Levels (varies)\n40% Faster Cast Rate\n+10-20% to Fire Skill Damage (varies)\n+10-20% to Lightning Skill Damage (varies)\n+20-30 to Energy (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Death's Fathom",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e6/Jered%27s_Stone_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 30 to 53\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 50\nLevel Requirement: 73\n\n+3 to Sorceress Skill Levels\n20% Faster Cast Rate\n+15-30% to Cold Skill Damage (varies)\nLightning Resist +25-40% (varies)\nFire Resist +25-40% (varies)\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Bartuc's Cut-Throat",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1c/Claws_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (77-88) to (137-155)\nMelee Range: 2\nAttack Speed: [-30]\nMinimum Strength: 79\nMinimum Dexterity: 79\nDurability: 69\nLevel Requirement: 42\n\n+150-200% Enhanced Damage (varies)\nAdds 25-50 Damage\n30% Faster Hit Recovery\n20% Bonus to Attack Rating\n5-9% Life Stolen per Hit (varies)\n+20 to Strength\n+20 to Dexterity\n+2 to Assassin Skill Levels\n+1 to Martial Arts (Assassin Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Jade Talon",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/88/Katar_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (98-115) to (130-153)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 105\nMinimum Dexterity: 105\nDurability: 56\nLevel Requirement: 66\n\n+190-240% Enhanced Damage (varies)\n+1-2 to Martial Arts (varies) (Assassin Only)\n+1-2 to Shadow Disciplines (varies) (Assassin Only)\n30% Faster Hit Recovery\n10-15% Mana Stolen per Hit (varies)\nAll Resistances +40-50 (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Shadow Killer",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/55/Shadow_Killer_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (145-172) to (170-201)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 100\nMinimum Dexterity: 100\nDurability: Indestructible\nLevel Requirement: 78\n\n+170-220% Enhanced Damage (varies)\n-25% Target Defense\nFreezes Target +2\n+10-15 Mana After Each Kill (varies)\n33% Chance to Cast Level 8 Frost Nova on Striking\nIndestructible\nEthereal (Cannot be Repaired)\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Firelizard's Talons",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1c/Claws_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (66-81) to (159-196)\nMelee Range: 2\nAttack Speed: [-20]\nMinimum Strength: 113\nMinimum Dexterity: 113\nDurability: 52\nLevel Requirement: 67\n\n+200-270% Enhanced Damage (varies)\nAdds 236-480 Fire Damage\n15% Increased Attack Speed\n+1-3 to Martial Arts (varies) (Assassin Only)\n+1-2 to Wake of Inferno (varies) (Assassin Only)\n+1-2 to Wake of Fire (varies) (Assassin Only)\nFire Resist +40-70% (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Lycander's Aim",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e3/Reflex_Bow_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (72-82) to (152-173)\nAttack Speed: [10]\nMinimum Strength: 73\nMinimum Dexterity: 110\nLevel Requirement: 42\n\n+150-200% Enhanced Damage (varies)\nAdds 25-50 Damage\n20% Increased Attack Speed\n+2 to Amazon Skill Levels\n5-8% Mana Stolen per Hit (varies)\n+20 to Energy\n+20 to Dexterity\n+20% Enhanced Defense\n+2 to Bow and Crossbow Skills (Amazon Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Lycander's Flank",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6c/Maiden_Pike_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (130-151) to (305-353)\nMelee Range: 5\nAttack Speed: [20]\nMinimum Strength: 115\nMinimum Dexterity: 98\nDurability: 25\nLevel Requirement: 42\n\n+150-200% Enhanced Damage (varies)\nAdds 25-50 Damage\n+2 to Amazon Skill Levels\n30% Increased Attack Speed\n5-9% Life Stolen per Hit (varies)\n+20 to Strength\n+20 to Vitality\n+20% Enhanced Defense\n+2 to Javelin and Spear Skills (Amazon Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Titan's Revenge",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/65/Maiden_Javelin_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (70-79) to (137-155)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 109\nLevel Requirement: 42\n\n+150-200% Enhanced Damage (varies)\nAdds 25-50 Damage\n+2 to Amazon Skill Levels\n30% Faster Run/Walk\n5-9% Life Stolen per Hit (varies)\n+20 to Strength\n+20 to Dexterity\nReplenishes 1 Quantity Every 3 Seconds\nIncreased Stack Size (60)\n+2 to Javelin and Spear Skills (Amazon Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Blood Raven's Charge",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/54/Hellclap_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (55-66) to (131-155)\nAttack Speed: [-10]\nMinimum Strength: 87\nMinimum Dexterity: 187\nLevel Requirement: 71\n\n+180-230% Enhanced Damage (varies)\n200-300% Bonus to Attack Rating (varies)\nFires Explosive Arrows (Level 13)\nLevel 5 Revive (30 Charges)\n+2-4 to Bow and Crossbow Skills (varies) (Amazon Only)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Stoneraven",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/3f/Maiden_Spear_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (214-247) to (316-361)\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 114\nMinimum Dexterity: 142\nDurability: 28\nLevel Requirement: 64\n\n+230-280% Enhanced Damage (varies)\nAdds 101-187 Magic Damage\n+400-600 Defense (varies)\nAll Resistances +30-50 (varies)\n+1-3 to Javelin and Spear Skills (varies) (Amazon Only)\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Thunderstroke",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/65/Maiden_Javelin_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (75-90) to (135-162)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 107\nMinimum Dexterity: 151\nLevel Requirement: 69\n\n+150-200% Enhanced Damage (varies)\nAdds 1-511 Lightning Damage\n15% Increased Attack Speed\n-15% to Enemy Lightning Resistance\n20% Chance to Cast Level 14 Lightning on Striking\n+2-4 to Javelin and Spear Skills (varies) (Amazon Only)\n+3 to Lightning Bolt (Amazon Only)\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Torch of Iro",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/8e/Torch_of_Iro_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 2 to 4\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 15\nLevel Requirement: 5\n\n+50% Damage to Undead\nAdds 5-9 Fire Damage\n+1 to Necromancer Skill Levels\n+10 to Energy\nRegenerate Mana 5%\n6% Life Stolen per Hit\n+3 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Maelstrom",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/24/Maelstrom_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 2 to 8\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 15\nLevel Requirement: 14\n\n+50% Damage to Undead\nAdds 1-9 Lightning Damage\n+13 to Mana\n30% Faster Cast Rate\nLightning Resist +40%\n+1-3 to Iron Maiden (varies) (Necromancer Only)\n+1-3 to Amplify Damage (varies) (Necromancer Only)\n+1-3 to Terror (varies) (Necromancer Only)\n+1-3 to Corpse Explosion (varies) (Necromancer Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Gravenspine",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/3b/Gravespine_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 3 to 7\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 15\nLevel Requirement: 20\n\n+50% Damage to Undead\n+2 to Necromancer Skill Levels\nAdds 4-8 Cold Damage - 3 Second Duration\n5% Mana Stolen per Hit\n+25-50 to Mana (varies)\n+10 to Dexterity\n+10 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Ume's Lament",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/ad/Ume%27s_Lament_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 5 to 11\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 15\nLevel Requirement: 28\n\n+50% Damage to Undead\n+2 to Necromancer Skill Levels\n20% Faster Cast Rate\n+40 to Mana\nHit Causes Monster to Flee 50%\n+2 to Decrepify (Necromancer Only)\n+3 to Terror (Necromancer Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Suicide Branch",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/0b/Wand_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 8 to 18\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 15\nLevel Requirement: 33\n\n+50% Damage to Undead\n+1 to All Skills\n50% Faster Cast Rate\nIncrease Maximum Mana 10%\nAll Resistances +10\n+40 to Life\nAttacker Takes Damage of 25\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Carin Shard",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/36/Carin_Shard_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 8 to 24\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 15\nLevel Requirement: 35\n\n+50% Damage to Undead\n+1-123 to Mana (+1.25 per Character Level)\n+1-123 to Life (+1.25 per Character Level)\n+1 to Necromancer Skill Levels\n+2 to Summoning Skills (Necromancer Only)\n10% Faster Cast Rate\n30% Faster Hit Recovery\nReplenish Life +5\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Arm of King Leoric",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/3b/Gravespine_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 10 to 22\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 15\nLevel Requirement: 36\n\n+50% Damage to Undead\n10% Chance to Cast Level 2 Bone Prison When Struck\n5% Chance to Cast Level 10 Bone Spirit When Struck\n+1-123 to Mana (+1.25 per Character Level)\n10% Faster Cast Rate\n+2 to Terror (Necromancer Only)\n+2 to Raise Skeletal Mage (Necromancer Only)\n+3 to Skeleton Mastery (Necromancer Only)\n+3 to Raise Skeleton (Necromancer Only)\n+2 to Summoning Skills (Necromancer Only)\n+2 to Poison and Bone Skills (Necromancer Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Blackhand Key",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/8d/Blackhand_Key.gif",
+		"properties": "1H Damage: 13 to 29\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 15\nLevel Requirement: 41\n\n+50% Damage to Undead\n+2 to Necromancer Skill Levels\n+1 to Curses (Necromancer Only)\n20% Damage Taken Goes to Mana\n30% Faster Cast Rate\nFire Resist +37%\n+50 to Life\nLevel 13 Grim Ward (30 Charges)\n-2 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Boneshade",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/3b/Gravespine_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 10 to 31\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 17\nLevel Requirement: 79\n\n+50% Damage to Undead\n+2 to Necromancer Skill Levels\n+1-2 to Bone Spirit (varies) (Necromancer Only)\n+2-3 to Bone Spear (varies) (Necromancer Only)\n+2-3 to Bone Wall (varies) (Necromancer Only)\n+4-5 to Bone Armor (varies) (Necromancer Only)\n+4-5 to Teeth (varies) (Necromancer Only)\n25% Faster Cast Rate\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Death's Web",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/3f/Death%27s_Web_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 22 to 28\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 18\nLevel Requirement: 66\n\n+50% Damage to Undead\n-(40-50)% to Enemy Poison Resistance (varies)\n+7-12 Mana After Each Kill (varies)\n+7-12 Life After Each Kill (varies)\n+2 to All Skills\n+1-2 to Poison and Bone Skills (varies) (Necromancer Only)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Deathbit",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/45/Throwing_Knife_%28Diablo_II%29.gif",
+		"properties": "Throw Damage: (25-30) to (55-67)\n1H Damage: (18-22) to (36-44)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: 52\nLevel Requirement: 44\n\n+130-180% Enhanced Damage (varies)\n40% Deadly Strike\n+200-450 to Attack Rating (varies)\n7-9% Life Stolen per Hit (varies)\n4-6% Mana Stolen per Hit (varies)\nReplenishes 1 Quantity Every 4 Seconds\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "The Scalper",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f7/Throwing_Axe_%28Diablo_II%29.gif",
+		"properties": "Throw Damage: (45-54) to (82-99)\n1H Damage: (27-33) to (55-66)\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: 25\nMinimum Dexterity: 80\nLevel Requirement: 57\n\n+150-200% Enhanced Damage (varies)\n33% Chance of Open Wounds\n+4 Mana After Each Kill\n20% Increased Attack Speed\n25% Bonus to Attack Rating\n4-6% Life Stolen per Hit (varies)\nReplenishes 1 Quantity Every 3 Seconds\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Warshrike",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f8/Warshrike_%28Diablo_II%29.gif",
+		"properties": "Throw Damage: (69-80) to (117-136)\n1H Damage: (81-94) to (105-122)\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 45\nMinimum Dexterity: 142\nLevel Requirement: 75\n\n+200-250% Enhanced Damage (varies)\n50% Deadly Strike\n30% Increased Attack Speed\nPiercing Attack (50%)\n25% Chance to Cast Level 9 Nova on Striking\nReplenishes 1 Quantity Every 3 Seconds\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Gimmershred",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f7/Throwing_Axe_%28Diablo_II%29.gif",
+		"properties": "Throw Damage: (39-46) to (171-204)\n1H Damage: (44-52) to (169-201)\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: 88\nMinimum Dexterity: 108\nLevel Requirement: 70\n\n+160-210% Enhanced Damage (varies)\nAdds 218-483 Fire Damage\nAdds 29-501 Lightning Damage\nAdds 176-397 Cold Damage - 4 Second Duration\n30% Increased Attack Speed\nIncreased Stack Size (60)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Lacerator",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1c/Lacerator_%28Diablo_II%29.gif",
+		"properties": "Throw Damage: (17-21) to (150-186)\n1H Damage: (27-34) to (140-173)\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 96\nMinimum Dexterity: 122\nLevel Requirement: 68\n\n+150-210% Enhanced Damage (varies)\n30% Increased Attack Speed\n33% Chance of Open Wounds\nPrevent Monster Heal\nHit Causes Monster to Flee 50%\n33% Chance to Cast Level 3 Amplify Damage on Striking\nReplenishes 1 Quantity Every 4 Seconds\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Blood Crescent",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a3/Blood_Crescent_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 3 to (9-10)\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: -\nMinimum Dexterity: 21\nDurability: 22\nLevel Requirement: 7\n\n+60-80% Enhanced Damage (varies)\n33% Chance of Open Wounds\n15% Increased Attack Speed\n15% Life Stolen per Hit\nAll Resistances +15\n+15 to Life\n+4 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Culwen's Point",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/86/Culwen%27s_Point_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (13-14) to (34-36)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 71\nMinimum Dexterity: 45\nDurability: 45\nLevel Requirement: 29\n\n+70-80% Enhanced Damage (varies)\n+1 to All Skills\nPoison Length Reduced by 50%\n20% Increased Attack Speed\n20% Faster Hit Recovery\n+60 to Attack Rating"
+	},
+	{
+		"name": "Griswold's Edge",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/40/Griswold%27s_Edge_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (12-15) to (25-30)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 48\nMinimum Dexterity: -\nDurability: 32\nLevel Requirement: 17\n\n+80-120% Enhanced Damage (varies)\nAdds (10-12) to (15-25) Fire Damage\n10% Increased Attack Speed\n+100 to Attack Rating\n+12 to Strength\nKnockback\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Hellplague",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/72/Hellplague_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 5 to (32-34)\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 55\nMinimum Dexterity: 39\nDurability: 44\nLevel Requirement: 22\n\n+70-80% Enhanced Damage (varies)\n+2 to Fire Skills\nAdds 25-75 Fire Damage\n+28-56 Poison Damage Over 6 Seconds\n5% Life Stolen per Hit\n5% Mana Stolen per Hit\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Rixot's Keen",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/28/Rixot%27s_Keen_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 9 to 14\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 24\nLevel Requirement: 2\n\n+100% Enhanced Damage\n+5 to Minimum Damage\n25% Chance of Crushing Blow\n20% Bonus to Attack Rating\n+25 Defense\n+2 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Skewer of Krintiz",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a9/Skewer_of_Krintiz_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 7 to 19\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 25\nDurability: 32\nLevel Requirement: 10\n\n+50% Enhanced Damage\nAdds 3-7 Damage\nIgnore Target's Defense\n7% Mana Stolen per Hit\n+10 to Dexterity\n+10 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Blacktongue",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2f/Blacktongue_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (10-11) to (28-30)\n2H Damage: (30-32) to (42-44)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 62\nMinimum Dexterity: -\nDurability: 40\nLevel Requirement: 26\n\n+50-60% Enhanced Damage (varies)\n+113 Poison Damage Over 6 Seconds\nPrevent Monster Heal\n+50 to Attack Rating\nPoison Resist +50%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Kinemil's Awl",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/9e/Kinemil%27s_Awl_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (5-6) to (28-32)\n2H Damage: (16-18) to (50-56)\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 56\nMinimum Dexterity: 34\nDurability: 50\nLevel Requirement: 23\n\n+80-100% Enhanced Damage (varies)\n+100-150 to Attack Rating (varies)\nAdds 6 to (20-40) Fire Damage (varies)\n+20 to Mana\n+6 to Holy Fire (Paladin Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Ripsaw",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/06/Ripsaw_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (16-18) to (42-45)\n2H Damage: (23-26) to (61-67)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 70\nMinimum Dexterity: 49\nDurability: 50\nLevel Requirement: 26\n\n+80-100% Enhanced Damage (varies)\n+15 to Maximum Damage\n80% Chance of Open Wounds\n6% Mana Stolen per Hit\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Shadowfang",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/3b/Shadowfang_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 4 to 18\n2H Damage: 16 to 34\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 35\nMinimum Dexterity: 27\nDurability: 44\nLevel Requirement: 12\n\n+100% Enhanced Damage\nAdds 10-30 Cold Damage - 6 Second Duration\n9% Life Stolen per Hit\n9% Mana Stolen per Hit\nCold Resist +20%\n-2 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Soulflay",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/7d/Soulflay_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (8-10) to (20-24)\n2H Damage: (22-26) to (51-60)\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 47\nMinimum Dexterity: -\nDurability: 50\nLevel Requirement: 19\n\n+70-100% Enhanced Damage (varies)\n10% Increased Attack Speed\n4% Life Stolen per Hit\n4-10% Mana Stolen per Hit (varies)\nAll Resistances +5\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Patriarch",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f1/The_Patriarch_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (24-26) to (40-44)\n2H Damage: (50-55) to (84-92)\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 100\nMinimum Dexterity: 60\nDurability: 50\nLevel Requirement: 29\n\n+100-120% Enhanced Damage (varies)\nHit Blinds Target\n+10 to Strength\n100% Extra Gold From Monsters\nMagic Damage Reduced by 3\nDamage Reduced by 3\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Blade of Ali Baba",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/65/Blade_of_Ali_Baba_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (25-35) to (56-77)\nMelee Range: 1\nAttack Speed: [20]\nMinimum Strength: 70\nMinimum Dexterity: 42\nDurability: 32\nLevel Requirement: 35\n\n+60-120% Enhanced Damage (varies)\n2-247% Exta Gold From Monsters (+2.5% per Character Level)\n1-99% Better Chance of Getting Magic Items (+1% per Character Level)\n+15 to Mana\n+5-15 to Dexterity (varies)\nSocketed (2)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Bloodletter",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/28/Rixot%27s_Keen_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 31 to 97\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 54\nLevel Requirement: 30\n\n+140% Enhanced Damage\nAdds 12-45 Damage\n+90 to Attack Rating\n20% Increased Attack Speed\n10% Slower Stamina Drain\n8% Life Stolen per Hit\n+1-3 to Whirlwind (varies) (Barbarian Only)\n+2-4 to Sword Mastery (varies) (Barbarian Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Coldsteel Eye",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a3/Blood_Crescent_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (24-28) to (63-73)\nMelee Range: 1\nAttack Speed: [-30]\nMinimum Strength: 25\nMinimum Dexterity: 52\nDurability: 72\nLevel Requirement: 31\n\n+200-250% Enhanced Damage (varies)\n50% Chance of Deadly Strike\n20% Increased Attack Speed\n6% Mana Stolen per Hit\nSlows Target by 30%\nHit Blinds Target\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Ginther's Rift",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/fc/Ginther%27s_Rift_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (26-32) to (70-87)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 85\nMinimum Dexterity: 60\nDurability: 60\nLevel Requirement: 37\n\n+100-150% Enhanced Damage (varies)\nAdds 50-120 Magic Damage\n30% Increased Attack Speed\nMagic Damage Reduced by 7-12 (varies)\nRepairs 1 Durability Every 5 Seconds\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Headstriker",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/04/Headstriker_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 40 to (86-184)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 92\nMinimum Dexterity: 43\nDurability: 32\nLevel Requirement: 39\n\n+150% Enhanced Damage\n+1-99 to Maximum Damage (+1 per Character Level)\n1-148% Deadly Strike (+1.5% per Character Level)\nPrevent Mosnter Heal\n+15 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Hexfire",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/09/Hexfire_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (59-61) to (97-102)\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 58\nMinimum Dexterity: 58\nDurability: 32\nLevel Requirement: 33\n\n+140-160% Enhanced Damage (varies)\nAdds 35-40 Damage\n+3 to Fire Skills\nLevel 6 Hydra (36 Charges)\nIgnore Target's Defense\nFire Resist +25%\n+10% to Maximum Fire Resist\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Plague Bearer",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/72/Plague_Bearer_Rune_Sword_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 35 to 150\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 103\nMinimum Dexterity: 79\nDurability: 44\nLevel Requirement: 41\n\n+150% Enhanced Damage\nAdds 10-45 Damage\n+300 Poison Damage Over 8 Seconds\n5% Chance to Cast Level 4 Poison Nova on Striking\nPoison Resist +45%\n+5 to Rabies (Druid Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Atlantean",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/56/The_Atlantian_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (54-63) to (129-150)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 127\nMinimum Dexterity: 88\nDurability: 144\nLevel Requirement: 42\n\n+200-250% Enhanced Damage (varies)\n+2 to Paladin Skill Levels\n50% Bonus to Attack Rating\n+75 Defense\n+8 to Vitality\n+12 to Dexterity\n+16 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Bing Sz Wang",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/7c/Claymore_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (29-33) to (69-78)\n2H Damage: (59-67) to (140-158)\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 64\nMinimum Dexterity: 14\nDurability: 50\nLevel Requirement: 43\n\n+130-160% Enhanced Damage (varies)\nAdds 50-140 Cold Damage - 3 Second Duration\n5% Chance to Cast Level 3 Frozen Orb on Striking\nFreezes Target +2\nRequirements -30%\n+20 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Cloudcrack",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2f/Blacktongue_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (35-42) to (100-120)\n2H Damage: (97-117) to (150-180)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 113\nMinimum Dexterity: 20\nDurability: 40\nLevel Requirement: 45\n\n+150-200% Enhanced Damage (varies)\n6% Chance to Cast Level 7 Fist of the Heavens on Striking\nAdds 1-240 Lightning Damage\n+10% to Maximum Lightning Resist\n+30 Defense\nAttacker Takes Lightning Damage of 15\n+2 to Defensive Auras (Paladin Only)\n+2 to Offensive Auras (Paladin Only)\n+2 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Crainte Vomir",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/3b/Shadowfang_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (20-24) to (67-68)\n2H Damage: (46-54) to (104-120)\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 73\nMinimum Dexterity: 61\nDurability: 44\nLevel Requirement: 42\n\n+160-200% Enhanced Damage (varies)\n50% Increased Attack Speed\nSlows Target by 35%\n-70 to Monster Defense per Hit\n20% Faster Run/Walk\nDamage Reduced by 10%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Swordguard",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/7d/Swordguard_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (64-67) to (108-112)\n2H Damage: (126-132) to (216-224)\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 85\nMinimum Dexterity: 55\nDurability: 50\nLevel Requirement: 48\n\n+170-180% Enhanced Damage (varies)\n+5-495 Defense (+5 per Character Level)\n30% Damage Taken Goes to Mana\nRequirements -50%\nAll Resistances +10-20 (varies)\n20% Faster Hit Recovery\n20% Increased Chance of Blocking\n+100 Defense vs. Missile\n+200 Defense vs. Melee\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Vile Husk",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f5/The_Vile_Husk_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (25-30) to (92-111)\n2H Damage: (47-57) to (145-174)\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 104\nMinimum Dexterity: 71\nDurability: 50\nLevel Requirement: 44\n\n+150-200% Enhanced Damage (varies)\n+7-742% Damage to Undead (+7.5% per Character Level)\n+10-990 to Attack Rating Against Undead (+10 per Character Level)\n+250 Poison Damage Over 6 Seconds\n6% Chance to Cast Level 1 Amplify Damage on Striking\nPoison Resist +50%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Todesfaelle Flamme",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/21/Todesfaelle_Flamme_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (41-49) to (77-91)\n2H Damage: (63-75) to (118-140)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 125\nMinimum Dexterity: 94\nDurability: 50\nLevel Requirement: 46\n\n+120-160% Enhanced Damage (varies)\nAdds 50-200 Fire Damage\n10% Chance to Cast Level 6 Fire Ball on Attack\nLevel 10 Fire Wall (20 Charges)\nLevel 10 Enchant (45 Charges)\n+10 Fire Absorb\nFire Resist +40%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Azurewrath",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/31/Crystal_Sword_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (102-114) to (115-129)\nMelee Range: 2\nAttack Speed: [-30]\nMinimum Strength: 25\nMinimum Dexterity: 136\nDurability: Indestructible\nLevel Requirement: 85\n\n+230-270% Enhanced Damage (varies)\n30% Increased Attack Speed\nAdds 250-500 Magic Damage\nAdds 250-500 Cold Damage - 10 Second Duration\n+1 to All Skills\n+5-10 to All Attributes (varies)\nLevel 10-13 Sanctuary Aura When Equipped (varies)\n+3 to Light Radius\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Bloodmoon",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/ce/Bloodmoon_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (102-118) to (139-162)\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 109\nMinimum Dexterity: 122\nDurability: 32\nLevel Requirement: 61\n\n+210-260% Enhanced Damage (varies)\n10-15% Life Stolen per Hit (varies)\n50% Chance of Open Wounds\n+7-13 Life After Each Kill (varies)\nLevel 15 Blood Golem (9 Charges)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Djinn Slayer",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a3/Blood_Crescent_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (75-88) to (133-156)\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 138\nMinimum Dexterity: 95\nDurability: 22\nLevel Requirement: 65\n\n+190-240% Enhanced Damage (varies)\n+100-150% Damage to Demons (varies)\n+200-300 to Attack Rating Against Demons\nAdds 250-500 Fire Damage\n3-6% Mana Stolen per Hit (varies)\n+3-7 Lightning Absorb (varies)\nSocketed (1-2) (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Frostwind",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f5/Frostwind_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (14-16) to (215-254)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 99\nMinimum Dexterity: 109\nDurability: 44\nLevel Requirement: 70\n\n+180-230% Enhanced Damage (varies)\nAdds 237-486 Cold Damage - 6 Second Duration\n+7-14 to Arctic Blast (varies)\nFreezes Target +4\nCold Absorb 7-15% (varies)\nHalf Freeze Duration\n25% Increased Attack Speed\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Lightsabre",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/00/Lightsabre_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (87-103) to (117-135)\nMelee Range: 2\nAttack Speed: [-30]\nMinimum Strength: 25\nMinimum Dexterity: 136\nDurability: Indestructible\nLevel Requirement: 58\n\n+150-200% Enhanced Damage (varies)\nAdds 10-30 Damage\nAdds 60 to 120 Magic Damage\nAdds 1-200 Lightning Damage\n5-7% Mana Stolen per Hit (varies)\n5% Chance to Cast Level 14-20 Chain Lightning on Attack (varies)\n20% Increased Attack Speed\nIgnore Target's Defense\nLightning Absorb 25%\n+7 to Light Radius\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Doombringer",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e4/Doombringer_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (97-114) to (251-289)\n2H Damage: (228-278) to (332-390)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 163\nMinimum Dexterity: 103\nDurability: Indestructible\nLevel Requirement: 69\n\n+180-250% Enhanced Damage (varies)\nAdds 30-100 Damage\n8% Chance to Cast Level 3 Weaken on Striking\n40% Bonus to Attack Rating\nIncrease Maximum Life 20%\n5-7% Life Stolen per Hit\nIndestructible\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Flamebellow",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a2/Flamebellow_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (40-51) to (202-255)\n2H Damage: (148-187) to (318-401)\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 185\nMinimum Dexterity: 87\nDurability: 50\nLevel Requirement: 71\n\n+170-240% Enhanced Damage (varies)\nAdds 233-482 Fire Damage\n+3 to Fire Skills\n+12-18 to Inferno (varies)\n+10-20 to Strength\n+5-10 to Vitality\n12% Chance to Cast Level 16 Firestorm on Striking\nFire Absorb 20-30% (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "The Grandfather",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/eb/The_Grandfather_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (62-87) to (164-474)\n2H Damage: (145-203) to (289-649)\nMelee Range: 3\nAttack Speed: [5]\nMinimum Strength: 189\nMinimum Dexterity: 110\nDurability: Indestructible\nLevel Requirement: 81\n\n+150-250% Enhanced Damage (varies)\n+2-247 to Maximum Damage (+2.5 per Character Level)\n50% Bonus to Attack Rating\n+80 to Life\n+20 to All Attributes\nIndestructible\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Gleamscythe",
+		"url": "https://i.imgur.com/NONHocy.gif",
+		"properties": "1H Damage: (14-18) to (27-34)\nMelee Range: 1\nAttack Speed: [20]\nMinimum Strength: 33\nMinimum Dexterity: -\nDurability: 32\nLevel Requirement: 13\n\n+60-100% Enhanced Damage (varies)\nAdds 3-5 Cold Damage - 2 Second Duration\n20% Increased Attack Speed\n+20 Defense\n+30 to Mana\n+3 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Bane Ash",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/14/Bane_Ash_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 1 to (7-8)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 20\nLevel Requirement: 5\n\n+50-60% Enhanced Damage (varies)\n+50% Damage to Undead\n20% Increased Attack Speed\n+30 to Mana\nFire Resist +50%\nAdds 4-6 Fire Damage\n+5 to Fire Bolt (Sorceress Only)\n+2 to Warmth (Sorceress Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Serpent Lord",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/b/bb/Serpent_Lord_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 2 to (10-11)\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 30\nLevel Requirement: 9\n\n+30-40% Enhanced Damage (varies)\n+50% Damage to Undead\n+12 Poison Damage Over 3 Seconds\n100% Mana Stolen per Hit\n-50% Target Defense\n+10 to Mana\nPoison Resist +50%\n-1 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Spire of Lazarus",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/5c/Lazarus_Spire_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 4 to 12\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 35\nLevel Requirement: 18\n\n+50% Damage to Undead\nAdds 1-28 Lightning Damage\n+1 to Sorceress Skill Levels\n+2 to Lightning (Sorceress Only)\n+1 to Chain Lightning (Sorceress Only)\n+3 to Static Field (Sorceress Only)\nRegenerate Mana 43%\n+15 to Energy\nDamage Reduced by 5\nLightning Resist +75%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Salamander",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/17/The_Salamander_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 6 to 13\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 40\nLevel Requirement: 21\n\n+50% Damage to Undead\nAdds 15-32 Fire Damage\nFire Resist +30%\n+2 to Fire Skills\n+3 to Warmth (Sorceress Only)\n+2 to Fire Ball (Sorceress Only)\n+1 to Fire Wall (Sorceress Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Iron Jang Bong",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/77/The_Iron_Jang_Bong_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 24 to 56\nMelee Range: 2\nAttack Speed: [20]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 50\nLevel Requirement: 28\n\n+100% Enhanced Damage\n+50% Damage to Undead\n50% Bonus to Attack Rating\n20% Faster Cast Rate\n+2 to Sorceress Skill Levels\n+3 to Frost Nova (Sorceress Only)\n+2 to Blaze (Sorceress Only)\n+2 to Nova (Sorceress Only)\n+30 Defense\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Razorswitch",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/84/Short_Staff_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 6 to 21\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 20\nLevel Requirement: 28\n\n+50% Damage to Undead\n+1 to All Skills\n30% Faster Cast Rate\nMagic Damage Reduced by 15\nAll Resistances +50\n+175 to Mana\n+80 to Life\nAttacker Takes Damage of 15\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Ribcracker",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/37/Ribcracker_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (54-62) to (143-169)\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 130\nLevel Requirement: 31\n\n+200-300% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 30-65 Damage\n50% Chance of Crushing Blow\n50% Increased Attack Speed\n50% Faster Hit Recovery\n+100% Enhanced Defense\n+100 Defense\n+15 to Dexterity\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Chromatic Ire",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/5c/Lazarus_Spire_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 11 to 32\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 35\nLevel Requirement: 35\n\n+50% Damage to Undead\n20% Faster Cast Rate\n+3 to Sorceress Skill Levels\nIncrease Maximum Life 20-25% (varies)\nAll Resistances +20-40 (varies)\nAttacker Takes Lightning Damage of 20\n+1 to Cold Mastery (Sorceress Only)\n+1 to Fire Mastery (Cold Only)\n+1 to Lightning Mastery (Sorceress Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Warpspear",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e0/Warpspear_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 14 to 34\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 40\nLevel Requirement: 39\n\n+50% Damage to Undead\nIgnore Target's Defense\n+250 Defense vs. Missile\n+3 to Sorceress Skill Levels\n+3 to Energy Shield (Sorceress Only)\n+3 to Telekinesis (Sorceress Only)\n+3 to Teleport (Sorceress Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Skull Collector",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/3a/Skull_Collector_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 24 to 58\nMelee Range: 2\nAttack Speed: [20]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 50\nLevel Requirement: 41\n\n+50% Damage to Undead\n+20 Mana After Each Kill\nIncrease Maximum Mana 20%\n+1-99% Better Chance of Getting Magic Items (+1% per Character Level)\n+2 to All Skills\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Ondal's Wisdom",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/5c/Lazarus_Spire_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 80 to 93\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 44\nMinimum Dexterity: 37\nDurability: 35\nLevel Requirement: 66\n\n+50% Damage to Undead\n+2-4 to All Skills (varies)\n45% Faster Cast Rate\n+450-550 Defense (varies)\n+40-50 to Energy (varies)\nMagic Damage Reduced by 5-8 (varies)\n+5% to Experience Gained\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Mang Song's Lesson",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/aa/Mang_Song%27s_Lesson_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 83 to 99\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 34\nMinimum Dexterity: -\nDurability: 26\nLevel Requirement: 82\n\n+50% Damage to Undead\n+5 to All Skills\n30% Faster Cast Rate\n-(7-15)% to Enemy Cold Resistance (varies)\n-(7-15)% to Enemy Fire Resistance (varies)\n-(7-15)% to Enemy Lightning Resistance (varies)\nRegenerate Mana 10%\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Bloodthief",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/cd/Bloodthief_%28Diablo_II%29..gif",
+		"properties": "2H Damage: (10-11) to (25-28)\nMelee Range: 5\nAttack Speed: [-20]\nMinimum Strength: 40\nMinimum Dexterity: 50\nDurability: 28\nLevel Requirement: 17\n\n+50-70% Enhanced Damage (varies)\n35% Chance of Open Wounds\n8-12% Life Stolen per Hit (varies)\n+26 to Life\n+10 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Lance of Yaggai",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/89/Lance_of_Yaggai_%28Diablo_II%29..gif",
+		"properties": "2H Damage: 15 to 23\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 54\nMinimum Dexterity: 35\nDurability: 28\nLevel Requirement: 22\n\nAdds 1-60 Lightning Damage\nAll Resistances +15\n40% Increased Attack Speed\nAttacker Takes Damage of 8\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Razortine",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/77/Razortine_%28Diablo_II%29..gif",
+		"properties": "2H Damage: (11-13) to (19-22)\nMelee Range: 4\nAttack Speed: [0]\nMinimum Strength: 38\nMinimum Dexterity: 24\nDurability: 35\nLevel Requirement: 12\n\n+30-50% Enhanced Damage (varies)\nSlows Target by 25%\n30% Increased Attack Speed\n-50% Target Defense\n+8 to Dexterity\n+15 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Dragon Chang",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/97/The_Dragon_Chang_%28Diablo_II%29..gif",
+		"properties": "2H Damage: 13 to 15\nMelee Range: 4\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: 20\nDurability: 30\nLevel Requirement: 8\n\n+100% Damage to Undead\n+10 to Minimum Damage\nAdds 3-6 Fire Damage\n+35 to Attack Rating\n+2 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Tannr Gorerod",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/ef/The_Tannr_Gorerod_%28Diablo_II%29..gif",
+		"properties": "2H Damage: (25-28) to (113-126)\nMelee Range: 5\nAttack Speed: [20]\nMinimum Strength: 60\nMinimum Dexterity: 45\nDurability: 25\nLevel Requirement: 27\n\n+80-100% Enhanced Damage (varies)\nAdds 23-54 Fire Damage\n+60 to Attack Rating\nFire Resist +15%\n+15% to Maximum Fire Resist\n+30 to Life\n+3 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Hone Sundan",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/89/Lance_of_Yaggai_%28Diablo_II%29..gif",
+		"properties": "2H Damage: (95-107) to (193-217)\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 101\nMinimum Dexterity: -\nDurability: 28\nLevel Requirement: 37\n\n+160-200% Enhanced Damage (varies)\nAdds 20-40 Damage\n45% Chance of Crushing Blow\nRepairs 1 Durability Every 10 Seconds\nSocketed (3)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Kelpie Snare",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/77/Razortine_%28Diablo_II%29..gif",
+		"properties": "2H Damage: (75-83) to (138-153)\nMelee Range: 4\nAttack Speed: [0]\nMinimum Strength: 77\nMinimum Dexterity: 25\nDurability: 35\nLevel Requirement: 33\n\n+140-180% Enhanced Damage (varies)\nAdds 30-50 Damage\nSlows Target by 75%\n+1-123 to Life (+1.25 per Character Level)\nFire Resist +50%\n+10 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Soulfeast Tine",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/c2/Soulfeast_Tine_%28Diablo_II%29..gif",
+		"properties": "2H Damage: (40-46) to (100-116)\nMelee Range: 5\nAttack Speed: [-20]\nMinimum Strength: 64\nMinimum Dexterity: 76\nDurability: 43\nLevel Requirement: 35\n\n+150-190% Enhanced Damage (varies)\n+150-250 to Attack Rating (varies)\nRequirements -20%\n7% Life Stolen per Hit\n7% Mana Stolen per Hit\n20% Slower Stamina Drain\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Spire of Honor",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/81/Spire_of_Honor_%28Diablo_II%29..gif",
+		"properties": "2H Damage: (87-101) to (325-382)\nMelee Range: 5\nAttack Speed: [20]\nMinimum Strength: 110\nMinimum Dexterity: 88\nDurability: 25\nLevel Requirement: 39\n\n+150-200% Enhanced Damage (varies)\nAdds 20-40 Damage\n+1-148% Damage to Demons (+1.5% per Character Level)\n20% Faster Hit Recovery\nReplenish Life +20\n25% Bonus to Attack Rating\n+25% Enhanced Defense\n+3 to Combat Skills (Paladin Only)\n+3 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Impaler",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/7b/The_Impaler..gif",
+		"properties": "2H Damage: (24-27) to (88-89)\nMelee Range: 4\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 25\nDurability: 30\nLevel Requirement: 31\n\n+140-170% Enhanced Damage (varies)\n40% Chance of Open Wounds\n20% Increased Attack Speed\nIgnore Target's Defense\n+150 to Attack Rating\nPrevent Monster Heal\n+5 to Impale (Amazon Only)\n+3 to Power Strike (Amazon Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Arioc's Needle",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/89/Spear_%28Diablo_II%29..gif",
+		"properties": "2H Damage: (98-115) to (333-392)\nMelee Range: 4\nAttack Speed: [-10]\nMinimum Strength: 155\nMinimum Dexterity: 120\nDurability: 30\nLevel Requirement: 81\n\n+180-230% Enhanced Damage (varies)\n50% Deadly Strike\n+394 Poison Damage Over 10 Seconds\n30% Increased Attack Speed\n+2-4 to All Skills (varies)\nIgnore Target's Defense\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Steel Pillar",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/7a/Pike_%28Diablo_II%29..gif",
+		"properties": "2H Damage: (102-118) to (551-640)\nMelee Range: 5\nAttack Speed: [20]\nMinimum Strength: 165\nMinimum Dexterity: 106\nDurability: Indestructible\nLevel Requirement: 69\n\n+210-260% Enhanced Damage (varies)\n25% Chance of Crushing Blow\n-20% Target Defense\n25% Increased Attack Speed\n+50-80% Enhanced Defense (varies)\nIndestructible\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Viperfork",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/0e/Viperfork_%28Diablo_II%29..gif",
+		"properties": "2H Damage: (121-142) to (266-312)\nMelee Range: 5\nAttack Speed: [-20]\nMinimum Strength: 132\nMinimum Dexterity: 134\nDurability: 28\nLevel Requirement: 71\n\n+190-240% Enhanced Damage (varies)\n+200-250 to Attack Rating (varies)\n+325 Poison Damage Over 10 Seconds\n50% Increased Attack Speed\nPoison Resist +30-50% (varies)\n15% Chance to Cast Level 9 Poison Explosion on Striking\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Knell Striker",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/c7/Scepter_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 10 to (18-19)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 50\nLevel Requirement: 5\n\n+70-80% Enhanced Damage (varies)\n+50% Damage to Undead\n25% Chance of Crushing Blow\n+35 to Attack Rating\nPoison Resist +20%\nFire Resist +20%\n+15 to Mana\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Rusthandle",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/5a/Grand_Scepter_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 15 to (34-35)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 37\nMinimum Dexterity: -\nDurability: 60\nLevel Requirement: 18\n\n+50-60% Enhanced Damage (varies)\n+100-110% Damage to Undead (varies)\nAdds 3-7 Damage\n8% Life Stolen per Hit\n+1 to Paladin Skill Levels\nMagic Damage Reduced by 1\n+3 to Thorns (Paladin Only)\n+1-3 to Vengeance (varies) (Paladin Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Stormeye",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/10/War_Scepter_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (18-22) to (30-37)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 55\nMinimum Dexterity: -\nDurability: 70\nLevel Requirement: 30\n\n+80-120% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 3-5 Cold Damage - 3 Second Duration\nAdds 1-6 Lightning Damage\nReplenish Life +10\n+1 to Fist of the Heavens (Paladin Only)\n+3 to Holy Shock (Paladin Only)\n+3-5 to Resist Lightning (varies) (Paladin Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Zakarum's Hand",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/c7/Scepter_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (36-41) to (67-76)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 58\nMinimum Dexterity: -\nDurability: 50\nLevel Requirement: 37\n\n+180-220% Enhanced Damage (varies)\n+50% Damage to Undead\n30% Increased Attack Speed\n6% Chance to Cast Level 5 Blizzard on Striking\n8% Mana Stolen per Hit\nIgnore Target's Defense\nRegenerate Mana 10%\nHeal Stamina Plus 15%\n+2 to Holy Shock (Paladin Only)\n+2 to Holy Freeze (Paladin Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Fetid Sprinkler",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/5a/Grand_Scepter_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (51-55) to (118-129)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 76\nMinimum Dexterity: -\nDurability: 60\nLevel Requirement: 38\n\n+160-190% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 15-25 Damage\n+2 to Paladin Skill Levels\n10% Chance to Cast Level 1 Confuse on Striking\n5% Chance to Cast Level 1 Decrepify on Striking\n+160 Poison Damage Over 4 Seconds\n+150-200 to Attack Rating (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Hand of Blessed Light",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/10/War_Scepter_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (56-61) to (132-143)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 42\nMinimum Dexterity: -\nDurability: 70\nLevel Requirement: 42\n\n+130-160% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 20-45 Damage\n+2 to Paladin Skill Levels\n100% Bonus to Attack Rating\nRegenerate Mana 15%\n+50 Defense\n5% Chance to Cast Level 4 Fist of the Heavens on Striking\n+2 to Fist of the Heavens (Paladin Only)\n+4 to Holy Bolt (Paladin Only)\n+4 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Heaven's Light",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/c7/Scepter_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (140-160) to (182-208)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 125\nMinimum Dexterity: 65\nDurability: 50\nLevel Requirement: 61\n\n+250-300% Enhanced Damage (varies)\n+50% Damage to Undead\n-33% Target Defense\n20% Increased Attack Speed\n33% Chance of Crushing Blow\n+15-20 Life After Each Demon Kill (varies)\n+2-3 to Paladin Skill Levels (varies)\n+3 to Light Radius\nSocketed (1-2) (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "The Redeemer",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/c7/Scepter_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (140-160) to (182-208)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 50\nMinimum Dexterity: 26\nDurability: 50\nLevel Requirement: 72\n\n+250-300% Enhanced Damage (varies)\n+50% Damage to Undead\nDamage +60-120 (varies)\n+200-250% Damage to Demons (varies)\n+2 to Paladin Skill Levels\n-33% Target Defense\n+2-4 to Redemption (varies) (Paladin Only)\n+2-4 to Holy Bolt (varies) (Paladin Only)\n+3 to Light Radius\nRequirements -60%\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Astreon's Iron Ward",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/10/War_Scepter_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (125-144) to (146-167)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 97\nMinimum Dexterity: 70\nDurability: 70\nLevel Requirement: 66\n\n+240-290% Enhanced Damage (varies)\n+50% Damage to Undead\nDamage +40-85 (varies)\nAdds 80-240 Magic Damage\n33% Chance of Crushing Blow\nSlows Target by 25%\nDamage Reduced by 4-7 (varies)\n+2-4 to Combat Skills (varies) (Paladin Only)\n10% Increased Attack Speed\n150-200% Bonus to Attack Rating (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Dimoak's Hew",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/9e/Bardiche_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 2 to 54\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 40\nMinimum Dexterity: -\nDurability: 50\nLevel Requirement: 8\n\n+100% Enhanced Damage\n20% Increased Attack Speed\n+15 to Dexterity\n-8 Defense"
+	},
+	{
+		"name": "Steelgoad",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d6/Steelgoad_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (9-10) to (33-37)\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 50\nMinimum Dexterity: -\nDurability: 70\nLevel Requirement: 14\n\n+60-80% Enhanced Damage (varies)\n30% Deadly Strike\n+30 to Attack Rating\nAll Resistances +5\nHit Causes Monster to Flee 75%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Battlebranch",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/21/Poleaxe_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (27-30) to (58-66)\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 62\nMinimum Dexterity: -\nDurability: 65\nLevel Requirement: 25\n\n+50-70% Enhanced Damage (varies)\n30% Increased Attack Speed\n+50-100 to Attack Rating (varies)\n7% Life Stolen per Hit\n+10 to Dexterity\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Grim Reaper",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/19/War_Scythe_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 33 to 43\nMelee Range: 5\nAttack Speed: [-10]\nMinimum Strength: 80\nMinimum Dexterity: 80\nDurability: 55\nLevel Requirement: 29\n\n+20% Enhanced Damage\n+15 to Minimum Damage\n100% Deadly Strike\n5% Mana Stolen per Hit\nPrevent Monster Heal\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Woestave",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1b/Halberd_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (14-16) to (54-62)\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 75\nMinimum Dexterity: 47\nDurability: 55\nLevel Requirement: 28\n\n+20-40% Enhanced Damage (varies)\n50% Chance of Open Wounds\nSlows Target by 50%\nHit Blinds Target +3\n-50 to Monster Defense per Hit\nFreezes Target\nPrevent Monster Heal\n-3 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Athena's Wrath",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/23/Athena%27s_Wrath_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (45-50) to (113-224)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 82\nMinimum Dexterity: 82\nDurability: 65\nLevel Requirement: 42\n\n+150-180% Enhanced Damage (varies)\n+1-99 to Maximum Damage (+1 per Character Level)\n+1-99 to Life (+1 per Character Level)\n30% Increased Attack Speed\n+1-3 to Druid Skill Levels (varies)\n+15 to Dexterity\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Blackleach Blade",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1e/Voulge_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (28-33) to (107-250)\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 72\nMinimum Dexterity: -\nDurability: 50\nLevel Requirement: 41\n\n+100-140% Enhanced Damage (varies)\n+1-123 to Maximum Damage (+1.25 per Character Level)\n5% Chance to Cast Level 5 Weaken on Striking\nRequirements -25%\n-2 to Light Radius\n8% Life Stolen per Hit\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Grim's Burning Dead",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/19/War_Scythe_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (72-84) to (168-196)\nMelee Range: 5\nAttack Speed: [-10]\nMinimum Strength: 70\nMinimum Dexterity: 70\nDurability: 55\nLevel Requirement: 45\n\n+140-180% Enhanced Damage (varies)\nAdds 131-232 Fire Damage\n+3 to Necromancer Skill Levels\n-50% Target Defense\n+20% Enhanced Defense\n+200-250 to Attack Rating (varies)\nFire Resist +45%\nRequirements -50%\nAttacker Takes Damage of 8\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Husoldal Evo",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1b/Halberd_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (53-59) to (253-287)\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 133\nMinimum Dexterity: 91\nDurability: 55\nLevel Requirement: 44\n\n+160-200% Enhanced Damage (varies)\nAdds 20-32 Damage\n20% Increased Attack Speed\n+200-250 to Attack Rating (varies)\nPrevent Monster Heal\nReplenish Life +20\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Pierre Tombale Couant",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/21/Poleaxe_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (100-120) to (215-260)\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 113\nMinimum Dexterity: 67\nDurability: 65\nLevel Requirement: 43\n\n+160-220% Enhanced Damage (varies)\nAdds 12-20 Damage\n55% Deadly Strike\n+100-200 to Attack Rating (varies)\n+3 to Barbarian Skill Levels\n6% Mana Stolen per Hit\n30% Faster Hit Recovery\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Meat Scraper",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/04/Meat_Scraper_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (15-18) to (30-38)\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 80\nMinimum Dexterity: -\nDurability: 50\nLevel Requirement: 41\n\n+150-200% Enhanced Damage (varies)\n50% Chance of Open Wounds\n30% Increased Attack Speed\n10% Life Stolen per Hit\n25% Better Chance of Getting Magic Items\n+3 to Masteries (Barbarian Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Bonehew",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/8b/Bonehew_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (103-117) to (536-609)\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 195\nMinimum Dexterity: 75\nDurability: 50\nLevel Requirement: 64\n\n+270-320% Enhanced Damage (varies)\nLevel 14 Corpse Explosion (30 Charges)\nPrevent Monster Heal\n30% Increased Attack Speed\n50% Chance to Cast Level 16 Bone Spear on Striking\nSocketed (2)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Stormspire",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/19/War_Scythe_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (100-140) to (285-399)\nMelee Range: 5\nAttack Speed: [-10]\nMinimum Strength: 188\nMinimum Dexterity: 140\nDurability: Indestructible\nLevel Requirement: 70\n\n+150-250% Enhanced Damage (varies)\nAdds 1-237 Lightning Damage\n2% Chance to Cast Level 20 Charged Bolt When Struck\n5% Chance to Cast Level 5 Chain Lightning When Struck\n30% Increased Attack Speed\nLightning Resist +50%\n+10 to Strength\nAttacker Takes Lightning Damage of 27\nIndestructible\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "The Reaper's Toll",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/cd/Scythe_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (34-40) to (408-479)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 114\nMinimum Dexterity: 89\nDurability: 50\nLevel Requirement: 75\n\n+190-240% Enhanced Damage (varies)\nIgnore Target's Defense\nAdds 4-44 Cold Damage - 0-2 Second Duration (varies)\n11-15% Life Stolen per Hit (varies)\n33% Deadly Strike\n33% Chance to Cast Level 1 Decrepify on Striking\nRequirements -25%\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Tomb Reaver",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/21/Poleaxe_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (99-125) to (450-570)\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 165\nMinimum Dexterity: 103\nDurability: 65\nLevel Requirement: 84\n\n+200-280% Enhanced Damage (varies)\n+150-230% Damage to Undead (varies)\n60% Increased Attack Speed\n+250-350 to Attack Rating Against Undead (varies)\nAll Resistances +30-50 (varies)\n10% Reanimate as: Returned\n+10-14 Life After Each Kill (varies)\n50-80% Better Chance of Getting Magic Items (varies)\n+4 to Light Radius\nSocketed (1-3) (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Soul Harvest",
+		"url": "https://i.imgur.com/i3njjgM.png",
+		"properties": "2H Damage: (12-15) to (30-38)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 41\nMinimum Dexterity: 41\nDurability: 65\nLevel Requirement: 19\n\n+50-90% Enhanced Damage (varies)\n30% Chance of Open Wounds\n10% Mana Stolen per Hit\n+45 to Attack Rating\n+5 to Energy\nAll Resistances +20\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Bloodrise",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/58/Bloodrise_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 15 to 35\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 36\nMinimum Dexterity: -\nDurability: 72\nLevel Requirement: 15\n\n+120% Enhanced Damage\n+50% Damage to Undead\n25% Chance of Open Wounds\n10% Increased Attack Speed\n5% Life Stolen per Hit\n50% Bonus to Attack Rating\n+3 to Sacrifice (Paladin Only)\n+2 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Bonesnap",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/42/Bonesnap_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (90-120) to (129-172)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 69\nMinimum Dexterity: -\nDurability: 60\nLevel Requirement: 24\n\n+200-300% Enhanced Damage (varies)\n+100% Damage to Undead\n40% Chance of Crushing Blow\nCold Resist +30%\nFire Resist +30%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Crushflange",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/86/Crushflange_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 4 to (15-16)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 27\nMinimum Dexterity: -\nDurability: 60\nLevel Requirement: 9\n\n+50-60% Enhanced Damage (varies)\n+50% Damage to Undead\n33% Chance of Crushing Blow\nKnockback\nFire Resist +50%\n+15 to Strength\n+2 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Felloak",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/22/Felloak_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 1 to 10\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 24\nLevel Requirement: 3\n\n+70-80% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 6-8 Fire Damage\nKnockback\nLightning Resist +60%\nFire Resist +20%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Ironstone",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/5e/Ironstone_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (38-47) to (58-72)\nMelee Range: 1\nAttack Speed: [20]\nMinimum Strength: 53\nMinimum Dexterity: -\nDurability: 55\nLevel Requirement: 27\n\n+100-150% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 1-10 Lightning Damage\n+100-150 to Attack Rating (varies)\n+10 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Steeldriver",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a4/Steeldriver_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (95-133) to (145-203)\nMelee Range: 3\nAttack Speed: [20]\nMinimum Strength: 50\nMinimum Dexterity: -\nDurability: 60\nLevel Requirement: 29\n\n+150-250% Enhanced Damage (varies)\n+50% Damage to Undead\n40% Increased Attack Speed\nRequirements -50%\nHeal Stamina Plus 25%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Stoutnail",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/05/Stoutnail_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 10 to 16\nMelee Range: 2\nAttack Speed: [00]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 36\nLevel Requirement: 5\n\n+100% Enhanced Damage\n+50% Damage to Undead\n+7 to Vitality\nAttacker Takes Damage of 3-10 (varies)\nMagic Damage Reduced by 2\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The General's Tan Do Li Ga",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/69/The_General%27s_Tan_Do_Li_Ga_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 2 to (56-58)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 41\nMinimum Dexterity: 35\nDurability: 30\nLevel Requirement: 21\n\n+50-60% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 1-20 Damage\n20% Increased Attack Speed\n5% Mana Stolen per Hit\nSlows Target by 50%\n+25 Defense\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Baezil's Vortex",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/69/The_General%27s_Tan_Do_Li_Ga_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (33-39) to (91-105)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 82\nMinimum Dexterity: 73\nDurability: 30\nLevel Requirement: 45\n\n+160-200% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 1-150 Lightning Damage\n20% Increased Attack Speed\n5% Chance to Cast Level 8 Nova on Striking\nLevel 15 Nova (80 Charges)\nLightning Resist +25%\n+100 to Mana\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Bloodtree Stump",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/7d/Maul_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (148-169) to (218-249)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 124\nMinimum Dexterity: -\nDurability: 100\nLevel Requirement: 48\n\n+180-220% Enhanced Damage (varies)\n+50% Damage to Undead\n50% Chance of Crushing Blow\nAll Resistances +20\n+25 to Strength\n+2 to Masteries (Barbarian Only)\n+3 to Mace Mastery (Barbarian Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Dark Clan Crusher",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/22/Felloak_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 17 to 61\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 24\nLevel Requirement: 34\n\n+195% Enhanced Damage\n+200% Damage to Demons\n+50% Damage to Undead\n+200 to Attack Rating Against Demons\n20-25% Bonus to Attack Rating (varies)\n+15 to Life After Each Demon Kill\n+2 to Druid Skill Levels\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Earthshaker",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/56/War_Hammer_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 98 to 162\nMelee Range: 1\nAttack Speed: [20]\nMinimum Strength: 100\nMinimum Dexterity: -\nDurability: 105\nLevel Requirement: 43\n\n+180% Enhanced Damage\n+50% Damage to Undead\n5% Chance to Cast Level 7 Fissure on Striking\n30% Increased Attack Speed\nHit Blinds Target\nKnockback\n+3 to Elemental Skills (Druid Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Fleshrender",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/05/Stoutnail_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (62-72) to (109-128)\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 30\nMinimum Dexterity: -\nDurability: 56\nLevel Requirement: 38\n\n+130-200% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 35-50 Damage\n20% Deadly Strike\n20% Chance of Crushing Blow\n25% Chance of Open Wounds\nPrevent Monster Heal\n+1 to Druid Skill Levels\n+2 to Shapeshifting Skills (Druid Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Moonfall",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/58/Bloodrise_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (54-60) to (83-92)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 74\nMinimum Dexterity: -\nDurability: 72\nLevel Requirement: 41\n\n+120-150% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 10-15 Damage\nAdds 55-115 Fire Damage\n5% Chance to Cast Level 6 Meteor on Striking\nLevel 11 Meteor (60 Charges)\nMagic Damage Reduced by 9-12 (varies)\n+2 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Sureshrill Frost",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/86/Crushflange_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (42-47) to (67-74)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 61\nMinimum Dexterity: -\nDurability: 60\nLevel Requirement: 39\n\n+150-180% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 5-10 Damage\nAdds 63-112 Cold Damage - 5 Second Duration\nFreezes Target +3\nLevel 9 Frozen Orb (50 Charges)\nCannot be Frozen\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Gavel of Pain",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d1/The_Gavel_of_Pain_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (152-170) to (257-287)\nMelee Range: 3\nAttack Speed: [20]\nMinimum Strength: 169\nMinimum Dexterity: -\nDurability: Indestructible\nLevel Requirement: 45\n\n+130-160% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 12-30 Damage\n5% Chance to Cast Level 1 Iron Maiden When Struck\n5% Chance to Cast Level 1 Amplify Damage on Striking\nLevel 8 Amplify Damage (3 Charges)\nAttacker Takes Damage of 26\nIndestructible\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Baranar's Star",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/58/Bloodrise_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 129 to 159\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 153\nMinimum Dexterity: 44\nDurability: 172\nLevel Requirement: 65\n\n+200% Enhanced Damage\n+50% Damage to Undead\nAdds 1-200 Fire Damage\nAdds 1-200 Lightning Damage\nAdds 1-200 Cold Damage - 0-7 Second Duration (varies)\n50% Increased Attack Speed\n200% Bonus to Attack Rating\n+15 to Dexterity\n+15 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Demon Limb",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/05/Stoutnail_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (89-105) to (162-191)\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 133\nMinimum Dexterity: -\nDurability: 65\nLevel Requirement: 63\n\n+180-230% Enhanced Damage (varies)\n+50% Damage to Undead\n+123% Damage to Demons\nAdds 222-333 Fire Damage\n7-13% Life Stolen per Hit (varies)\nFire Resist +15-20% (varies)\nLevel 23 Enchant (20 Charges)\nRepairs 1 Durability Every 20 Seconds\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Earth Shifter",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2d/Great_Maul_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (115-132) to (630-720)\nMelee Range: 3\nAttack Speed: [20]\nMinimum Strength: 253\nMinimum Dexterity: -\nDurability: 60\nLevel Requirement: 69\n\n+250-300% Enhanced Damage (varies)\n+50% Damage to Undead\n+7 to Elemental Skills (Druid Only)\n25% Chance to Cast Level 14 Fissure on Striking\n10% Increased Attack Speed\n33% Chance of Crushing Blow\n10% Faster Cast Rate\nLevel 14 Volcano (30 Charges)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Horizon's Tornado",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/69/The_General%27s_Tan_Do_Li_Ga_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (9-11) to (264-304)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 100\nMinimum Dexterity: 62\nDurability: 65\nLevel Requirement: 64\n\n+230-280% Enhanced Damage (varies)\n+50% Damage to Undead\n50% Increased Attack Speed\nSlows Target by 20%\n20% Chance to Cast Level 15 Tornado on Striking\nRequirements -20%\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Nord's Tenderizer",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/22/Felloak_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (129-150) to (159-184)\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 88\nMinimum Dexterity: 43\nDurability: 55\nLevel Requirement: 68\n\n+270-330% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 205-455 Cold Damage - 5 Second Duration\nFreezes Target +2-4 (varies)\nCold Absorb 5-15% (varies)\n25% Increased Attack Speed\nLevel 16 Blizzard (12 Charges)\n150-180% Bonus to Attack Rating (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Schaefer's Hammer",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/5e/Ironstone_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (100-114) to (124-338)\nMelee Range: 1\nAttack Speed: [20]\nMinimum Strength: 189\nMinimum Dexterity: -\nDurability: Indestructible\nLevel Requirement: 79\n\n+100-130% Enhanced Damage (varies)\n+50% Damage to Undead\n+2-198 to Maximum Damage (+2 per Character Level)\nAdds 50-200 Lightning Damage\n20% Chance to Cast Level 10 Static Field on Striking\n+8-792 to Attack Rating (+8 per Character Level)\nLightning Resist +75%\n+50 to Life\n+1 to Light Radius\nIndestructible\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Stone Crusher",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/56/War_Hammer_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (190-210) to (231-256)\nMelee Range: 1\nAttack Speed: [20]\nMinimum Strength: 189\nMinimum Dexterity: -\nDurability: 65\nLevel Requirement: 68\n\n+280-320% Enhanced Damage (varies)\n+50% Damage to Undead\nDamage +10-30 (varies)\n-25% Target Defense\n40% Chance of Crushing Blow\n-100 to Monster Defense per Hit\n+20-30 to Strength (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Stormlash",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/69/The_General%27s_Tan_Do_Li_Ga_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (10-12) to (272-320)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 125\nMinimum Dexterity: 77\nDurability: 65\nLevel Requirement: 82\n\n+240-300% Enhanced Damage (varies)\n+50% Damage to Undead\nAdds 1-473 Lightning Damage\n30% Increased Attack Speed\n33% Chance of Crushing Blow\n20% Chance to Cast Level 18 Tornado on Striking\n15% Chance to Cast Level 10 Static Field on Striking\n+3-9 Lightning Absorb (varies)\nAttacker Takes Lightning Damage of 30\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "The Cranium Basher",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2d/Great_Maul_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (119-132) to (560-632)\nMelee Range: 3\nAttack Speed: [20]\nMinimum Strength: 253\nMinimum Dexterity: -\nDurability: Indestructible\nLevel Requirement: 87\n\n+200-240% Enhanced Damage (varies)\n+50% Damage to Undead\n+20 to Minimum Damage\n75% Chance of Crushing Blow\n4% Chance to Cast Level 1 Amplify Damage on Striking\n20% Increased Attack Speed\nAll Resistances +25\n+25 to Strength\n+20 to Maximum Damage (not shown)\nIndestructible\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Windhammer",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/60/Windhammer_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (215-254) to (296-349)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 225\nMinimum Dexterity: -\nDurability: 60\nLevel Requirement: 68\n\n+180-230% Enhanced Damage (varies)\n+50% Damage to Undead\n50% Chance of Crushing Blow\n60% Increased Attack Speed\n33% Chance to Cast Level 22 Twister on Striking\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Demon's Arch",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/93/Demon%27s_Arch_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (85-102) to (163-195)\nAttack Speed: [10]\nMinimum Strength: 127\nMinimum Dexterity: 95\nLevel Requirement: 68\n\n+160-210% Enhanced Damage (varies)\nAdds 232-323 Fire Damage\nAdds 23-333 Lightning Damage\n30% Increased Attack Speed\n6-12% Life Stolen per Hit (varies)\nReplenishes 1 Quantity Every 3 Seconds\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Wraith Flight",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/96/Wraith_Flight_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (70-81) to (225-261)\nAttack Speed: [20]\nMinimum Strength: 79\nMinimum Dexterity: 127\nLevel Requirement: 76\n\n+150-190% Enhanced Damage (varies)\n9-13% Life Stolen per Hit (varies)\n+15 to Mana After Each Kill\nReplenishes 1 Quantity Every 2 Seconds\nEthereal (Cannot be Repaired)<p>\n(Ladder On\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Gargoyle's Bite",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/cf/Gargoyle%27s_Bite_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (75-89) to (98-1151)\nAttack Speed: [-10]\nMinimum Strength: 70\nMinimum Dexterity: 145\nLevel Requirement: 70\n\n+180-230% Enhanced Damage (varies)\n+293 Poison Damage Over 10 Seconds\nLevel 11 Plague Javelin (60 Charges)\n9-15% Life Stolen per Hit (varies)\nReplenishes 1 Quantity Every 3 Seconds\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Gull",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d6/Dagger_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 2 to 19\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 16\nLevel Requirement: 4\n\nAdds 1-15 Damage\n100% Better Chance of Getting Magic Items\n-5 to Mana\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Spectral Shard",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/df/Spectral_Shard_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 4 to 15\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 35\nMinimum Dexterity: 51\nDurability: 24\nLevel Requirement: 25\n\n50% Faster Cast Rate\n+55 to Attack Rating\nAll Resistances +10\n+50 to Mana\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Diggler",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/33/The_Diggler_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 4 to 13\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: 25\nDurability: 20\nLevel Requirement: 11\n\n+50% Enhanced Damage\nIgnore Target's Defense\n30% Increased Attack Speed\nCold Resist +25%\nFire Resist +25%\n+10 to Dexterity\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Jade Tan Do",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/fa/The_Jade_Tan_Do_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 2 to 11\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: -\nMinimum Dexterity: 45\nDurability: 24\nLevel Requirement: 19\n\n+100-150 to Attack Rating (varies)\n+180 Poison Damage Over 4 Seconds\nPoison Resist +95%\n+20% to Maximum Poison Resist\nCannot be Frozen\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Blackbog's Sharp",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/fa/The_Jade_Tan_Do_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 30 to 76\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 25\nMinimum Dexterity: 88\nDurability: 24\nLevel Requirement: 38\n\n+488 Poison Damage Over 10 Seconds\nAdds 15-45 Damage\n30% Increased Attack Speed\nSlows Target by 50%\n+50 Defense\n+4 to Poison Nova (Necromancer Only)\n+4 to Poison Explosion (Necromancer Only)\n+5 to Poison Dagger (Necromancer Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Heart Carver",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/3/33/The_Diggler_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (44-49) to (110-123)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: 58\nDurability: 20\nLevel Requirement: 36\n\n+190-240% Enhanced Damage (varies)\nAdds 15-35 Damage\n35% Deadly Strike\nIgnore Target's Defense\n+4 to Grim Ward (Barbarian Only)\n+4 to Find Item (Barbarian Only)\n+4 to Find Potion (Barbarian Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Spineripper",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d6/Dagger_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (33-35) to (81-88)\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 16\nLevel Requirement: 32\n\n+200-240% Enhanced Damage (varies)\nAdds 15-27 Damage\n15% Increased Attack Speed\n+1 to Necromancer Skill Levels\nPrevent Monster Heal\nIgnore Target's Defense\n8% Life Stolen per Hit\n+10 to Dexterity\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Stormspike",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/93/Stormspike.gif",
+		"properties": "1H Damage: 47 to 90\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 47\nMinimum Dexterity: 97\nDurability: 24\nLevel Requirement: 41\n\n+150% Enhanced Damage\nAdds 1-120 Lightning Damage\n25% Chance to Cast Level 3 Charged Bolt When Struck\nLightning Resist +1-99% (+1% per Character Level)\nAttacker Takes Lightning Damage of 20\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Fleshripper",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/fa/The_Jade_Tan_Do_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (45-60) to (174-228)\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 42\nMinimum Dexterity: 86\nDurability: 36\nLevel Requirement: 68\n\n+200-300% Enhanced Damage (varies)\n-50% Target Defense\n25% Chance of Crushing Blow\n33% Deadly Strike\n50% Chance of Open Wounds\nPrevent Monster Heal\nSlows Target by 20%\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Ghostflame",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/23/Ghostflame_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (133-156) to (203-238)\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 55\nMinimum Dexterity: 57\nDurability: Indestructible\nLevel Requirement: 66\n\n+190-240% Enhanced Damage (varies)\nIgnore Target's Defense\n+108 Magic Damage\n10-15% Mana Stolen per Hit (varies)\n+2 to Light Radius\nIndestructible\nEthereal (Cannot be Repaired)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Wizardspike",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d6/Dagger_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 23 to 49\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 38\nMinimum Dexterity: 75\nDurability: Indestructible\nLevel Requirement: 61\n\n+2-198 to Mana (+2 per Character Level)\n50% Faster Cast Rate\nRegenerate Mana 15%\nIncrease Maximum Mana 15%\nAll Resistances +75\nIndestructible"
+	},
+	{
+		"name": "Doomslinger",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/80/Doomslinger_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (9-12) to (19-24)\nAttack Speed: [-40]\nMinimum Strength: 40\nMinimum Dexterity: 50\nLevel Requirement: 28\n\n+60-100% Enhanced Damage (varies)\nPiercing Attack (35%)\n30% Increased Attack Speed\n+1 to Amazon Skill Levels\n+15 to Life\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Hellcast",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/9e/Hellcast_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (23-25) to (44-46)\nAttack Speed: [10]\nMinimum Strength: 60\nMinimum Dexterity: 40\nLevel Requirement: 27\n\n+70-80% Enhanced Damage (varies)\nFires Explosive Bolts (Level 5)\nAdds 15-35 Fire Damage\n20% Increased Attack Speed\n+70 to Attack Rating\n+15% to Maximum Fire Resist\nFire Resist +15%\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Ichorstring",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6e/Ichorsting_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 13 to 24\nAttack Speed: [0]\nMinimum Strength: 40\nMinimum Dexterity: 33\nLevel Requirement: 18\n\n+50% Enhanced Damage\n+30 Poison Damage Over 3 Seconds\n20% Increased Attack Speed\nPiercing Attack (50%)\n+50 to Attack Rating\n+20 to Dexterity\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Leadcrow",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a4/Leadcrow_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 10 to 15\nAttack Speed: [-10]\nMinimum Strength: 21\nMinimum Dexterity: 27\nLevel Requirement: 9\n\n+70% Enhanced Damage\n25% Deadly Strike\n+40 to Attack Rating\nPoison Resist +30%\n+10 to Life\n+10 to Dexterity"
+	},
+	{
+		"name": "Demon Machine",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/7f/Demon_Machine_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 31 to 137\nAttack Speed: [-60]\nMinimum Strength: 80\nMinimum Dexterity: 95\nLevel Requirement: 49\n\n+123% Enhanced Damage\n+66 to Maximum Damage\nFires Explosive Bolts (Level 6)\n+632 to Attack Rating\nPiercing Attack (66%)\n+321 Defense\n+36 to Mana\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Langer Briser",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/76/Langerbriser.gif",
+		"properties": "2H Damage: (37-42) to (82-111)\nAttack Speed: [-10]\nMinimum Strength: 52\nMinimum Dexterity: 61\nLevel Requirement: 33\n\n+170-200% Enhanced Damage (varies)\n+10-30 to Maximum Damage (varies)\n33% Chance of Open Wounds\nAdds 1-212 Lightning Damage\n+30 to Life\nKnockback\n30-60% Better Chance of Getting Magic Items (varies)"
+	},
+	{
+		"name": "Hellrack",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/9e/Hellcast_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (89-105) to (254-300)\nAttack Speed: [10]\nMinimum Strength: 163\nMinimum Dexterity: 77\nLevel Requirement: 76\n\n+180-230% Enhanced Damage (varies)\n100-150% Bonus to Attack Rating (varies)\nAdds 63-324 Fire Damage\nAdds 63-324 Lightning Damage\nAdds 63-324 Cold Damage\n20% Increased Attack Speed\nLevel 18 Immolation Arrow (150 Charges)\nSocketed (2)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Buriza-Do Kyanon",
+		"url": "https://i.imgur.com/NmPJ8HW.gif",
+		"properties": "2H Damage: (82-99) to (139-412)\nAttack Speed: [10]\nMinimum Strength: 110\nMinimum Dexterity: 80\nLevel Requirement: 41\n\n+150-200% Enhanced Damage (varies)\n+2-247 to Maximum Damage (+2.5 per Character Level)\nAdds 32-196 Cold Damage - 8 Second Duration\nPiercing Attack (100%)\nFreezes Target +3\n+75-150 Defense (varies)\n+35 to Dexterity\n80% Increased Attack Speed\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Pus Spitter",
+		"url": "https://i.imgur.com/nbwbyn5.png",
+		"properties": "2H Damage: (50-64) to (105-134)\nAttack Speed: [0]\nMinimum Strength: 32\nMinimum Dexterity: 28\nLevel Requirement: 36\n\n+150-220% Enhanced Damage (varies)\n+150 Poison Damage Over 8 Seconds\nRequirements -60%\n9% Chance to Cast Level 6 Poison Nova When Struck\n4% Chance to Cast Level 1 Lower Resist on Striking\n+5-495 to Attack Rating (+5 per Character Level)\n10% Increased Attack Speed\n+2 to Necromancer Skill Levels"
+	},
+	{
+		"name": "Gut Siphon",
+		"url": "https://i.imgur.com/Qua6esZ.gif",
+		"properties": "2H Damage: (67-83) to (104-128)\nAttack Speed: [-60]\nMinimum Strength: 141\nMinimum Dexterity: 98\nLevel Requirement: 71\n\n+160-220% Enhanced Damage (varies)\nPiercing Attack (33%)\n12-18% Life Stolen per Hit (varies)\n33% Chance of Open Wounds\nSlows Target by 25%\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Blastbark",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/7b/Long_War_Bow_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (5-6) to (39-52)\nAttack Speed: [10]\nMinimum Strength: 50\nMinimum Dexterity: 65\nLevel Requirement: 28\n\n+70-130% Enhanced Damage (varies)\n+1 to Amazon Skill Levels\n3% Mana Stolen per Hit\n+5 to Strength\n+2 to Exploding Arrow (Amazon Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Hellclap",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/54/Hellclap_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (10-11) to (23-26)\nAttack Speed: [0]\nMinimum Strength: 35\nMinimum Dexterity: 55\nLevel Requirement: 27\n\n+70-90% Enhanced Damage (varies)\nAdds 15 to (30-50) Fire Damage (varies)\n10% Increased Attack Speed\n+50-75 to Attack Rating (varies)\n+1 to Fire Skills\nFire Resist +40%\n+12 to Dexterity\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Pluckeye",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/aa/Pluckeye_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 2 to 8\nAttack Speed: [5]\nMinimum Strength: -\nMinimum Dexterity: 15\nLevel Requirement: 7\n\n+100% Enhanced Damage\n+28 to Attack Rating\n3% Mana Stolen per Hit\n+10 to Life\n+2 to Mana After Each Kill\n+2 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Raven Claw",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/b/b7/Raven_Claw_%28Diablo_II%29_.gif",
+		"properties": "2H Damage: (4-5) to (16-17)\nAttack Speed: [0]\nMinimum Strength: 22\nMinimum Dexterity: 19\nLevel Requirement: 15\n\n+60-70% Enhanced Damage (varies)\nFires Explosive Arrows (Level 3)\n50% Bonus to Attack Rating\n+3 to Dexterity\n+3 to Strength\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Rogue's Bow",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1a/Rogue%27s_Bow_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (5-6) to (11-12)\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 35\nLevel Requirement: 20\n\n+40-60% Enhanced Damage (varies)\n+100% Damage to Undead\n30% Deadly Strike\n50% Increased Attack Speed\n+60 to Attack Rating\nAll Resistances +10\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Stormstrike",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/c/c6/Stormstrike_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (8-9) to (18-20)\nAttack Speed: [0]\nMinimum Strength: 30\nMinimum Dexterity: 40\nLevel Requirement: 25\n\n+70-90% Enhanced Damage (varies)\nAdds 1-30 Lightning Damage\nPiercing Attack (25%)\n+28 to Attack Rating\nLightning Resist +25%\n+8 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Witherstring",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/45/Witherstring_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (3-4) to (11-12)\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: 28\nLevel Requirement: 13\n\n+40-50% Enhanced Damage (varies)\nFires Magic Arrows (Level 3)\nAdds 1-3 Damage\n30% Increased Attack Speed\n+50 to Attack Rating\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Wizendraw",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f6/Wizendraw_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 5 to (30-32)\nAttack Speed: [10]\nMinimum Strength: 40\nMinimum Dexterity: 50\nLevel Requirement: 26\n\n+70-80% Enhanced Damage (varies)\n+50-100 to Attack Rating\nFires Magic Arrows (Level 5)\n20% Increased Attack Speed\nCold Resist +26%\n+15 to Energy\n+30 to Mana\n-(20-35)% to Enemy Cold Resistance (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Cliffkiller",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a8/Long_Battle_Bow_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (34-43) to (141-168)\nAttack Speed: [10]\nMinimum Strength: 80\nMinimum Dexterity: 95\nLevel Requirement: 41\n\n+190-230% Enhanced Damage (varies)\nAdds (5-10) to (20-30) Damage (varies)\n+2 to Amazon Skill Levels\n+80 Defense vs. Missile\n+50 to Life\nKnockback\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Endlesshail",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/1/1a/Rogue%27s_Bow_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (30-35) to (72-83)\nAttack Speed: [-10]\nMinimum Strength: 58\nMinimum Dexterity: 73\nLevel Requirement: 36\n\n+180-220% Enhanced Damage (varies)\nAdds 15-30 Cold Damage - 3 Second Duration\nCold Resist +35%\n+50 Defense vs. Missile\n+40 to Mana\n+3-5 to Strafe (varies) (Amazon Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Goldstrike Arch",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/93/Goldstrike_Arch_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (30-35) to (150-175)\nAttack Speed: [10]\nMinimum Strength: 95\nMinimum Dexterity: 118\nLevel Requirement: 46\n\n+200-250% Enhanced Damage (varies)\n+100-200% Damage to Demons (varies)\n+100-200% Damage to Undead (varies)\n50% Increased Attack Speed\n5% Chance to Cast Level 7 Fist of the Heavens on Striking\nReplenish Life +12\n100-150% Bonus to Attack Rating (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Kuko Shakaku",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/69/Kuko_Shakaku_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (25-28) to (72-81)\nAttack Speed: [0]\nMinimum Strength: 53\nMinimum Dexterity: 49\nLevel Requirement: 33\n\n+150-180% Enhanced Damage (varies)\nFires Explosive Arrows (Level 7)\nPiercing Attack (50%)\nAdds 40-180 Fire Damage\n+3 to Immolation Arrow (Amazon Only)\n+3 to Bow and Crossbow Skills (Amazon Only)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Magewrath",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/54/Hellclap_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (55-60) to (127-137)\nAttack Speed: [0]\nMinimum Strength: 73\nMinimum Dexterity: 103\nLevel Requirement: 43\n\n+120-150% Enhanced Damage (varies)\nAdds 25-50 Damage\n+200-250 to Attack Rating (varies)\n+1 to Amazon Skill Levels\nHit Blinds Target\n15% Mana Stolen per Hit\nMagic Damage Reduced by 9-13 (varies)\n+10 to Dexterity\n+3 to Guided Arrow (Amazon Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Riphook",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/0c/Riphook_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (22-25) to (61-70)\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 62\nLevel Requirement: 31\n\n+180-220% Enhanced Damage (varies)\nSlows Target by 30%\n30% Chance of Open Wounds\n30% Increased Attack Speed\n7-10% Life Stolen per Hit (varies)\n+35 to Mana\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Skystrike",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e8/Short_Bow_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (17-21) to (50-60)\nAttack Speed: [5]\nMinimum Strength: 25\nMinimum Dexterity: 43\nLevel Requirement: 28\n\n+150-200% Enhanced Damage (varies)\nAdds 1-250 Lightning Damage\n2% Chance to Cast Level 6 Meteor on Striking\n30% Increased Attack Speed\n+100 to Attack Rating\n+1 to Amazon Skill Levels\n+10 to Energy\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Witchwild String",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/b/b7/Witchwild_String_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (32-35) to (75-81)\nAttack Speed: [0]\nMinimum Strength: 65\nMinimum Dexterity: 80\nLevel Requirement: 39\n\n+150-170% Enhanced Damage (varies)\nFires Magic Arrows (Level 20)\n2% Chance to Cast Level 5 Amplify Damage on Striking\n+1-99% Deadly Strike (+1% per Character Level)\nAll Resistances +40\nSocketed (2)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Eaglehorn",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/47/Eaglehorn_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 45 to (190-313)\nAttack Speed: [10]\nMinimum Strength: 97\nMinimum Dexterity: 121\nLevel Requirement: 69\n\n+200% Enhanced Damage\n+2-198% Enhanced Maximum Damage (+2% per Character Level)\n+1 to Amazon Skill Levels\n+6-594 to Attack Rating (+6 per Character Level)\n+25 to Dexterity\nIgnore Target's Defense\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Widowmaker",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/ee/Widowmaker_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (50-60) to (132-159)\nAttack Speed: [0]\nMinimum Strength: 72\nMinimum Dexterity: 146\nLevel Requirement: 65\n\n+150-200% Enhanced Damage (varies)\nIgnore Target's Defense\n33% Deadly Strike\n+3-5 to Guided Arrow (varies)\nFires Magic Arrows (Level 11)<p>\n(Ladder On\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Windforce",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/0a/Windforce_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 35 to (241-547)\nAttack Speed: [10]\nMinimum Strength: 134\nMinimum Dexterity: 167\nLevel Requirement: 73\n\n+250% Enhanced Damage\n+3-309 to Maximum Damage (+3.125 per Character Level)\n20% Increased Attack Speed\n6-8% Mana Stolen per Hit (varies)\nHeal Stamina +30%\n+10 to Strength\n+5 to Dexterity\nKnockback\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Gnasher",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f1/The_Gnasher_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (4-5) to (9-10)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 28\nLevel Requirement: 5\n\n+60-70% Enhanced Damage (varies)\n20% Chance of Crushing Blow\n50% Chance of Open Wounds\n+8 To Strength\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Deathspade",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a2/Deathspade_%28Diablo_II%29.gif",
+		"properties": "1H Damage: 14 to (17-18)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 32\nMinimum Dexterity: -\nDurability: 24\nLevel Requirement: 9\n\n+60-70% Enhanced Damage (varies)\n+8 to Minimum Damage\n15% Bonus to Attack Rating\nHit Blinds Target\n+4 to Mana After Each Kill\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Bladebone",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/42/Bladebone_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (6-7) to (16-19)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 43\nMinimum Dexterity: -\nDurability: 24\nLevel Requirement: 15\n\n+30-50% Enhanced Damage (varies)\n+100% Damage to Undead\nAdds 8-12 Fire Damage\n20% Increased Attack Speed\n+40 to Attack Rating Against Undead\n+20 Defense\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Skull Splitter",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/9e/Skull_Splitter_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (11-14) to (17-22)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 49\nMinimum Dexterity: 33\nDurability: 26\nLevel Requirement: 21\n\n+60-100% Enhanced Damage (varies)\nAdds 1 to (12-15) Lightning Damage (varies)\n+50-100 to Attack Rating (varies)\n15% Chance of Open Wounds\nHit Blinds Target\nRegenerate Mana 20%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Rakescar",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d2/War_Axe_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (17-25) to (31-45)\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 67\nMinimum Dexterity: -\nDurability: 26\nLevel Requirement: 27\n\n+75-150% Enhanced Damage (varies)\n+38 Poison Damage Over 3 Seconds\n30% Increased Attack Speed\n+50 to Attack Rating\nPoison Resist +50%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Axe of Fechmar",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/48/Large_Axe_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (10-11) to (22-24)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 35\nMinimum Dexterity: -\nDurability: 30\nLevel Requirement: 8\n\n+70-90% Enhanced Damage (varies)\nFreezes Target +3\nCold Resist +50%\n+2 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Goreshovel",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/8/8b/Broad_Axe_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (14-15) to (34-36)\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 48\nMinimum Dexterity: -\nDurability: 35\nLevel Requirement: 14\n\n+40-50% Enhanced Damage (varies)\n+9 to Maximum Damage\n60% Chance of Open Wounds\n30% Increased Attack Speed\n+25 to Strength\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "The Chieftain",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/46/The_Chieftain_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 24 to 64\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 54\nMinimum Dexterity: -\nDurability: 40\nLevel Requirement: 19\n\n+100% Enhanced Damage\n20% Increased Attack Speed\nAdds 1-40 Lightning Damage\nAll Resistance +10-20 (varies)\n+6 to Mana After Each Kill\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Brainhew",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e3/Brainhew_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (27-30) to (45-54)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 63\nMinimum Dexterity: 39\nDurability: 50\nLevel Requirement: 25\n\n+50-80% Enhanced Damage (varies)\n+14 to Minimum Damage\nAdds 15-35 Fire Damage\n10-13% Mana Stolen per Hit (varies)\n+25 to Mana\n+4 to Light Radius\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Humongous",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a1/Humongous_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (47-56) to (96-124)\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 84\nMinimum Dexterity: -\nDurability: 50\nLevel Requirement: 29\n\n+80-120% Enhanced Damage (varies)\nAdds 8 to (15-25) Damage (varies)\n33% Chance of Crushing Blow\n+20-30 to Strength (varies)\nRequirements +20%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Coldkill",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/7e/Coldkill_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (25-29) to (52-60)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: 25\nDurability: 28\nLevel Requirement: 36\n\n+150-190% Enhanced Damage (varies)\n30% Increased Attack Speed\n10% Chance to Cast Level 10 Ice Blast on Striking\n10% Chance to Cast Level 5 Frost Nova When Struck\nAdds 40 Cold Damage - 2 Second Duration\n+15% to Maximum Cold Resist\nCold Resist +15%\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Butcher's Pupil",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d7/Butcher%27s_Pupil_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (55-60) to (132-149)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 68\nMinimum Dexterity: -\nDurability: Indestructible\nLevel Requirement: 39\n\n+150-200% Enhanced Damage (varies)\nAdds 30-50 Damage\n35% Deadly Strike\n25% Chance of Open Wounds\n30% Increased Attack Speed\nIndestructible\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Islestrike",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/2/2a/Double_Axe_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (35-37) to (102-110)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 85\nMinimum Dexterity: -\nDurability: 24\nLevel Requirement: 43\n\n+170-190% Enhanced Damage (varies)\n25% Chance of Crushing Blow\n+2 to Druid Skill Levels\n+50 Defense vs. Missile\n+10 to All Attributes\n+1 to Fury (Druid Only)\n+1 to Maul (Druid Only)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Pompeii's Wrath",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/5/59/Pompeii%27s_Wrath_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (33-37) to (81-91)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 94\nMinimum Dexterity: 70\nDurability: 26\nLevel Requirement: 45\n\n+140-170% Enhanced Damage (varies)\nAdds 35-150 Fire Damage\nSlows Target by 50%\n4% Chance to Cast Level 8 Volcano on Striking\nKnockback\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Guardian Naga",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d2/War_Axe_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (40-44) to (132-145)\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 121\nMinimum Dexterity: 0\nDurability: 26\nLevel Requirement: 48\n\n+150-180% Enhanced Damage (varies)\n+20 to Maximum Damage\n+250 Poison Damage over 10 Seconds\n5% Chance to Cast Level 8 Poison Nova on Striking\nPoison Resist +30%\nAttacker Takes Damage of 15\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Warlord's Trust",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/0d/Warlord%27s_Trust_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 38 to 93\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 73\nMinimum Dexterity: -\nDurability: 30\nLevel Requirement: 35\n\n+175% Enhanced Damage\nRepairs 1 Durability Every 4 Seconds\n+0-49 to Vitality (+0.5 per Character Level)\nReplenish Life +20\nAll Resistances +10\n+75 Defense\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Spellsteel",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/b/be/Spellsteel_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 55 to 129\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 37\nMinimum Dexterity: -\nDurability: 35\nLevel Requirement: 39\n\n+165% Enhanced Damage\n10% Faster Cast Rate\nRequirements -60%\nRegenerate Mana 25%\n+100 to Mana\nMagic Damage Reduced by 12-15 (varies)\nLevel 12 Firestorm (60 Charges)\nLevel 10 Holy Bolt (100 Charges)\nLevel 1 Teleport (20 Charges)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Stormrider",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/7c/Stormrider_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 83 to 229\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 101\nMinimum Dexterity: -\nDurability: 90\nLevel Requirement: 41\n\n+100% Enhanced Damage\nAdds 35-75 Damage\nAdds 1-200 Lightning Damage\n15% Chance to Cast Level 5 Charged Bolt When Struck\n10% Chance to Cast Level 13-20 Charged Bolt on Striking (varies)\n5% Chance to Cast Level 10 Chain Lightning on Striking\nAttacker Takes Lightning Damage of 15\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Boneslayer Blade",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/e/e3/Brainhew_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (50-57) to (196-224)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 115\nMinimum Dexterity: 79\nDurability: 50\nLevel Requirement: 42\n\n+180-220% Enhanced Damage (varies)\n+5-495 to Attack Rating Against Undead (+5 per Character Level)\n+2-247% Damage to Undead (+2.5% per Character Level)\n50% Chance to Cast Level 12-28 Holy Bolt When Struck (varies)\n20% Increased Attack Speed\n35% Bonus to Attack Rating\n+8 to Strength\nLevel 20 Holy Bolt (200 Charges)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "The Minotaur",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/01/The_Minotaur_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (123-149) to (234-285)\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 125\nMinimum Dexterity: -\nDurability: 50\nLevel Requirement: 45\n\n+140-200% Enhanced Damage (varies)\nAdds 20-30 Damage\nSlows Target by 50%\n30% Chance of Crushing Blow\nHit Blinds Target +2\nHalf Freeze Duration\n+15-20 to Strength (varies)\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Razor's Edge",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/f/f1/The_Gnasher_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (90-107) to (159-188)\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 125\nMinimum Dexterity: 67\nDurability: 28\nLevel Requirement: 67\n\n+175-225% Enhanced Damage (varies)\n40% Increased Attack Speed\n-33% Target Defense\n50% Deadly Strike\n50% Chance of Open Wounds\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Rune Master",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/9e/Runemaster_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (105-122) to (211-244)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 145\nMinimum Dexterity: 45\nDurability: 24\nLevel Requirement: 72\n\n+220-270% Enhanced Damage (varies)\n+5% to Maximum Cold Resist\nCannot be Frozen\nSocketed (3-5) (varies)<p>\n(Ladder On\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Cranebeak",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/9/9e/Skull_Splitter_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (102-120) to (163-192)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 133\nMinimum Dexterity: 547\nDurability: 26\nLevel Requirement: 63\n\n+240-300% Enhanced Damage (varies)\n40% Increased Attack Speed\n-25% Target Defense\nAdds 1-305 Lightning Damage\n20-50% Better Chance of Getting Magic Items (varies)\nLevel 8 Raven (15 Charges)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Death Cleaver",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/d/d2/War_Axe_%28Diablo_II%29.gif",
+		"properties": "1H Damage: (79-91) to (234-269)\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 138\nMinimum Dexterity: 59\nDurability: 26\nLevel Requirement: 70\n\n+230-280% Enhanced Damage (varies)\n40% Increased Attack Speed\n-33% Target Defense\n66% Deadly Strike\n+6-9 to Life After Each Kill (varies)<p>\n(Ladder On\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Ethereal Edge",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/af/Etherealedge.gif",
+		"properties": "2H Damage: (232-260) to (412-462)\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 156\nMinimum Dexterity: 55\nDurability: Indestructible\nLevel Requirement: 74\n\n+150-180% Enhanced Damage (varies)\n+150-200% Damage to Demons (varies)\n+270-350 to Attack Rating (varies)\n25% Increased Attack Speed\nAbsorb Fire +10-12 (varies)\n+5-10 to Life After Each Demon Kill (varies)\nIndestructible\nEthereal (Cannot be Repaired)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Hellslayer",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/0/0b/Hellslayer_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 98 to (278-680)\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 189\nMinimum Dexterity: 33\nDurability: 40\nLevel Requirement: 66\n\n+100% Enhanced Damage\n+3-297% Enhanced Maximum Damage (+3% per Character Level)\nAdds 150-250 Fire Damage\n+0-49 to Strength (+0.5 per Character Level)\n+0-49 to Dexterity (+0.5 per Character Level)\n+25 to Life\n10% Chance to Cast Level 16-20 Fireball on Attack (varies)\n\n(Only Spawns In Patch 1.10 or later)"
+	},
+	{
+		"name": "Messerschmidt's Reaver",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/4/43/Messerschmidt%27s_Reaver_%28Diablo_II%29.gif",
+		"properties": "2H Damage: 177 to (283-514)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 167\nMinimum Dexterity: 59\nDurability: 75\nLevel Requirement: 70\n\n+200% Enhanced Damage\n+2-247% Enhanced Maximum Damage (+2.5% per Character Level)\nAdds 20-240 Fire Damage\n100% Bonus to Attack Rating\n+15 to All Attributes\n\n(Only Spawns In Patch 1.09 or later)"
+	},
+	{
+		"name": "Executioner's Justice",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/a/a1/Humongous_%28Diablo_II%29.gif",
+		"properties": "2H Damage: (204-234) to (421-483)\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 164\nMinimum Dexterity: 55\nDurability: 50\nLevel Requirement: 75\n\n+240-290% Enhanced Damage (varies)\n25% Chance of Crushing Blow\n30% Increased Attack Speed\n-33% Target Defense\n50% Chance to Cast Level 6 Decrepify When You Kill an Enemy<p>\n(Ladder On\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+	}
+]

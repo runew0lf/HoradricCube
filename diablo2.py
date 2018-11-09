@@ -90,5 +90,4 @@ async def on_ready():
 
     await bot.change_presence(activity=discord.Game(name="Stay awhile and listen"))
 
-BOT_TOKEN = "NDg1NzczNTk0NTQzMTI4NTk3.Dm1bhA.GgIp4XojgQ1nJpavTodtR2PhAbs"
 bot.run(config.BOT_TOKEN, bot=True, reconnect=True)
